@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FSDC0/SX52.WAV",
+    "char_map_seq": "2 11 8 21 3 6 15 4 22 22 12 6 4 15 3 19 8 21 9 18 21 16 4 17 6 8 3 10 4 12 17 8 7 3 11 8 21 3 6 21 12 23 12 6 4 15 3 4 6 6 15 4 12 16 3 1",
+    "chars": "<s> h e r _ c l a s s i c a l _ p e r f o r m a n c e _ g a i n e d _ h e r _ c r i t i c a l _ a c c l a i m _ </s>",
+    "char_seq_len": 56
+}

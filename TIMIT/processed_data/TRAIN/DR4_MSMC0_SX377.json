@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MSMC0/SX377.WAV",
+    "char_map_seq": "2 22 11 8 3 4 15 26 4 28 22 3 13 18 14 8 22 3 4 5 18 24 23 3 23 18 18 3 16 24 6 11 3 10 4 21 15 12 6 3 12 17 3 11 12 22 3 9 18 18 7 3 1",
+    "chars": "<s> s h e _ a l w a y s _ j o k e s _ a b o u t _ t o o _ m u c h _ g a r l i c _ i n _ h i s _ f o o d _ </s>",
+    "char_seq_len": 53
+}

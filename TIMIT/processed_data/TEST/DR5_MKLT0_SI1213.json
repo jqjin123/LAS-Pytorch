@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MKLT0/SI1213.WAV",
+    "char_map_seq": "2 16 28 3 18 26 17 3 8 27 19 8 21 12 8 17 6 8 3 11 4 22 3 9 18 15 15 18 26 8 7 3 22 12 16 19 15 8 21 3 15 12 17 8 22 3 1",
+    "chars": "<s> m y _ o w n _ e x p e r i e n c e _ h a s _ f o l l o w e d _ s i m p l e r _ l i n e s _ </s>",
+    "char_seq_len": 47
+}

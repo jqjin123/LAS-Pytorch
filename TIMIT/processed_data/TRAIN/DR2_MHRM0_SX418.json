@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MHRM0/SX418.WAV",
+    "char_map_seq": "2 12 21 12 22 3 23 11 12 17 14 22 3 23 11 12 22 3 29 18 18 3 11 4 22 3 8 15 8 25 8 17 3 22 19 4 17 12 22 11 3 29 8 5 21 4 22 3 1",
+    "chars": "<s> i r i s _ t h i n k s _ t h i s _ z o o _ h a s _ e l e v e n _ s p a n i s h _ z e b r a s _ </s>",
+    "char_seq_len": 49
+}

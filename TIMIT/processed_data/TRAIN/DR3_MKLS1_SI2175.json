@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MKLS1/SI2175.WAV",
+    "char_map_seq": "2 22 11 12 25 8 21 12 17 10 3 11 8 3 19 24 23 3 18 17 3 11 12 22 3 6 15 18 23 11 8 22 3 1",
+    "chars": "<s> s h i v e r i n g _ h e _ p u t _ o n _ h i s _ c l o t h e s _ </s>",
+    "char_seq_len": 34
+}

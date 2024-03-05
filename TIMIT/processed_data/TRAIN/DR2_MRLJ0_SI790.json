@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRLJ0/SI790.WAV",
+    "char_map_seq": "2 26 8 3 22 8 8 16 8 7 3 23 18 3 5 8 3 26 12 23 17 8 22 22 12 17 10 3 23 11 8 3 19 18 19 24 15 4 23 12 18 17 3 8 27 19 15 18 22 12 18 17 3 21 12 10 11 23 3 12 17 3 18 24 21 3 18 26 17 3 5 4 6 14 28 4 21 7 22 3 1",
+    "chars": "<s> w e _ s e e m e d _ t o _ b e _ w i t n e s s i n g _ t h e _ p o p u l a t i o n _ e x p l o s i o n _ r i g h t _ i n _ o u r _ o w n _ b a c k y a r d s _ </s>",
+    "char_seq_len": 81
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MARC0/SI558.WAV",
+    "char_map_seq": "2 12 22 3 4 3 21 8 15 4 27 8 7 3 11 18 16 8 3 4 23 16 18 22 19 11 8 21 8 3 8 17 18 24 10 11 3 23 18 3 11 8 15 19 3 11 8 21 3 18 24 23 10 21 18 26 3 23 11 8 22 8 3 23 21 4 12 23 22 3 1",
+    "chars": "<s> i s _ a _ r e l a x e d _ h o m e _ a t m o s p h e r e _ e n o u g h _ t o _ h e l p _ h e r _ o u t g r o w _ t h e s e _ t r a i t s _ </s>",
+    "char_seq_len": 71
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MWRP0/SX93.WAV",
+    "char_map_seq": "2 6 24 23 3 4 3 22 16 4 15 15 3 6 18 21 17 8 21 3 18 9 9 3 8 4 6 11 3 8 7 10 8 3 1",
+    "chars": "<s> c u t _ a _ s m a l l _ c o r n e r _ o f f _ e a c h _ e d g e _ </s>",
+    "char_seq_len": 35
+}

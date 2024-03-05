@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MMRP0/SX414.WAV",
+    "char_map_seq": "2 12 21 12 22 11 3 28 18 24 17 10 22 23 8 21 22 3 8 4 23 3 9 21 8 22 11 3 14 12 19 19 8 21 22 3 9 18 21 3 5 21 8 4 14 9 4 22 23 3 1",
+    "chars": "<s> i r i s h _ y o u n g s t e r s _ e a t _ f r e s h _ k i p p e r s _ f o r _ b r e a k f a s t _ </s>",
+    "char_seq_len": 51
+}

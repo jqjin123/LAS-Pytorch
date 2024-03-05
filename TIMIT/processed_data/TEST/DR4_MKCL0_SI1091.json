@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MKCL0/SI1091.WAV",
+    "char_map_seq": "2 22 18 15 4 21 3 4 6 23 12 25 12 23 12 8 22 3 6 18 24 15 7 3 19 21 8 22 24 16 4 5 15 28 3 5 21 12 17 10 3 15 18 17 10 3 19 8 21 12 18 7 22 3 18 9 3 9 15 18 18 7 3 18 21 3 7 21 18 24 10 11 23 3 1",
+    "chars": "<s> s o l a r _ a c t i v i t i e s _ c o u l d _ p r e s u m a b l y _ b r i n g _ l o n g _ p e r i o d s _ o f _ f l o o d _ o r _ d r o u g h t _ </s>",
+    "char_seq_len": 75
+}

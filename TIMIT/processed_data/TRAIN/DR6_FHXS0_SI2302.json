@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FHXS0/SI2302.WAV",
+    "char_map_seq": "2 26 11 18 22 18 8 25 8 21 3 25 12 18 15 4 23 8 22 3 18 24 21 3 21 18 18 9 23 21 8 8 3 23 11 8 3 15 8 10 8 17 7 3 22 23 4 23 8 22 3 6 4 17 3 8 27 19 8 6 23 3 16 4 27 12 16 4 15 3 22 18 21 21 18 26 3 1",
+    "chars": "<s> w h o s o e v e r _ v i o l a t e s _ o u r _ r o o f t r e e _ t h e _ l e g e n d _ s t a t e s _ c a n _ e x p e c t _ m a x i m a l _ s o r r o w _ </s>",
+    "char_seq_len": 78
+}

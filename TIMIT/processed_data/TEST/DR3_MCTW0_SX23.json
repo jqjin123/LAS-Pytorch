@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MCTW0/SX23.WAV",
+    "char_map_seq": "2 23 11 18 22 8 3 16 24 22 12 6 12 4 17 22 3 11 4 21 16 18 17 12 29 8 3 16 4 21 25 8 15 18 24 22 15 28 3 1",
+    "chars": "<s> t h o s e _ m u s i c i a n s _ h a r m o n i z e _ m a r v e l o u s l y _ </s>",
+    "char_seq_len": 40
+}

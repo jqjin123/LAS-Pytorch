@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MTAT1/SX419.WAV",
+    "char_map_seq": "2 23 11 8 3 9 18 18 23 5 4 15 15 3 23 8 4 16 3 6 18 4 6 11 3 11 4 22 3 4 3 26 4 23 6 11 3 23 11 12 17 3 4 22 3 4 3 7 12 16 8 3 1",
+    "chars": "<s> t h e _ f o o t b a l l _ t e a m _ c o a c h _ h a s _ a _ w a t c h _ t h i n _ a s _ a _ d i m e _ </s>",
+    "char_seq_len": 53
+}

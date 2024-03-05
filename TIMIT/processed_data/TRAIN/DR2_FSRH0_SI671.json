@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FSRH0/SI671.WAV",
+    "char_map_seq": "2 4 3 11 8 15 19 9 24 15 3 15 8 4 9 15 8 23 3 16 4 28 3 5 8 3 8 17 6 15 18 22 8 7 3 12 17 3 23 11 8 3 15 8 23 23 8 21 3 1",
+    "chars": "<s> a _ h e l p f u l _ l e a f l e t _ m a y _ b e _ e n c l o s e d _ i n _ t h e _ l e t t e r _ </s>",
+    "char_seq_len": 50
+}

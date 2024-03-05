@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MJDG0/SI1042.WAV",
+    "char_map_seq": "2 23 12 16 8 3 4 17 7 3 22 19 4 6 8 3 11 4 25 8 3 5 18 23 11 3 5 8 6 18 16 8 3 6 12 17 8 16 4 23 12 6 3 1",
+    "chars": "<s> t i m e _ a n d _ s p a c e _ h a v e _ b o t h _ b e c o m e _ c i n e m a t i c _ </s>",
+    "char_seq_len": 44
+}

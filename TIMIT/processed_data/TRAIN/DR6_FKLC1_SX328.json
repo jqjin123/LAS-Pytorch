@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FKLC1/SX328.WAV",
+    "char_map_seq": "2 10 21 8 10 18 21 28 3 4 17 7 3 23 18 16 3 6 11 18 22 8 3 23 18 3 26 4 23 6 11 3 6 4 21 23 18 18 17 22 3 12 17 3 23 11 8 3 4 9 23 8 21 17 18 18 17 3 1",
+    "chars": "<s> g r e g o r y _ a n d _ t o m _ c h o s e _ t o _ w a t c h _ c a r t o o n s _ i n _ t h e _ a f t e r n o o n _ </s>",
+    "char_seq_len": 59
+}

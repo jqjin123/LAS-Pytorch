@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MLJB0/SI1940.WAV",
+    "char_map_seq": "2 11 8 3 26 4 22 3 18 17 15 28 3 25 4 10 24 8 15 28 3 4 26 4 21 8 3 18 9 3 23 11 8 3 22 15 24 12 6 12 17 10 3 21 4 12 17 3 1",
+    "chars": "<s> h e _ w a s _ o n l y _ v a g u e l y _ a w a r e _ o f _ t h e _ s l u i c i n g _ r a i n _ </s>",
+    "char_seq_len": 49
+}

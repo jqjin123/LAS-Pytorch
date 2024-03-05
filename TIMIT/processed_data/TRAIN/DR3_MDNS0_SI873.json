@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MDNS0/SI873.WAV",
+    "char_map_seq": "2 5 8 3 6 4 21 8 9 24 15 3 23 11 4 23 3 28 18 24 3 14 8 8 19 3 4 7 8 20 24 4 23 8 3 6 18 25 8 21 4 10 8 3 5 24 23 3 15 18 18 14 3 9 18 21 3 19 15 4 6 8 22 3 23 18 3 22 4 25 8 3 16 18 17 8 28 3 1",
+    "chars": "<s> b e _ c a r e f u l _ t h a t _ y o u _ k e e p _ a d e q u a t e _ c o v e r a g e _ b u t _ l o o k _ f o r _ p l a c e s _ t o _ s a v e _ m o n e y _ </s>",
+    "char_seq_len": 79
+}

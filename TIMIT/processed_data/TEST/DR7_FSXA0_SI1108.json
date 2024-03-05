@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FSXA0/SI1108.WAV",
+    "char_map_seq": "2 18 17 8 3 15 18 18 14 8 7 3 7 18 26 17 3 18 17 3 4 3 22 8 4 3 18 9 3 15 8 4 25 8 22 3 4 3 5 21 8 4 14 12 17 10 3 26 4 25 8 3 18 9 3 9 15 18 26 8 21 3 1",
+    "chars": "<s> o n e _ l o o k e d _ d o w n _ o n _ a _ s e a _ o f _ l e a v e s _ a _ b r e a k i n g _ w a v e _ o f _ f l o w e r _ </s>",
+    "char_seq_len": 63
+}

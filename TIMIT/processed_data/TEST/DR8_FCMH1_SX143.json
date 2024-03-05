@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/FCMH1/SX143.WAV",
+    "char_map_seq": "2 23 11 8 3 22 18 24 17 7 3 18 9 3 13 8 17 17 12 9 8 21 0 22 3 5 24 10 15 8 3 22 6 4 21 8 7 3 23 11 8 3 4 17 23 8 15 18 19 8 3 1",
+    "chars": "<s> t h e _ s o u n d _ o f _ j e n n i f e r ' s _ b u g l e _ s c a r e d _ t h e _ a n t e l o p e _ </s>",
+    "char_seq_len": 52
+}

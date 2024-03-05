@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MSFH1/SI1270.WAV",
+    "char_map_seq": "2 25 4 19 18 21 3 19 21 8 22 22 24 21 8 3 16 8 23 11 18 7 3 1",
+    "chars": "<s> v a p o r _ p r e s s u r e _ m e t h o d _ </s>",
+    "char_seq_len": 24
+}

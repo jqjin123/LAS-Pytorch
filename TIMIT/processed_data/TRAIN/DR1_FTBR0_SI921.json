@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FTBR0/SI921.WAV",
+    "char_map_seq": "2 7 12 9 9 8 21 8 17 6 8 22 3 26 8 21 8 3 21 8 15 4 23 8 7 3 23 18 3 22 18 6 12 4 15 3 8 6 18 17 18 16 12 6 3 4 17 7 3 8 7 24 6 4 23 12 18 17 4 15 3 5 4 6 14 10 21 18 24 17 7 22 3 1",
+    "chars": "<s> d i f f e r e n c e s _ w e r e _ r e l a t e d _ t o _ s o c i a l _ e c o n o m i c _ a n d _ e d u c a t i o n a l _ b a c k g r o u n d s _ </s>",
+    "char_seq_len": 74
+}

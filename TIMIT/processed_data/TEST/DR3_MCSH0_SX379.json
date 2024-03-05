@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MCSH0/SX379.WAV",
+    "char_map_seq": "2 19 4 16 3 10 12 25 8 22 3 7 21 12 25 12 17 10 3 15 8 22 22 18 17 22 3 18 17 3 23 11 24 21 22 7 4 28 22 3 1",
+    "chars": "<s> p a m _ g i v e s _ d r i v i n g _ l e s s o n s _ o n _ t h u r s d a y s _ </s>",
+    "char_seq_len": 41
+}

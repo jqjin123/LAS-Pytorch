@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMAR0/SI1336.WAV",
+    "char_map_seq": "2 23 11 8 22 8 3 26 8 21 8 3 23 11 18 24 10 11 23 3 23 18 3 21 8 19 21 8 22 8 17 23 3 21 8 10 8 17 8 21 4 23 12 17 10 3 9 12 5 8 21 22 3 1",
+    "chars": "<s> t h e s e _ w e r e _ t h o u g h t _ t o _ r e p r e s e n t _ r e g e n e r a t i n g _ f i b e r s _ </s>",
+    "char_seq_len": 54
+}

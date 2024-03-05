@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MJBR0/SX101.WAV",
+    "char_map_seq": "2 14 12 17 7 8 21 10 4 21 23 8 17 3 6 11 12 15 7 21 8 17 3 7 8 6 18 21 4 23 8 3 23 11 8 12 21 3 6 15 4 22 22 21 18 18 16 22 3 9 18 21 3 4 15 15 3 11 18 15 12 7 4 28 22 3 1",
+    "chars": "<s> k i n d e r g a r t e n _ c h i l d r e n _ d e c o r a t e _ t h e i r _ c l a s s r o o m s _ f o r _ a l l _ h o l i d a y s _ </s>",
+    "char_seq_len": 67
+}

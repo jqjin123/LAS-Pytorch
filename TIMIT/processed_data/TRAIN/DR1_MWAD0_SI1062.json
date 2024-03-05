@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MWAD0/SI1062.WAV",
+    "char_map_seq": "2 25 12 23 4 15 3 20 24 8 22 23 12 18 17 22 3 26 18 24 15 7 3 5 8 3 20 24 12 6 14 15 28 3 4 17 22 26 8 21 8 7 3 4 6 6 18 21 7 12 17 10 3 23 18 3 4 3 19 21 8 19 21 8 19 4 21 8 7 3 4 10 8 17 7 4 3 1",
+    "chars": "<s> v i t a l _ q u e s t i o n s _ w o u l d _ b e _ q u i c k l y _ a n s w e r e d _ a c c o r d i n g _ t o _ a _ p r e p r e p a r e d _ a g e n d a _ </s>",
+    "char_seq_len": 78
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MRAB1/SI848.WAV",
+    "char_map_seq": "2 6 4 17 3 28 18 24 21 3 12 17 22 24 21 4 17 6 8 3 6 18 16 19 4 17 28 3 4 12 7 3 28 18 24 3 12 17 3 21 8 7 24 6 12 17 10 3 4 7 16 12 17 12 22 23 21 4 23 12 25 8 3 6 18 22 23 22 3 1",
+    "chars": "<s> c a n _ y o u r _ i n s u r a n c e _ c o m p a n y _ a i d _ y o u _ i n _ r e d u c i n g _ a d m i n i s t r a t i v e _ c o s t s _ </s>",
+    "char_seq_len": 70
+}

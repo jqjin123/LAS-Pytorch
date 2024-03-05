@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MJKR0/SX301.WAV",
+    "char_map_seq": "2 26 8 3 15 12 14 8 3 5 15 8 24 3 6 11 8 8 22 8 3 5 24 23 3 25 12 6 23 18 21 3 19 21 8 9 8 21 22 3 22 26 12 22 22 3 6 11 8 8 22 8 3 1",
+    "chars": "<s> w e _ l i k e _ b l e u _ c h e e s e _ b u t _ v i c t o r _ p r e f e r s _ s w i s s _ c h e e s e _ </s>",
+    "char_seq_len": 54
+}

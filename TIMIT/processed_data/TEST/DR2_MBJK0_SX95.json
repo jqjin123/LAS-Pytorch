@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MBJK0/SX95.WAV",
+    "char_map_seq": "2 12 10 24 4 17 4 22 3 4 17 7 3 4 15 15 12 10 4 23 18 21 22 3 4 21 8 3 23 21 18 19 12 6 4 15 3 21 8 19 23 12 15 8 22 3 1",
+    "chars": "<s> i g u a n a s _ a n d _ a l l i g a t o r s _ a r e _ t r o p i c a l _ r e p t i l e s _ </s>",
+    "char_seq_len": 47
+}

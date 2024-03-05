@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FSCN0/SI705.WAV",
+    "char_map_seq": "2 4 17 23 22 3 6 4 21 21 28 3 23 11 8 3 22 8 8 7 22 3 22 18 3 5 8 23 23 8 21 3 5 8 3 22 24 21 8 3 23 11 4 23 3 23 11 8 21 8 3 4 21 8 3 17 18 3 4 17 23 3 11 12 15 15 22 3 17 8 4 21 5 28 3 1",
+    "chars": "<s> a n t s _ c a r r y _ t h e _ s e e d s _ s o _ b e t t e r _ b e _ s u r e _ t h a t _ t h e r e _ a r e _ n o _ a n t _ h i l l s _ n e a r b y _ </s>",
+    "char_seq_len": 76
+}

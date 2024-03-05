@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MDAW1/SX283.WAV",
+    "char_map_seq": "2 19 15 4 17 17 8 7 3 19 4 21 8 17 23 11 18 18 7 3 18 21 10 4 17 12 29 4 23 12 18 17 22 3 19 21 18 16 18 23 8 3 5 12 21 23 11 3 6 18 17 23 21 18 15 3 1",
+    "chars": "<s> p l a n n e d _ p a r e n t h o o d _ o r g a n i z a t i o n s _ p r o m o t e _ b i r t h _ c o n t r o l _ </s>",
+    "char_seq_len": 57
+}

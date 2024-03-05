@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MBNS0/SI590.WAV",
+    "char_map_seq": "2 5 21 12 7 10 8 22 3 23 24 17 17 8 15 22 3 4 17 7 3 9 8 21 21 12 8 22 3 4 21 8 3 23 11 8 3 16 18 22 23 3 6 18 16 16 18 17 3 16 8 23 11 18 7 22 3 18 9 3 21 12 25 8 21 3 6 21 18 22 22 12 17 10 22 3 1",
+    "chars": "<s> b r i d g e s _ t u n n e l s _ a n d _ f e r r i e s _ a r e _ t h e _ m o s t _ c o m m o n _ m e t h o d s _ o f _ r i v e r _ c r o s s i n g s _ </s>",
+    "char_seq_len": 77
+}

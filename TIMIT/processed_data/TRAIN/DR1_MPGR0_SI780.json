@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MPGR0/SI780.WAV",
+    "char_map_seq": "2 23 11 8 3 22 12 7 8 3 18 17 8 22 3 4 21 8 3 11 4 15 9 3 12 17 6 11 3 17 4 21 21 18 26 8 21 3 1",
+    "chars": "<s> t h e _ s i d e _ o n e s _ a r e _ h a l f _ i n c h _ n a r r o w e r _ </s>",
+    "char_seq_len": 39
+}

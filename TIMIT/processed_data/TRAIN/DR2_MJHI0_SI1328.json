@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MJHI0/SI1328.WAV",
+    "char_map_seq": "2 12 23 3 12 22 3 19 18 22 22 12 5 15 8 3 23 18 3 16 4 14 8 3 4 3 9 8 26 3 10 8 17 8 21 4 15 12 29 4 23 12 18 17 22 3 4 5 18 24 23 3 23 11 8 3 22 12 27 3 10 12 4 17 23 22 3 23 11 8 16 22 8 15 25 8 22 3 1",
+    "chars": "<s> i t _ i s _ p o s s i b l e _ t o _ m a k e _ a _ f e w _ g e n e r a l i z a t i o n s _ a b o u t _ t h e _ s i x _ g i a n t s _ t h e m s e l v e s _ </s>",
+    "char_seq_len": 79
+}

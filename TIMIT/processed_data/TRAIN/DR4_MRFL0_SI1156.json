@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MRFL0/SI1156.WAV",
+    "char_map_seq": "2 23 11 12 22 3 12 22 3 26 11 4 23 3 17 8 6 8 22 22 12 23 4 23 8 22 3 23 11 8 3 17 18 17 22 28 22 23 8 16 4 23 12 6 3 6 11 4 21 4 6 23 8 21 3 18 9 3 11 12 22 3 4 22 23 21 18 17 18 16 28 3 1",
+    "chars": "<s> t h i s _ i s _ w h a t _ n e c e s s i t a t e s _ t h e _ n o n s y s t e m a t i c _ c h a r a c t e r _ o f _ h i s _ a s t r o n o m y _ </s>",
+    "char_seq_len": 73
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MTMR0/SI1933.WAV",
+    "char_map_seq": "2 5 8 4 23 3 16 8 3 23 18 3 7 8 4 23 11 3 12 17 3 9 21 18 17 23 3 18 9 3 4 3 11 24 17 7 21 8 7 3 19 8 18 19 15 8 3 1",
+    "chars": "<s> b e a t _ m e _ t o _ d e a t h _ i n _ f r o n t _ o f _ a _ h u n d r e d _ p e o p l e _ </s>",
+    "char_seq_len": 48
+}

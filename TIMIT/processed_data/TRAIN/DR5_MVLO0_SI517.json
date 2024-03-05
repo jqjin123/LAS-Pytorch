@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MVLO0/SI517.WAV",
+    "char_map_seq": "2 6 18 17 9 24 22 12 18 17 3 5 8 6 4 16 8 3 6 11 4 18 22 3 8 4 6 11 3 22 24 6 6 8 8 7 12 17 10 3 7 4 28 3 5 21 18 24 10 11 23 3 17 8 26 3 4 6 23 22 3 18 9 3 25 12 18 15 8 17 6 8 3 1",
+    "chars": "<s> c o n f u s i o n _ b e c a m e _ c h a o s _ e a c h _ s u c c e e d i n g _ d a y _ b r o u g h t _ n e w _ a c t s _ o f _ v i o l e n c e _ </s>",
+    "char_seq_len": 74
+}

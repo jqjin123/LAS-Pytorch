@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FDRD1/SI2149.WAV",
+    "char_map_seq": "2 15 8 23 0 22 3 5 8 3 9 12 17 8 3 22 24 19 8 21 12 18 21 3 19 8 18 19 15 8 3 18 9 3 10 21 8 4 23 3 7 12 10 17 12 23 28 3 11 8 3 22 4 12 7 3 4 22 3 12 9 3 11 8 3 26 8 21 8 3 13 18 14 12 17 10 3 1",
+    "chars": "<s> l e t ' s _ b e _ f i n e _ s u p e r i o r _ p e o p l e _ o f _ g r e a t _ d i g n i t y _ h e _ s a i d _ a s _ i f _ h e _ w e r e _ j o k i n g _ </s>",
+    "char_seq_len": 78
+}

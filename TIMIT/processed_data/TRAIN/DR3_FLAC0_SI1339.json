@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FLAC0/SI1339.WAV",
+    "char_map_seq": "2 18 9 3 19 4 21 23 12 6 24 15 4 21 3 12 16 19 18 21 23 4 17 6 8 3 12 22 3 23 11 8 3 22 23 24 7 28 3 18 9 3 23 11 8 3 4 6 23 12 18 17 22 3 18 9 3 7 21 24 10 22 3 12 17 3 23 11 12 22 3 21 8 22 19 8 6 23 3 1",
+    "chars": "<s> o f _ p a r t i c u l a r _ i m p o r t a n c e _ i s _ t h e _ s t u d y _ o f _ t h e _ a c t i o n s _ o f _ d r u g s _ i n _ t h i s _ r e s p e c t _ </s>",
+    "char_seq_len": 80
+}

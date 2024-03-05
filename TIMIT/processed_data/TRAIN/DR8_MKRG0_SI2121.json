@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MKRG0/SI2121.WAV",
+    "char_map_seq": "2 4 17 18 23 11 8 21 3 9 12 8 15 7 3 11 4 7 3 10 12 25 8 17 3 11 12 16 3 9 4 16 8 3 8 17 18 24 10 11 3 23 18 3 22 4 23 12 22 9 28 3 4 17 28 3 8 10 18 23 12 22 23 3 1",
+    "chars": "<s> a n o t h e r _ f i e l d _ h a d _ g i v e n _ h i m _ f a m e _ e n o u g h _ t o _ s a t i s f y _ a n y _ e g o t i s t _ </s>",
+    "char_seq_len": 65
+}

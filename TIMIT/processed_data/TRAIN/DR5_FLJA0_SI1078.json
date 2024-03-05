@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FLJA0/SI1078.WAV",
+    "char_map_seq": "2 23 11 8 3 22 16 8 15 15 3 12 22 3 22 8 27 24 4 15 3 5 24 23 3 22 18 3 19 18 26 8 21 9 24 15 15 28 3 22 18 3 23 11 4 23 3 4 3 6 12 25 12 15 12 29 8 7 3 17 18 22 8 3 16 24 22 23 3 7 8 17 28 3 12 23 3 1",
+    "chars": "<s> t h e _ s m e l l _ i s _ s e x u a l _ b u t _ s o _ p o w e r f u l l y _ s o _ t h a t _ a _ c i v i l i z e d _ n o s e _ m u s t _ d e n y _ i t _ </s>",
+    "char_seq_len": 78
+}

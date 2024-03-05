@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FKSR0/SI1747.WAV",
+    "char_map_seq": "2 11 8 3 26 18 24 15 7 3 18 9 9 8 21 3 17 18 3 23 11 8 18 21 28 3 23 18 3 4 6 6 18 24 17 23 3 9 18 21 3 11 8 21 3 16 24 21 7 8 21 3 1",
+    "chars": "<s> h e _ w o u l d _ o f f e r _ n o _ t h e o r y _ t o _ a c c o u n t _ f o r _ h e r _ m u r d e r _ </s>",
+    "char_seq_len": 53
+}

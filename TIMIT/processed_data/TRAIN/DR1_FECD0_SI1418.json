@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FECD0/SI1418.WAV",
+    "char_map_seq": "2 19 8 21 22 18 17 4 15 3 19 21 8 7 12 22 19 18 22 12 23 12 18 17 22 3 23 8 17 7 3 23 18 3 5 15 24 17 23 3 23 11 8 3 8 4 21 3 4 17 7 3 12 17 3 23 24 21 17 3 23 11 8 3 25 18 12 6 8 3 4 22 3 26 8 15 15 3 1",
+    "chars": "<s> p e r s o n a l _ p r e d i s p o s i t i o n s _ t e n d _ t o _ b l u n t _ t h e _ e a r _ a n d _ i n _ t u r n _ t h e _ v o i c e _ a s _ w e l l _ </s>",
+    "char_seq_len": 79
+}

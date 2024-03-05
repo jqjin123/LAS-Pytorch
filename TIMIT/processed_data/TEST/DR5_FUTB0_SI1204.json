@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FUTB0/SI1204.WAV",
+    "char_map_seq": "2 23 11 8 3 19 24 21 6 11 4 22 8 21 22 3 21 8 13 8 6 23 8 7 3 23 11 8 3 18 21 7 8 21 3 12 17 3 23 26 18 3 15 8 23 23 8 21 22 3 26 21 12 23 23 8 17 3 12 17 3 25 12 10 18 21 18 24 22 3 23 8 21 16 22 3 1",
+    "chars": "<s> t h e _ p u r c h a s e r s _ r e j e c t e d _ t h e _ o r d e r _ i n _ t w o _ l e t t e r s _ w r i t t e n _ i n _ v i g o r o u s _ t e r m s _ </s>",
+    "char_seq_len": 77
+}

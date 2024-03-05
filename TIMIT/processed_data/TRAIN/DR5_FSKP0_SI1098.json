@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FSKP0/SI1098.WAV",
+    "char_map_seq": "2 18 17 8 3 6 4 17 3 18 17 15 28 3 22 19 8 4 14 3 18 9 3 26 11 4 23 3 12 22 3 12 17 3 9 21 18 17 23 3 18 9 3 11 12 16 3 4 17 7 3 23 11 4 23 3 17 18 26 3 12 22 3 22 12 16 19 15 28 3 23 11 8 3 16 8 22 22 3 1",
+    "chars": "<s> o n e _ c a n _ o n l y _ s p e a k _ o f _ w h a t _ i s _ i n _ f r o n t _ o f _ h i m _ a n d _ t h a t _ n o w _ i s _ s i m p l y _ t h e _ m e s s _ </s>",
+    "char_seq_len": 80
+}

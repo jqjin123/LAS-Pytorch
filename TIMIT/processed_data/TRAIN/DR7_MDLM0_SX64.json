@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MDLM0/SX64.WAV",
+    "char_map_seq": "2 21 8 10 24 15 4 21 3 4 23 23 8 17 7 4 17 6 8 3 12 22 3 22 8 15 7 18 16 3 21 8 20 24 12 21 8 7 3 1",
+    "chars": "<s> r e g u l a r _ a t t e n d a n c e _ i s _ s e l d o m _ r e q u i r e d _ </s>",
+    "char_seq_len": 40
+}

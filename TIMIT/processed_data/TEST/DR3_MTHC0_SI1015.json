@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MTHC0/SI1015.WAV",
+    "char_map_seq": "2 11 4 28 3 4 17 7 3 19 4 22 23 24 21 8 3 4 21 8 3 23 11 8 3 18 23 11 8 21 3 6 11 12 8 9 3 22 18 24 21 6 8 22 3 18 9 3 15 12 25 8 22 23 18 6 14 3 9 8 8 7 3 1",
+    "chars": "<s> h a y _ a n d _ p a s t u r e _ a r e _ t h e _ o t h e r _ c h i e f _ s o u r c e s _ o f _ l i v e s t o c k _ f e e d _ </s>",
+    "char_seq_len": 64
+}

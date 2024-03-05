@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FLMK0/SI1035.WAV",
+    "char_map_seq": "2 26 12 23 11 3 4 3 26 11 12 21 15 12 17 10 3 13 24 16 19 3 12 23 3 6 18 24 15 7 3 10 8 23 3 12 17 23 18 3 10 8 4 21 3 1",
+    "chars": "<s> w i t h _ a _ w h i r l i n g _ j u m p _ i t _ c o u l d _ g e t _ i n t o _ g e a r _ </s>",
+    "char_seq_len": 46
+}

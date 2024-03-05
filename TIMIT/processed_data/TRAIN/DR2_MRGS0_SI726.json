@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRGS0/SI726.WAV",
+    "char_map_seq": "2 19 21 18 16 19 23 15 28 3 4 23 3 22 8 25 8 17 3 11 8 3 26 18 24 15 7 3 6 15 4 23 23 8 21 3 18 24 23 3 18 9 3 23 11 8 3 6 18 24 21 23 3 26 12 23 11 3 23 26 8 15 25 8 3 12 17 3 23 11 8 3 23 4 15 15 28 11 18 3 1",
+    "chars": "<s> p r o m p t l y _ a t _ s e v e n _ h e _ w o u l d _ c l a t t e r _ o u t _ o f _ t h e _ c o u r t _ w i t h _ t w e l v e _ i n _ t h e _ t a l l y h o _ </s>",
+    "char_seq_len": 81
+}

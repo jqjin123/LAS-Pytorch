@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FAJW0/SI633.WAV",
+    "char_map_seq": "2 11 8 3 15 12 14 8 7 3 23 18 3 17 12 19 3 8 4 21 3 15 18 5 8 22 3 18 9 3 24 17 22 24 22 19 8 6 23 12 17 10 3 25 12 22 12 23 18 21 22 3 26 12 23 11 3 11 12 22 3 17 8 8 7 15 8 3 22 11 4 21 19 3 23 8 8 23 11 3 1",
+    "chars": "<s> h e _ l i k e d _ t o _ n i p _ e a r _ l o b e s _ o f _ u n s u s p e c t i n g _ v i s i t o r s _ w i t h _ h i s _ n e e d l e _ s h a r p _ t e e t h _ </s>",
+    "char_seq_len": 81
+}

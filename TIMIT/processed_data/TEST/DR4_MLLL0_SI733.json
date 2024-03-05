@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MLLL0/SI733.WAV",
+    "char_map_seq": "2 7 18 3 4 25 18 12 7 3 19 24 17 6 23 24 21 12 17 10 3 18 21 3 6 24 23 23 12 17 10 3 12 17 23 18 3 16 8 4 23 22 3 23 8 22 23 3 23 11 8 16 3 1",
+    "chars": "<s> d o _ a v o i d _ p u n c t u r i n g _ o r _ c u t t i n g _ i n t o _ m e a t s _ t e s t _ t h e m _ </s>",
+    "char_seq_len": 54
+}

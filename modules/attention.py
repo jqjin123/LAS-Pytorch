@@ -28,7 +28,10 @@ class Attention(nn.Module):
         score =  self.fc(self.tanh(
          self.W(Si_1) + self.V(Hj)  + self.b
         )).squeeze(dim=-1)
+        #print(score.shape)
         attn_weight = self.softmax(score) 
+        #print(attn_weight.shape)
         context = torch.bmm(attn_weight.unsqueeze(dim=1), Hj)
+        #print(context.shape)
 
         return context, attn_weight

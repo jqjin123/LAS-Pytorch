@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MBNS0/SI1220.WAV",
+    "char_map_seq": "2 23 11 8 28 3 4 15 22 18 3 26 4 17 23 3 16 18 17 8 28 3 19 21 8 22 23 12 10 8 3 4 17 7 3 22 8 6 24 21 12 23 28 3 1",
+    "chars": "<s> t h e y _ a l s o _ w a n t _ m o n e y _ p r e s t i g e _ a n d _ s e c u r i t y _ </s>",
+    "char_seq_len": 45
+}

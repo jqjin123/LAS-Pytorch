@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FLKD0/SI739.WAV",
+    "char_map_seq": "2 14 8 8 19 3 23 11 8 3 7 8 22 22 8 21 23 22 3 22 12 16 19 15 8 3 9 21 24 12 23 3 7 18 8 22 3 17 12 6 8 15 28 3 1",
+    "chars": "<s> k e e p _ t h e _ d e s s e r t s _ s i m p l e _ f r u i t _ d o e s _ n i c e l y _ </s>",
+    "char_seq_len": 45
+}

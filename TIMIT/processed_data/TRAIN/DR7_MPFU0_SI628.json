@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MPFU0/SI628.WAV",
+    "char_map_seq": "2 12 23 3 4 15 15 3 23 4 14 8 22 3 19 15 4 6 8 3 12 17 3 23 11 8 3 8 12 10 11 23 8 8 17 23 11 3 6 8 17 23 24 21 28 3 1",
+    "chars": "<s> i t _ a l l _ t a k e s _ p l a c e _ i n _ t h e _ e i g h t e e n t h _ c e n t u r y _ </s>",
+    "char_seq_len": 47
+}

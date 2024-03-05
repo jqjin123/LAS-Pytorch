@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FSAH0/SI1874.WAV",
+    "char_map_seq": "2 11 8 3 16 12 10 11 23 3 22 4 28 3 18 21 3 7 18 3 22 18 16 8 23 11 12 17 10 3 9 18 18 15 12 22 11 3 1",
+    "chars": "<s> h e _ m i g h t _ s a y _ o r _ d o _ s o m e t h i n g _ f o o l i s h _ </s>",
+    "char_seq_len": 39
+}

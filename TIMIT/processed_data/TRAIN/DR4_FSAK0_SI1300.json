@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FSAK0/SI1300.WAV",
+    "char_map_seq": "2 11 8 3 6 4 17 3 9 18 21 3 8 27 4 16 19 15 8 3 19 21 8 22 8 17 23 3 22 12 10 17 12 9 12 6 4 17 23 3 24 17 12 25 8 21 22 12 23 28 3 26 12 7 8 3 12 22 22 24 8 22 3 23 18 3 23 11 8 3 22 8 17 4 23 8 3 1",
+    "chars": "<s> h e _ c a n _ f o r _ e x a m p l e _ p r e s e n t _ s i g n i f i c a n t _ u n i v e r s i t y _ w i d e _ i s s u e s _ t o _ t h e _ s e n a t e _ </s>",
+    "char_seq_len": 78
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MDWK0/SI1540.WAV",
+    "char_map_seq": "2 11 8 3 26 18 17 7 8 21 8 7 3 12 9 3 12 23 3 26 18 21 8 3 23 11 8 3 18 15 7 3 4 17 27 12 8 23 28 3 18 21 3 23 11 8 3 18 15 7 3 23 4 24 23 3 22 23 18 12 6 12 22 16 3 1",
+    "chars": "<s> h e _ w o n d e r e d _ i f _ i t _ w o r e _ t h e _ o l d _ a n x i e t y _ o r _ t h e _ o l d _ t a u t _ s t o i c i s m _ </s>",
+    "char_seq_len": 66
+}

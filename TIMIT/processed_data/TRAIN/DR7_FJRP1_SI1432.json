@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FJRP1/SI1432.WAV",
+    "char_map_seq": "2 17 18 26 3 23 11 8 3 19 21 18 5 15 8 16 3 12 22 3 19 21 8 22 8 17 23 8 7 3 19 12 8 6 8 16 8 4 15 3 4 17 7 3 22 18 16 8 23 12 16 8 22 3 6 18 17 23 21 4 7 12 6 23 18 21 12 15 28 3 1",
+    "chars": "<s> n o w _ t h e _ p r o b l e m _ i s _ p r e s e n t e d _ p i e c e m e a l _ a n d _ s o m e t i m e s _ c o n t r a d i c t o r i l y _ </s>",
+    "char_seq_len": 71
+}

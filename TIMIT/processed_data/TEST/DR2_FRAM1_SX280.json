@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FRAM1/SX280.WAV",
+    "char_map_seq": "2 23 11 8 3 18 4 22 12 22 3 26 4 22 3 4 3 16 12 21 4 10 8 3 1",
+    "chars": "<s> t h e _ o a s i s _ w a s _ a _ m i r a g e _ </s>",
+    "char_seq_len": 25
+}

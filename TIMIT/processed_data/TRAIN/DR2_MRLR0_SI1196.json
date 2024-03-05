@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRLR0/SI1196.WAV",
+    "char_map_seq": "2 11 8 3 11 4 7 3 4 6 6 18 21 7 12 17 10 15 28 3 6 24 15 23 12 25 4 23 8 7 3 8 6 6 8 17 23 21 12 6 12 23 28 3 23 18 3 23 11 8 3 19 18 12 17 23 3 18 9 3 22 8 6 18 17 7 3 17 4 23 24 21 8 3 1",
+    "chars": "<s> h e _ h a d _ a c c o r d i n g l y _ c u l t i v a t e d _ e c c e n t r i c i t y _ t o _ t h e _ p o i n t _ o f _ s e c o n d _ n a t u r e _ </s>",
+    "char_seq_len": 75
+}

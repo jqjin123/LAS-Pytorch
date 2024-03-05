@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FALK0/SI456.WAV",
+    "char_map_seq": "2 23 26 18 3 18 23 11 8 21 3 6 4 22 8 22 3 4 15 22 18 3 26 8 21 8 3 24 17 7 8 21 3 4 7 25 12 22 8 16 8 17 23 3 1",
+    "chars": "<s> t w o _ o t h e r _ c a s e s _ a l s o _ w e r e _ u n d e r _ a d v i s e m e n t _ </s>",
+    "char_seq_len": 45
+}

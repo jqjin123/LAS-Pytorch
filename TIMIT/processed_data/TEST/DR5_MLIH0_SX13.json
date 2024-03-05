@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MLIH0/SX13.WAV",
+    "char_map_seq": "2 22 26 12 17 10 3 28 18 24 21 3 4 21 16 3 4 22 3 11 12 10 11 3 4 22 3 28 18 24 3 6 4 17 3 1",
+    "chars": "<s> s w i n g _ y o u r _ a r m _ a s _ h i g h _ a s _ y o u _ c a n _ </s>",
+    "char_seq_len": 36
+}

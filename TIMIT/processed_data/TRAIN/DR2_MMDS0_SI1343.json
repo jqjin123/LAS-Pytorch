@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MMDS0/SI1343.WAV",
+    "char_map_seq": "2 26 8 3 17 18 26 3 10 8 17 8 21 4 15 12 29 8 3 23 11 8 22 8 3 12 7 8 4 22 3 9 18 21 3 10 8 17 8 21 4 15 3 5 12 17 18 16 12 4 15 3 8 27 19 8 21 12 16 8 17 23 22 3 1",
+    "chars": "<s> w e _ n o w _ g e n e r a l i z e _ t h e s e _ i d e a s _ f o r _ g e n e r a l _ b i n o m i a l _ e x p e r i m e n t s _ </s>",
+    "char_seq_len": 65
+}

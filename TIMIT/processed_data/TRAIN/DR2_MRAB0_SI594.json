@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRAB0/SI594.WAV",
+    "char_map_seq": "2 23 11 8 3 23 21 12 4 15 3 5 4 15 15 18 18 17 22 3 4 21 8 3 4 9 15 18 4 23 3 1",
+    "chars": "<s> t h e _ t r i a l _ b a l l o o n s _ a r e _ a f l o a t _ </s>",
+    "char_seq_len": 32
+}

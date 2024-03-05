@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FHEW0/SI690.WAV",
+    "char_map_seq": "2 19 21 18 19 21 12 8 23 28 3 26 4 22 3 22 28 17 18 17 28 16 18 24 22 3 26 12 23 11 3 21 12 23 24 4 15 3 18 5 22 8 21 25 4 17 6 8 3 23 11 8 3 16 4 21 14 3 18 9 3 4 3 23 21 24 8 3 10 8 17 23 15 8 16 4 17 3 1",
+    "chars": "<s> p r o p r i e t y _ w a s _ s y n o n y m o u s _ w i t h _ r i t u a l _ o b s e r v a n c e _ t h e _ m a r k _ o f _ a _ t r u e _ g e n t l e m a n _ </s>",
+    "char_seq_len": 79
+}

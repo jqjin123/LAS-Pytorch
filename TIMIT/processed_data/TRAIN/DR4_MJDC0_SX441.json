@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJDC0/SX441.WAV",
+    "char_map_seq": "2 7 18 17 0 23 3 15 18 18 14 3 9 18 21 3 10 21 18 24 19 3 25 4 15 24 4 5 15 8 22 3 12 17 3 4 3 5 4 17 14 3 25 4 24 15 23 3 1",
+    "chars": "<s> d o n ' t _ l o o k _ f o r _ g r o u p _ v a l u a b l e s _ i n _ a _ b a n k _ v a u l t _ </s>",
+    "char_seq_len": 49
+}

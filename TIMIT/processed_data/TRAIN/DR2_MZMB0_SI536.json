@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MZMB0/SI536.WAV",
+    "char_map_seq": "2 22 18 3 26 8 3 17 18 23 8 3 4 19 19 21 18 25 12 17 10 15 28 3 4 3 9 21 8 22 11 3 22 4 16 19 15 8 3 18 9 3 24 17 4 17 12 16 12 23 28 3 1",
+    "chars": "<s> s o _ w e _ n o t e _ a p p r o v i n g l y _ a _ f r e s h _ s a m p l e _ o f _ u n a n i m i t y _ </s>",
+    "char_seq_len": 53
+}

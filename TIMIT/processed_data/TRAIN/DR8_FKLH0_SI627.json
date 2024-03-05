@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FKLH0/SI627.WAV",
+    "char_map_seq": "2 23 11 8 3 11 24 16 18 21 3 18 9 3 23 11 8 3 22 12 23 24 4 23 12 18 17 3 6 4 17 3 5 8 3 12 16 4 10 12 17 8 7 3 1",
+    "chars": "<s> t h e _ h u m o r _ o f _ t h e _ s i t u a t i o n _ c a n _ b e _ i m a g i n e d _ </s>",
+    "char_seq_len": 45
+}

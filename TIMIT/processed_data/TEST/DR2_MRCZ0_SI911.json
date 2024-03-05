@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MRCZ0/SI911.WAV",
+    "char_map_seq": "2 23 11 12 22 3 12 22 3 9 18 15 15 18 26 8 7 3 5 28 3 4 3 5 18 18 16 3 12 17 3 6 18 17 9 8 21 8 17 6 8 22 3 1",
+    "chars": "<s> t h i s _ i s _ f o l l o w e d _ b y _ a _ b o o m _ i n _ c o n f e r e n c e s _ </s>",
+    "char_seq_len": 44
+}

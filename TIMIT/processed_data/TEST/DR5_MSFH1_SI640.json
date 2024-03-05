@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MSFH1/SI640.WAV",
+    "char_map_seq": "2 5 24 23 3 26 11 4 23 3 11 4 22 3 5 8 8 17 3 11 4 19 19 8 17 12 17 10 3 21 8 6 8 17 23 15 28 3 16 12 10 11 23 3 5 8 3 7 8 22 6 21 12 5 8 7 3 4 22 3 6 21 8 8 19 12 17 10 3 16 4 17 17 8 21 12 22 16 3 1",
+    "chars": "<s> b u t _ w h a t _ h a s _ b e e n _ h a p p e n i n g _ r e c e n t l y _ m i g h t _ b e _ d e s c r i b e d _ a s _ c r e e p i n g _ m a n n e r i s m _ </s>",
+    "char_seq_len": 80
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MPLB0/SX44.WAV",
+    "char_map_seq": "2 5 4 22 14 8 23 5 4 15 15 3 6 4 17 3 5 8 3 4 17 3 8 17 23 8 21 23 4 12 17 12 17 10 3 22 19 18 21 23 3 1",
+    "chars": "<s> b a s k e t b a l l _ c a n _ b e _ a n _ e n t e r t a i n i n g _ s p o r t _ </s>",
+    "char_seq_len": 42
+}

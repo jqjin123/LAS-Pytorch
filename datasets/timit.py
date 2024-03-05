@@ -104,9 +104,9 @@ class TIMIT(object):
                 for audio_filepath in WAV_files:
                     wrd_file = audio_filepath[:-4]+'.WRD'
                     char_mapped,chars_list = self.create_char_mapping(wrd_file,vocab_dict)
-                    json_write_filepath =store_folder+'/'+sub_folder.split('/')[-2]+'_'+spk_folder.split('/')[-2]+'_'+audio_filepath.split('/')[-1][:-4]+'.json'
+                    json_write_filepath =store_folder+'/'+sub_folder.split('\\')[-2]+'_'+spk_folder.split('\\')[-2]+'_'+audio_filepath.split('\\')[-1][:-4]+'.json'
                     data_frame = {}
-                    data_frame['audio_filepath'] = audio_filepath
+                    data_frame['audio_filepath'] = audio_filepath.replace('\\','/').replace('..','.')
                     data_frame['char_map_seq'] = ' '.join([str(char_item) for char_item in char_mapped])
                     data_frame['chars'] = ' '.join([str(char_item) for char_item in chars_list])
                     
@@ -129,9 +129,9 @@ class TIMIT(object):
                 for audio_filepath in WAV_files:
                     wrd_file = audio_filepath[:-4]+'.WRD'
                     char_mapped,chars_list = self.create_char_mapping(wrd_file,vocab_dict)
-                    json_write_filepath =store_folder+'/'+sub_folder.split('/')[-2]+'_'+spk_folder.split('/')[-2]+'_'+audio_filepath.split('/')[-1][:-4]+'.json'
+                    json_write_filepath =store_folder+'/'+sub_folder.split('\\')[-2]+'_'+spk_folder.split('\\')[-2]+'_'+audio_filepath.split('\\')[-1][:-4]+'.json'
                     data_frame = {}
-                    data_frame['audio_filepath'] = audio_filepath
+                    data_frame['audio_filepath'] = audio_filepath.replace('\\','/').replace('..','.')
                     data_frame['char_map_seq'] = ' '.join([str(char_item) for char_item in char_mapped])
                     data_frame['chars'] = ' '.join([str(char_item) for char_item in chars_list])
                     
@@ -140,16 +140,16 @@ class TIMIT(object):
                         json.dump(data_frame, fid,indent=4)
         
 
-
+# 将TIMIT语音数据库生成json文件
 if __name__ == '__main__':
     parser = argparse.ArgumentParser("Configuration for data preparation")
-    parser.add_argument("--timit_dataset_root", default="/media/newhd/ASR_datasets/TIMIT/TIMIT", type=str,help='Dataset path')
-    parser.add_argument("--timit_save_root", default="/media/newhd/ASR_datasets/TIMIT/processed_data", type=str,help='Save directory after processing')
-    parser.add_argument("--vocab_path",default='data_utils/vocab.txt',type=str, help='Filepath to write vocabulary')
+    parser.add_argument("--timit_dataset_root", default="../TIMIT", type=str,help='Dataset path')
+    parser.add_argument("--timit_save_root", default="../TIMIT/processed_data", type=str,help='Save directory after processing')
+    parser.add_argument("--vocab_path",default='../data_utils/vocab.txt',type=str, help='Filepath to write vocabulary')
     
     config = parser.parse_args()
     timit = TIMIT(config)
-    timit.create_vocab()
+    timit.create_vocab() #创建语料表
     timit.process_data_train()
     timit.process_data_test()
     

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRLJ0/SX430.WAV",
+    "char_map_seq": "2 23 11 18 22 8 3 26 11 18 3 4 21 8 3 17 18 23 3 19 24 21 12 22 23 22 3 24 22 8 3 6 4 17 17 8 7 3 25 8 10 8 23 4 5 15 8 22 3 26 11 8 17 3 16 4 14 12 17 10 3 22 23 8 26 3 1",
+    "chars": "<s> t h o s e _ w h o _ a r e _ n o t _ p u r i s t s _ u s e _ c a n n e d _ v e g e t a b l e s _ w h e n _ m a k i n g _ s t e w _ </s>",
+    "char_seq_len": 67
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MJDG0/SX232.WAV",
+    "char_map_seq": "2 11 12 22 3 9 4 12 15 24 21 8 3 23 18 3 18 19 8 17 3 23 11 8 3 22 23 18 21 8 3 5 28 3 8 12 10 11 23 3 6 18 22 23 3 11 12 16 3 11 12 22 3 13 18 5 3 1",
+    "chars": "<s> h i s _ f a i l u r e _ t o _ o p e n _ t h e _ s t o r e _ b y _ e i g h t _ c o s t _ h i m _ h i s _ j o b _ </s>",
+    "char_seq_len": 58
+}

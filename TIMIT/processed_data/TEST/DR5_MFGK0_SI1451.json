@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MFGK0/SI1451.WAV",
+    "char_map_seq": "2 23 18 3 7 4 23 8 3 23 11 8 3 18 17 8 3 16 8 4 23 3 22 11 18 26 12 17 10 3 9 4 25 18 21 4 5 15 8 3 21 8 22 24 15 23 22 3 4 23 3 22 23 8 21 12 15 12 29 4 23 12 18 17 3 7 18 22 8 22 3 12 22 3 19 18 21 14 3 1",
+    "chars": "<s> t o _ d a t e _ t h e _ o n e _ m e a t _ s h o w i n g _ f a v o r a b l e _ r e s u l t s _ a t _ s t e r i l i z a t i o n _ d o s e s _ i s _ p o r k _ </s>",
+    "char_seq_len": 80
+}

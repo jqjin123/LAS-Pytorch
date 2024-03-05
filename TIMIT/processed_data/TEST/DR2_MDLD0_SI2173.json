@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MDLD0/SI2173.WAV",
+    "char_map_seq": "2 11 8 3 26 4 7 7 8 7 3 11 12 22 3 22 26 8 4 23 3 22 11 12 21 23 3 12 17 23 18 3 4 3 5 4 15 15 3 4 17 7 3 22 23 21 12 19 19 8 7 3 7 18 26 17 3 23 18 3 11 12 22 3 22 26 12 16 16 12 17 10 3 23 21 24 17 14 22 3 1",
+    "chars": "<s> h e _ w a d d e d _ h i s _ s w e a t _ s h i r t _ i n t o _ a _ b a l l _ a n d _ s t r i p p e d _ d o w n _ t o _ h i s _ s w i m m i n g _ t r u n k s _ </s>",
+    "char_seq_len": 81
+}

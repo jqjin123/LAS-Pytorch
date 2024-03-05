@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MPFU0/SI1258.WAV",
+    "char_map_seq": "2 12 23 3 7 18 8 22 3 17 18 23 3 12 17 7 12 6 4 23 8 3 15 18 18 22 8 3 16 4 17 4 10 8 16 8 17 23 3 12 17 8 9 9 8 6 23 12 25 8 3 6 18 17 23 21 18 15 22 3 18 21 3 19 18 18 21 3 19 18 15 12 6 28 3 1",
+    "chars": "<s> i t _ d o e s _ n o t _ i n d i c a t e _ l o o s e _ m a n a g e m e n t _ i n e f f e c t i v e _ c o n t r o l s _ o r _ p o o r _ p o l i c y _ </s>",
+    "char_seq_len": 76
+}

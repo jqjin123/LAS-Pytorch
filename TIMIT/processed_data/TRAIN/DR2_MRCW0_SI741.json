@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRCW0/SI741.WAV",
+    "char_map_seq": "2 12 17 3 23 11 8 3 26 12 17 23 8 21 3 11 12 5 4 6 11 12 3 12 17 3 23 11 8 3 14 12 23 6 11 8 17 3 18 21 3 10 21 12 15 15 3 18 25 8 21 3 23 11 8 3 15 18 10 22 3 18 9 3 23 11 8 3 9 12 21 8 19 15 4 6 8 3 1",
+    "chars": "<s> i n _ t h e _ w i n t e r _ h i b a c h i _ i n _ t h e _ k i t c h e n _ o r _ g r i l l _ o v e r _ t h e _ l o g s _ o f _ t h e _ f i r e p l a c e _ </s>",
+    "char_seq_len": 79
+}

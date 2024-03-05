@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MAFM0/SI939.WAV",
+    "char_map_seq": "2 12 16 19 21 8 22 22 12 18 17 22 3 18 9 23 8 17 3 4 19 19 8 4 21 3 12 17 3 4 3 22 28 16 5 18 15 12 6 3 9 18 21 16 3 4 17 7 3 6 4 17 17 18 23 3 5 8 3 23 4 14 8 17 3 4 23 3 9 4 6 8 3 25 4 15 24 8 3 1",
+    "chars": "<s> i m p r e s s i o n s _ o f t e n _ a p p e a r _ i n _ a _ s y m b o l i c _ f o r m _ a n d _ c a n n o t _ b e _ t a k e n _ a t _ f a c e _ v a l u e _ </s>",
+    "char_seq_len": 80
+}

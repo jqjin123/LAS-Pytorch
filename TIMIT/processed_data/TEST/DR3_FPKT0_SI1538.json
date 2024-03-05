@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/FPKT0/SI1538.WAV",
+    "char_map_seq": "2 4 3 6 4 21 21 12 4 10 8 3 6 21 24 17 6 11 8 7 3 5 28 3 12 23 22 3 7 12 16 3 15 12 10 11 23 22 3 9 12 15 23 8 21 12 17 10 3 23 11 21 18 24 10 11 3 23 11 8 3 10 15 18 18 16 3 1",
+    "chars": "<s> a _ c a r r i a g e _ c r u n c h e d _ b y _ i t s _ d i m _ l i g h t s _ f i l t e r i n g _ t h r o u g h _ t h e _ g l o o m _ </s>",
+    "char_seq_len": 68
+}

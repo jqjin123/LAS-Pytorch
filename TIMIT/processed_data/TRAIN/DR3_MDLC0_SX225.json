@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MDLC0/SX225.WAV",
+    "char_map_seq": "2 14 8 8 19 3 23 11 8 3 23 11 8 21 16 18 16 8 23 8 21 3 24 17 7 8 21 3 28 18 24 21 3 23 18 17 10 24 8 3 1",
+    "chars": "<s> k e e p _ t h e _ t h e r m o m e t e r _ u n d e r _ y o u r _ t o n g u e _ </s>",
+    "char_seq_len": 41
+}

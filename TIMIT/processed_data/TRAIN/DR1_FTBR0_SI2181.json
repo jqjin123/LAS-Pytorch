@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FTBR0/SI2181.WAV",
+    "char_map_seq": "2 19 4 21 23 3 6 18 15 15 12 8 3 19 4 21 23 3 26 12 21 8 3 11 4 12 21 8 7 3 23 8 21 21 12 8 21 3 1",
+    "chars": "<s> p a r t _ c o l l i e _ p a r t _ w i r e _ h a i r e d _ t e r r i e r _ </s>",
+    "char_seq_len": 39
+}

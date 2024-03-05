@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MPGL0/SI469.WAV",
+    "char_map_seq": "2 12 17 3 9 4 6 23 3 18 24 21 3 26 11 18 15 8 3 7 8 9 8 17 22 12 25 8 3 24 17 12 23 3 7 12 7 3 4 3 10 18 18 7 3 13 18 5 3 1",
+    "chars": "<s> i n _ f a c t _ o u r _ w h o l e _ d e f e n s i v e _ u n i t _ d i d _ a _ g o o d _ j o b _ </s>",
+    "char_seq_len": 50
+}

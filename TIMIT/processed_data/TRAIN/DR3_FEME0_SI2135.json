@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FEME0/SI2135.WAV",
+    "char_map_seq": "2 28 18 24 3 9 8 8 15 3 11 12 16 3 8 25 8 21 28 3 16 12 15 8 3 9 24 21 23 11 8 21 3 4 26 4 28 3 1",
+    "chars": "<s> y o u _ f e e l _ h i m _ e v e r y _ m i l e _ f u r t h e r _ a w a y _ </s>",
+    "char_seq_len": 39
+}

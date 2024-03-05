@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FDKN0/SX451.WAV",
+    "char_map_seq": "2 23 11 8 3 23 11 12 6 14 3 8 15 16 3 9 18 21 8 22 23 3 26 4 22 3 17 8 4 21 15 28 3 18 25 8 21 26 11 8 15 16 8 7 3 5 28 3 7 24 23 6 11 3 8 15 16 3 7 12 22 8 4 22 8 3 1",
+    "chars": "<s> t h e _ t h i c k _ e l m _ f o r e s t _ w a s _ n e a r l y _ o v e r w h e l m e d _ b y _ d u t c h _ e l m _ d i s e a s e _ </s>",
+    "char_seq_len": 67
+}

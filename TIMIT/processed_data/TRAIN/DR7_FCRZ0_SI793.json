@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FCRZ0/SI793.WAV",
+    "char_map_seq": "2 4 3 19 18 18 15 3 12 22 3 17 18 3 19 15 4 6 8 3 9 18 21 3 4 3 22 11 24 23 3 23 21 4 19 3 1",
+    "chars": "<s> a _ p o o l _ i s _ n o _ p l a c e _ f o r _ a _ s h u t _ t r a p _ </s>",
+    "char_seq_len": 37
+}

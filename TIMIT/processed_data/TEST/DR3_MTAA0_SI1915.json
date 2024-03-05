@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MTAA0/SI1915.WAV",
+    "char_map_seq": "2 12 23 3 26 4 22 3 23 11 8 21 8 3 23 11 4 23 3 22 11 8 3 26 18 24 15 7 3 11 4 25 8 3 23 18 3 8 17 4 6 23 3 11 8 21 3 21 8 17 24 17 6 12 4 23 12 18 17 3 5 8 10 3 9 18 21 10 12 25 8 17 8 22 22 3 1",
+    "chars": "<s> i t _ w a s _ t h e r e _ t h a t _ s h e _ w o u l d _ h a v e _ t o _ e n a c t _ h e r _ r e n u n c i a t i o n _ b e g _ f o r g i v e n e s s _ </s>",
+    "char_seq_len": 77
+}

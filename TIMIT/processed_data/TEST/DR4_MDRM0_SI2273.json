@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MDRM0/SI2273.WAV",
+    "char_map_seq": "2 12 23 3 4 15 15 3 22 8 8 16 8 7 3 21 4 23 11 8 21 3 11 18 19 8 15 8 22 22 3 1",
+    "chars": "<s> i t _ a l l _ s e e m e d _ r a t h e r _ h o p e l e s s _ </s>",
+    "char_seq_len": 32
+}

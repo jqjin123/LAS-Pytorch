@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MMWH0/SI459.WAV",
+    "char_map_seq": "2 11 8 3 9 24 21 23 11 8 21 3 19 21 18 19 18 22 8 7 3 10 21 4 17 23 22 3 18 9 3 4 17 3 24 17 22 19 8 6 12 9 12 8 7 3 22 24 16 3 9 18 21 3 8 27 19 8 21 12 16 8 17 23 4 15 3 11 18 22 19 12 23 4 15 22 3 1",
+    "chars": "<s> h e _ f u r t h e r _ p r o p o s e d _ g r a n t s _ o f _ a n _ u n s p e c i f i e d _ s u m _ f o r _ e x p e r i m e n t a l _ h o s p i t a l s _ </s>",
+    "char_seq_len": 78
+}

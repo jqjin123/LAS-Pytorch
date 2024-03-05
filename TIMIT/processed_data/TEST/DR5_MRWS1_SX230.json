@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MRWS1/SX230.WAV",
+    "char_map_seq": "2 4 15 15 18 26 3 15 8 8 26 4 28 3 11 8 21 8 3 5 24 23 3 21 4 23 12 18 17 4 15 12 29 8 3 4 15 15 3 8 21 21 18 21 22 3 1",
+    "chars": "<s> a l l o w _ l e e w a y _ h e r e _ b u t _ r a t i o n a l i z e _ a l l _ e r r o r s _ </s>",
+    "char_seq_len": 47
+}

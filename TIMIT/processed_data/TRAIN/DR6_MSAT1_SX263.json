@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MSAT1/SX263.WAV",
+    "char_map_seq": "2 11 18 26 3 18 12 15 28 3 7 18 3 28 18 24 3 15 12 14 8 3 28 18 24 21 3 22 4 15 4 7 3 7 21 8 22 22 12 17 10 3 1",
+    "chars": "<s> h o w _ o i l y _ d o _ y o u _ l i k e _ y o u r _ s a l a d _ d r e s s i n g _ </s>",
+    "char_seq_len": 43
+}

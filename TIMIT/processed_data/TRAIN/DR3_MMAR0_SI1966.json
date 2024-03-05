@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMAR0/SI1966.WAV",
+    "char_map_seq": "2 4 15 23 11 18 24 10 11 3 23 11 8 28 3 7 21 8 26 3 15 12 10 11 23 3 10 21 18 24 17 7 3 9 12 21 8 3 23 11 8 28 3 22 4 26 3 17 18 3 22 12 10 17 22 3 18 9 3 4 6 23 12 25 12 23 28 3 1",
+    "chars": "<s> a l t h o u g h _ t h e y _ d r e w _ l i g h t _ g r o u n d _ f i r e _ t h e y _ s a w _ n o _ s i g n s _ o f _ a c t i v i t y _ </s>",
+    "char_seq_len": 69
+}

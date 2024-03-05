@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRJM1/SI1298.WAV",
+    "char_map_seq": "2 5 8 23 26 8 8 17 3 16 8 8 23 12 17 10 22 3 11 8 3 11 8 15 19 22 3 23 11 8 3 19 21 8 22 12 7 8 17 23 3 14 8 8 19 3 23 21 4 6 14 3 18 9 3 7 8 15 8 10 4 23 8 7 3 16 4 23 23 8 21 22 3 1",
+    "chars": "<s> b e t w e e n _ m e e t i n g s _ h e _ h e l p s _ t h e _ p r e s i d e n t _ k e e p _ t r a c k _ o f _ d e l e g a t e d _ m a t t e r s _ </s>",
+    "char_seq_len": 74
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MJTC0/SI2090.WAV",
+    "char_map_seq": "2 11 8 3 22 26 24 17 10 3 12 17 3 23 11 21 18 24 10 11 3 11 12 22 3 18 26 17 3 26 12 7 8 3 10 4 23 8 26 4 28 3 1",
+    "chars": "<s> h e _ s w u n g _ i n _ t h r o u g h _ h i s _ o w n _ w i d e _ g a t e w a y _ </s>",
+    "char_seq_len": 43
+}

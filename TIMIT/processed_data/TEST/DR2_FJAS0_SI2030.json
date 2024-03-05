@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FJAS0/SI2030.WAV",
+    "char_map_seq": "2 18 24 21 3 5 18 28 3 7 12 7 17 0 23 3 6 11 12 6 14 8 17 3 18 24 23 3 17 18 3 22 12 21 3 1",
+    "chars": "<s> o u r _ b o y _ d i d n ' t _ c h i c k e n _ o u t _ n o _ s i r _ </s>",
+    "char_seq_len": 36
+}

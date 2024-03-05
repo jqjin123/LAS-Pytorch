@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MREE0/SX384.WAV",
+    "char_map_seq": "2 19 15 8 4 22 8 3 22 11 18 21 23 8 17 3 23 11 12 22 3 22 14 12 21 23 3 9 18 21 3 13 18 28 6 8 3 1",
+    "chars": "<s> p l e a s e _ s h o r t e n _ t h i s _ s k i r t _ f o r _ j o y c e _ </s>",
+    "char_seq_len": 38
+}

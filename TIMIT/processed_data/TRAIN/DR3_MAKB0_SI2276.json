@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MAKB0/SI2276.WAV",
+    "char_map_seq": "2 18 17 8 3 22 19 8 6 12 8 22 3 18 9 3 4 16 5 12 10 24 12 23 28 3 23 21 12 8 22 3 23 18 3 5 4 9 9 15 8 3 5 28 3 12 17 23 8 21 26 8 4 25 12 17 10 3 21 8 19 8 23 12 23 12 18 17 3 1",
+    "chars": "<s> o n e _ s p e c i e s _ o f _ a m b i g u i t y _ t r i e s _ t o _ b a f f l e _ b y _ i n t e r w e a v i n g _ r e p e t i t i o n _ </s>",
+    "char_seq_len": 70
+}

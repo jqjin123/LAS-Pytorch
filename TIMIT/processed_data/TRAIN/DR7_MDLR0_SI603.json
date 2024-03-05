@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MDLR0/SI603.WAV",
+    "char_map_seq": "2 16 8 15 4 17 6 11 18 15 28 3 18 5 22 8 22 22 12 18 17 3 1",
+    "chars": "<s> m e l a n c h o l y _ o b s e s s i o n _ </s>",
+    "char_seq_len": 23
+}

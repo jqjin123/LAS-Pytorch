@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FGRW0/SX342.WAV",
+    "char_map_seq": "2 23 4 14 8 3 6 11 4 21 10 8 3 18 9 3 6 11 18 18 22 12 17 10 3 11 8 21 3 5 21 12 7 8 0 22 3 16 4 12 7 22 0 3 10 18 26 17 22 3 1",
+    "chars": "<s> t a k e _ c h a r g e _ o f _ c h o o s i n g _ h e r _ b r i d e ' s _ m a i d s ' _ g o w n s _ </s>",
+    "char_seq_len": 51
+}

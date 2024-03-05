@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MCDR0/SX74.WAV",
+    "char_map_seq": "2 4 17 3 18 9 9 12 6 12 4 15 3 7 8 4 7 15 12 17 8 3 6 4 17 17 18 23 3 5 8 3 19 18 22 23 19 18 17 8 7 3 1",
+    "chars": "<s> a n _ o f f i c i a l _ d e a d l i n e _ c a n n o t _ b e _ p o s t p o n e d _ </s>",
+    "char_seq_len": 43
+}

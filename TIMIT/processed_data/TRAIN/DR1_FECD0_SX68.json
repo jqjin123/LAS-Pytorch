@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FECD0/SX68.WAV",
+    "char_map_seq": "2 24 19 10 21 4 7 8 3 28 18 24 21 3 22 23 4 23 24 22 3 23 18 3 21 8 9 15 8 6 23 3 28 18 24 21 3 26 8 4 15 23 11 3 1",
+    "chars": "<s> u p g r a d e _ y o u r _ s t a t u s _ t o _ r e f l e c t _ y o u r _ w e a l t h _ </s>",
+    "char_seq_len": 45
+}

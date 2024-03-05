@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MKLS0/SI2067.WAV",
+    "char_map_seq": "2 28 8 4 11 3 22 8 8 16 22 3 22 18 3 7 18 17 0 23 3 12 23 3 23 11 8 3 5 18 28 3 15 4 24 10 11 8 7 3 11 24 10 10 12 17 10 3 11 8 21 3 6 15 18 22 8 3 1",
+    "chars": "<s> y e a h _ s e e m s _ s o _ d o n ' t _ i t _ t h e _ b o y _ l a u g h e d _ h u g g i n g _ h e r _ c l o s e _ </s>",
+    "char_seq_len": 59
+}

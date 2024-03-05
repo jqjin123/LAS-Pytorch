@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MCPM0/SI1824.WAV",
+    "char_map_seq": "2 19 18 22 12 23 12 25 8 3 21 8 22 24 15 23 22 3 22 23 4 21 23 3 26 11 8 17 3 12 23 3 10 18 8 22 3 23 18 26 4 21 7 22 3 23 11 8 3 11 4 17 7 3 28 18 24 3 24 22 8 3 23 18 3 16 4 14 8 3 28 18 24 21 3 16 4 21 14 3 1",
+    "chars": "<s> p o s i t i v e _ r e s u l t s _ s t a r t _ w h e n _ i t _ g o e s _ t o w a r d s _ t h e _ h a n d _ y o u _ u s e _ t o _ m a k e _ y o u r _ m a r k _ </s>",
+    "char_seq_len": 81
+}

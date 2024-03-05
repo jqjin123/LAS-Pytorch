@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FKKH0/SI1920.WAV",
+    "char_map_seq": "2 15 12 19 22 3 19 24 21 22 8 7 3 16 18 24 21 17 9 24 15 15 28 3 11 8 3 22 23 4 21 8 7 3 7 18 26 17 3 4 23 3 12 23 22 3 6 21 4 29 12 15 28 3 22 4 10 10 12 17 10 3 15 8 9 23 3 22 12 7 8 3 1",
+    "chars": "<s> l i p s _ p u r s e d _ m o u r n f u l l y _ h e _ s t a r e d _ d o w n _ a t _ i t s _ c r a z i l y _ s a g g i n g _ l e f t _ s i d e _ </s>",
+    "char_seq_len": 73
+}

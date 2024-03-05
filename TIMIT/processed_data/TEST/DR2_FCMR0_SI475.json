@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FCMR0/SI475.WAV",
+    "char_map_seq": "2 23 11 8 28 3 26 12 15 15 3 23 4 14 8 3 4 3 26 8 7 7 12 17 10 3 23 21 12 19 3 15 4 23 8 21 3 1",
+    "chars": "<s> t h e y _ w i l l _ t a k e _ a _ w e d d i n g _ t r i p _ l a t e r _ </s>",
+    "char_seq_len": 38
+}

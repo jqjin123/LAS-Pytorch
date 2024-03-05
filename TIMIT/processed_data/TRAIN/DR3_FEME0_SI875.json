@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FEME0/SI875.WAV",
+    "char_map_seq": "2 15 18 18 14 3 9 18 21 3 23 11 8 22 8 3 9 8 4 23 24 21 8 22 3 26 11 12 6 11 3 16 4 28 3 16 8 4 17 3 28 18 24 3 6 4 17 3 22 4 25 8 3 7 24 19 15 12 6 4 23 8 3 6 18 25 8 21 4 10 8 3 1",
+    "chars": "<s> l o o k _ f o r _ t h e s e _ f e a t u r e s _ w h i c h _ m a y _ m e a n _ y o u _ c a n _ s a v e _ d u p l i c a t e _ c o v e r a g e _ </s>",
+    "char_seq_len": 73
+}

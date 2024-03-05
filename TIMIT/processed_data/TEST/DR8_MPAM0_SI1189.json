@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MPAM0/SI1189.WAV",
+    "char_map_seq": "2 8 12 10 11 23 3 9 12 8 15 7 3 10 24 17 22 3 26 8 21 8 3 6 4 19 23 24 21 8 7 3 12 17 3 19 18 22 12 23 12 18 17 3 1",
+    "chars": "<s> e i g h t _ f i e l d _ g u n s _ w e r e _ c a p t u r e d _ i n _ p o s i t i o n _ </s>",
+    "char_seq_len": 45
+}

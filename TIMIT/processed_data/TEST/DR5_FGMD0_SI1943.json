@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FGMD0/SI1943.WAV",
+    "char_map_seq": "2 9 18 21 3 23 11 8 3 24 17 22 8 8 17 3 10 11 18 22 23 15 12 14 8 3 21 12 9 15 8 16 4 17 3 4 12 16 8 7 3 4 3 15 12 23 23 15 8 3 11 12 10 11 8 21 3 23 11 8 3 23 11 12 21 7 3 23 12 16 8 3 1",
+    "chars": "<s> f o r _ t h e _ u n s e e n _ g h o s t l i k e _ r i f l e m a n _ a i m e d _ a _ l i t t l e _ h i g h e r _ t h e _ t h i r d _ t i m e _ </s>",
+    "char_seq_len": 73
+}

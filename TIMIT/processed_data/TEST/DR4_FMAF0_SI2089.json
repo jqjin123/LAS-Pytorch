@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FMAF0/SI2089.WAV",
+    "char_map_seq": "2 12 9 3 11 8 3 8 25 8 21 3 7 12 7 3 22 24 6 11 3 4 3 23 11 12 17 10 3 4 10 4 12 17 3 22 11 8 0 7 3 7 12 8 3 18 9 3 22 11 4 16 8 3 1",
+    "chars": "<s> i f _ h e _ e v e r _ d i d _ s u c h _ a _ t h i n g _ a g a i n _ s h e ' d _ d i e _ o f _ s h a m e _ </s>",
+    "char_seq_len": 55
+}

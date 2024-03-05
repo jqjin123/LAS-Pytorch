@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MPRT0/SI580.WAV",
+    "char_map_seq": "2 23 18 18 3 18 9 23 8 17 3 24 17 15 8 22 22 3 11 8 3 11 4 12 15 22 3 23 11 8 16 3 23 11 8 28 3 19 4 22 22 3 11 12 16 3 5 28 3 1",
+    "chars": "<s> t o o _ o f t e n _ u n l e s s _ h e _ h a i l s _ t h e m _ t h e y _ p a s s _ h i m _ b y _ </s>",
+    "char_seq_len": 50
+}

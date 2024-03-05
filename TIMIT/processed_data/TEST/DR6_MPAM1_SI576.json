@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MPAM1/SI576.WAV",
+    "char_map_seq": "2 5 24 23 3 8 25 8 17 3 16 18 23 11 8 21 0 22 3 15 18 25 12 17 10 3 4 23 23 12 23 24 7 8 3 26 12 15 15 3 17 18 23 3 4 15 26 4 28 22 3 19 21 8 25 8 17 23 3 16 12 22 5 8 11 4 25 12 18 21 3 1",
+    "chars": "<s> b u t _ e v e n _ m o t h e r ' s _ l o v i n g _ a t t i t u d e _ w i l l _ n o t _ a l w a y s _ p r e v e n t _ m i s b e h a v i o r _ </s>",
+    "char_seq_len": 72
+}

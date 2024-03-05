@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FJWB0/SI992.WAV",
+    "char_map_seq": "2 23 11 8 28 3 26 8 21 8 3 4 3 25 4 10 4 5 18 17 7 3 15 18 23 3 4 17 7 3 6 18 17 22 12 7 8 21 8 7 3 23 18 3 5 8 3 22 11 4 7 28 3 4 17 7 3 24 17 7 8 22 12 21 4 5 15 8 3 6 11 4 21 4 6 23 8 21 22 3 1",
+    "chars": "<s> t h e y _ w e r e _ a _ v a g a b o n d _ l o t _ a n d _ c o n s i d e r e d _ t o _ b e _ s h a d y _ a n d _ u n d e s i r a b l e _ c h a r a c t e r s _ </s>",
+    "char_seq_len": 81
+}

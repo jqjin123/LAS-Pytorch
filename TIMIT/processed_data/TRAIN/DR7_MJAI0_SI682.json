@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MJAI0/SI682.WAV",
+    "char_map_seq": "2 18 9 23 8 17 3 23 11 8 28 3 4 21 8 3 4 5 15 8 3 23 18 3 10 8 23 3 12 17 3 18 17 15 28 3 5 8 6 4 24 22 8 3 23 11 8 3 4 21 8 4 3 12 22 3 7 8 6 15 12 17 12 17 10 3 8 6 18 17 18 16 12 6 4 15 15 28 3 1",
+    "chars": "<s> o f t e n _ t h e y _ a r e _ a b l e _ t o _ g e t _ i n _ o n l y _ b e c a u s e _ t h e _ a r e a _ i s _ d e c l i n i n g _ e c o n o m i c a l l y _ </s>",
+    "char_seq_len": 80
+}

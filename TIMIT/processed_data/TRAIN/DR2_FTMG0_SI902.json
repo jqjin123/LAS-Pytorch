@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FTMG0/SI902.WAV",
+    "char_map_seq": "2 23 11 8 3 22 18 24 21 6 8 3 12 22 3 14 17 18 26 17 3 22 18 3 23 11 8 21 8 3 12 22 3 17 18 3 17 8 6 8 22 22 12 23 28 3 23 18 3 21 8 16 18 25 8 3 12 17 22 8 6 23 12 6 12 7 8 3 21 8 22 12 7 24 8 22 3 1",
+    "chars": "<s> t h e _ s o u r c e _ i s _ k n o w n _ s o _ t h e r e _ i s _ n o _ n e c e s s i t y _ t o _ r e m o v e _ i n s e c t i c i d e _ r e s i d u e s _ </s>",
+    "char_seq_len": 78
+}

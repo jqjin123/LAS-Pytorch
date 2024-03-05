@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MABW0/SI1664.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 26 8 21 8 3 18 23 11 8 21 3 9 4 21 16 11 18 24 22 8 22 3 17 8 4 21 5 28 3 1",
+    "chars": "<s> t h e r e _ w e r e _ o t h e r _ f a r m h o u s e s _ n e a r b y _ </s>",
+    "char_seq_len": 37
+}

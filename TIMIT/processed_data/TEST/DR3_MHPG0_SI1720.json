@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MHPG0/SI1720.WAV",
+    "char_map_seq": "2 23 11 8 28 3 23 18 18 14 3 12 23 3 4 26 4 28 3 18 25 8 21 4 15 15 22 3 18 21 3 22 18 16 8 23 11 12 17 10 3 1",
+    "chars": "<s> t h e y _ t o o k _ i t _ a w a y _ o v e r a l l s _ o r _ s o m e t h i n g _ </s>",
+    "char_seq_len": 42
+}

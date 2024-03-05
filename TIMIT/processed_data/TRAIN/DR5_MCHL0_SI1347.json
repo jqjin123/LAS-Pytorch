@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MCHL0/SI1347.WAV",
+    "char_map_seq": "2 4 10 4 12 17 3 23 11 8 3 4 17 4 15 28 23 12 6 12 23 28 3 18 9 3 23 11 8 3 23 26 18 3 6 24 21 25 8 22 3 10 24 4 21 4 17 23 8 8 22 3 23 11 4 23 3 22 24 6 11 3 12 17 23 8 21 25 4 15 22 3 8 27 12 22 23 3 1",
+    "chars": "<s> a g a i n _ t h e _ a n a l y t i c i t y _ o f _ t h e _ t w o _ c u r v e s _ g u a r a n t e e s _ t h a t _ s u c h _ i n t e r v a l s _ e x i s t _ </s>",
+    "char_seq_len": 79
+}

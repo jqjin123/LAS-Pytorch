@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MTPF0/SI605.WAV",
+    "char_map_seq": "2 26 8 3 26 18 24 15 7 3 15 18 22 8 3 18 24 21 3 8 27 19 18 21 23 3 16 4 21 14 8 23 22 3 4 17 7 3 7 8 17 28 3 18 24 21 22 8 15 25 8 22 3 23 11 8 3 12 16 19 18 21 23 22 3 26 8 3 17 8 8 7 3 1",
+    "chars": "<s> w e _ w o u l d _ l o s e _ o u r _ e x p o r t _ m a r k e t s _ a n d _ d e n y _ o u r s e l v e s _ t h e _ i m p o r t s _ w e _ n e e d _ </s>",
+    "char_seq_len": 74
+}

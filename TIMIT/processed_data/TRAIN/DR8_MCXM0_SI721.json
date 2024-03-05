@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MCXM0/SI721.WAV",
+    "char_map_seq": "2 23 11 12 22 3 23 18 18 15 3 6 4 17 3 4 15 22 18 3 5 8 3 16 4 7 8 3 26 12 23 11 3 4 3 15 4 23 11 8 3 1",
+    "chars": "<s> t h i s _ t o o l _ c a n _ a l s o _ b e _ m a d e _ w i t h _ a _ l a t h e _ </s>",
+    "char_seq_len": 42
+}

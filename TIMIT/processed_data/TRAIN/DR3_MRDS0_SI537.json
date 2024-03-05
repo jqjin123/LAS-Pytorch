@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MRDS0/SI537.WAV",
+    "char_map_seq": "2 12 23 3 12 22 3 18 17 8 3 18 9 3 23 11 8 3 21 4 21 8 3 19 24 5 15 12 6 3 25 8 17 23 24 21 8 22 3 11 8 21 8 3 18 17 3 26 11 12 6 11 3 17 8 4 21 15 28 3 8 25 8 21 28 18 17 8 3 12 22 3 4 10 21 8 8 7 3 1",
+    "chars": "<s> i t _ i s _ o n e _ o f _ t h e _ r a r e _ p u b l i c _ v e n t u r e s _ h e r e _ o n _ w h i c h _ n e a r l y _ e v e r y o n e _ i s _ a g r e e d _ </s>",
+    "char_seq_len": 80
+}

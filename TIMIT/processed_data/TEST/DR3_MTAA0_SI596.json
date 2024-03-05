@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MTAA0/SI596.WAV",
+    "char_map_seq": "2 18 17 3 23 11 8 22 8 3 23 11 8 28 3 9 8 8 15 3 23 11 8 28 3 6 4 17 3 21 8 15 28 3 1",
+    "chars": "<s> o n _ t h e s e _ t h e y _ f e e l _ t h e y _ c a n _ r e l y _ </s>",
+    "char_seq_len": 35
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MSDH0/SX350.WAV",
+    "char_map_seq": "2 16 4 17 28 3 26 8 4 15 23 11 28 3 23 28 6 18 18 17 22 3 22 19 15 24 21 10 8 7 3 4 17 7 3 5 18 24 10 11 23 3 5 18 23 11 3 4 3 28 4 6 11 23 3 4 17 7 3 4 3 22 6 11 18 18 17 8 21 3 1",
+    "chars": "<s> m a n y _ w e a l t h y _ t y c o o n s _ s p l u r g e d _ a n d _ b o u g h t _ b o t h _ a _ y a c h t _ a n d _ a _ s c h o o n e r _ </s>",
+    "char_seq_len": 71
+}

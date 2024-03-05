@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FTLH0/SI1639.WAV",
+    "char_map_seq": "2 15 18 25 12 8 3 28 18 24 3 16 4 14 8 3 16 8 3 9 8 8 15 3 17 4 14 8 7 3 1",
+    "chars": "<s> l o v i e _ y o u _ m a k e _ m e _ f e e l _ n a k e d _ </s>",
+    "char_seq_len": 31
+}

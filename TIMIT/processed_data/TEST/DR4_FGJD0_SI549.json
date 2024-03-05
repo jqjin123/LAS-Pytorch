@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FGJD0/SI549.WAV",
+    "char_map_seq": "2 23 11 8 22 8 3 19 21 18 10 21 4 16 22 3 8 16 19 11 4 22 12 29 8 3 23 11 8 3 4 6 6 8 19 23 4 17 6 8 3 18 9 3 5 12 21 4 6 12 4 15 3 6 15 4 22 22 21 18 18 16 22 3 19 8 4 6 8 9 24 15 15 28 3 1",
+    "chars": "<s> t h e s e _ p r o g r a m s _ e m p h a s i z e _ t h e _ a c c e p t a n c e _ o f _ b i r a c i a l _ c l a s s r o o m s _ p e a c e f u l l y _ </s>",
+    "char_seq_len": 76
+}

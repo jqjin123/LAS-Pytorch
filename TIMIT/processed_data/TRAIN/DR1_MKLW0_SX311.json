@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MKLW0/SX311.WAV",
+    "char_map_seq": "2 16 28 3 7 8 22 12 21 8 22 3 4 21 8 3 22 12 16 19 15 8 3 10 12 25 8 3 16 8 3 18 17 8 3 12 17 9 18 21 16 4 23 12 25 8 3 19 4 21 4 10 21 4 19 11 3 18 17 3 23 11 8 3 22 24 5 13 8 6 23 3 1",
+    "chars": "<s> m y _ d e s i r e s _ a r e _ s i m p l e _ g i v e _ m e _ o n e _ i n f o r m a t i v e _ p a r a g r a p h _ o n _ t h e _ s u b j e c t _ </s>",
+    "char_seq_len": 73
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MHIT0/SI983.WAV",
+    "char_map_seq": "2 21 4 5 12 8 22 3 26 8 21 8 3 6 24 21 8 7 3 18 21 3 19 21 8 25 8 17 23 8 7 3 5 28 3 16 4 7 22 23 18 17 8 22 3 26 11 12 6 11 3 23 11 8 3 19 12 18 17 8 8 21 3 26 18 21 8 3 18 21 3 6 4 21 21 12 8 7 3 1",
+    "chars": "<s> r a b i e s _ w e r e _ c u r e d _ o r _ p r e v e n t e d _ b y _ m a d s t o n e s _ w h i c h _ t h e _ p i o n e e r _ w o r e _ o r _ c a r r i e d _ </s>",
+    "char_seq_len": 80
+}

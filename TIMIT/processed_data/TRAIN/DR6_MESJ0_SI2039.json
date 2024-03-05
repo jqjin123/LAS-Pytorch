@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MESJ0/SI2039.WAV",
+    "char_map_seq": "2 11 12 22 3 22 24 19 8 21 12 18 21 22 3 11 4 7 3 4 15 22 18 3 19 21 8 4 6 11 8 7 3 23 11 12 22 3 22 4 28 12 17 10 3 12 23 3 26 4 22 3 23 11 8 3 26 4 28 3 9 18 21 3 8 23 8 21 17 4 15 3 11 18 17 18 21 3 1",
+    "chars": "<s> h i s _ s u p e r i o r s _ h a d _ a l s o _ p r e a c h e d _ t h i s _ s a y i n g _ i t _ w a s _ t h e _ w a y _ f o r _ e t e r n a l _ h o n o r _ </s>",
+    "char_seq_len": 79
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FPLS0/SI1590.WAV",
+    "char_map_seq": "2 26 12 23 11 3 11 12 22 3 6 15 24 5 3 9 18 18 23 3 11 8 3 16 12 10 11 23 3 26 8 15 15 3 5 8 3 10 21 4 23 8 9 24 15 3 1",
+    "chars": "<s> w i t h _ h i s _ c l u b _ f o o t _ h e _ m i g h t _ w e l l _ b e _ g r a t e f u l _ </s>",
+    "char_seq_len": 47
+}

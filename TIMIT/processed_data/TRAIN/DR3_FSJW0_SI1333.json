@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FSJW0/SI1333.WAV",
+    "char_map_seq": "2 27 3 21 4 28 3 9 12 15 16 22 3 18 9 3 23 11 8 3 25 8 21 23 8 5 21 4 15 3 6 18 15 24 16 17 3 22 11 18 26 8 7 3 19 21 18 10 21 8 22 22 12 18 17 3 18 9 3 23 11 8 3 7 8 16 12 17 8 21 4 15 12 29 4 23 12 18 17 3 1",
+    "chars": "<s> x _ r a y _ f i l m s _ o f _ t h e _ v e r t e b r a l _ c o l u m n _ s h o w e d _ p r o g r e s s i o n _ o f _ t h e _ d e m i n e r a l i z a t i o n _ </s>",
+    "char_seq_len": 81
+}

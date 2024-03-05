@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MAEB0/SX180.WAV",
+    "char_map_seq": "2 4 15 16 18 22 23 3 4 15 15 3 6 18 15 15 8 10 8 22 3 4 21 8 3 17 18 26 3 6 18 8 7 24 6 4 23 12 18 17 4 15 3 1",
+    "chars": "<s> a l m o s t _ a l l _ c o l l e g e s _ a r e _ n o w _ c o e d u c a t i o n a l _ </s>",
+    "char_seq_len": 44
+}

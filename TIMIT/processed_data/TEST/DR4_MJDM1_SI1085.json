@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MJDM1/SI1085.WAV",
+    "char_map_seq": "2 11 8 3 16 4 28 3 23 18 22 22 3 6 18 12 17 22 3 11 8 3 16 4 28 3 23 4 14 8 3 22 15 12 19 22 3 19 4 19 8 21 3 9 21 18 16 3 4 3 10 21 4 5 3 5 4 10 3 1",
+    "chars": "<s> h e _ m a y _ t o s s _ c o i n s _ h e _ m a y _ t a k e _ s l i p s _ p a p e r _ f r o m _ a _ g r a b _ b a g _ </s>",
+    "char_seq_len": 60
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FJEN0/SI2307.WAV",
+    "char_map_seq": "2 12 3 4 15 26 4 28 22 3 22 4 28 3 28 18 24 0 25 8 3 10 18 23 3 4 3 26 18 17 7 8 21 9 24 15 3 11 24 22 5 4 17 7 3 16 12 22 22 3 16 4 21 10 4 21 8 23 3 1",
+    "chars": "<s> i _ a l w a y s _ s a y _ y o u ' v e _ g o t _ a _ w o n d e r f u l _ h u s b a n d _ m i s s _ m a r g a r e t _ </s>",
+    "char_seq_len": 60
+}

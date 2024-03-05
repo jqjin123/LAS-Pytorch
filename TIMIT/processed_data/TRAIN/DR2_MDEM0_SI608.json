@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MDEM0/SI608.WAV",
+    "char_map_seq": "2 23 11 12 22 3 19 18 22 22 12 5 12 15 12 23 28 3 12 22 3 4 17 28 23 11 12 17 10 3 5 24 23 3 21 8 4 22 22 24 21 12 17 10 3 1",
+    "chars": "<s> t h i s _ p o s s i b i l i t y _ i s _ a n y t h i n g _ b u t _ r e a s s u r i n g _ </s>",
+    "char_seq_len": 46
+}

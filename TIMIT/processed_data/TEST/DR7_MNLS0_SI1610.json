@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MNLS0/SI1610.WAV",
+    "char_map_seq": "2 9 18 21 3 4 17 3 12 17 22 23 4 17 23 3 23 11 8 3 18 15 7 3 4 24 17 23 3 9 8 15 23 3 22 18 16 8 23 11 12 17 10 3 12 17 7 8 9 12 17 4 5 15 8 3 9 15 4 22 11 3 23 11 21 18 24 10 11 3 11 8 21 3 22 16 12 15 8 3 1",
+    "chars": "<s> f o r _ a n _ i n s t a n t _ t h e _ o l d _ a u n t _ f e l t _ s o m e t h i n g _ i n d e f i n a b l e _ f l a s h _ t h r o u g h _ h e r _ s m i l e _ </s>",
+    "char_seq_len": 81
+}

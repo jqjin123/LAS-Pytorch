@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FVKB0/SX169.WAV",
+    "char_map_seq": "2 11 18 26 3 26 18 24 15 7 3 28 18 24 3 8 25 4 15 24 4 23 8 3 23 11 12 22 3 4 15 10 8 5 21 4 12 6 3 8 27 19 21 8 22 22 12 18 17 3 1",
+    "chars": "<s> h o w _ w o u l d _ y o u _ e v a l u a t e _ t h i s _ a l g e b r a i c _ e x p r e s s i o n _ </s>",
+    "char_seq_len": 51
+}

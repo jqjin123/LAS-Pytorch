@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FKLH0/SX177.WAV",
+    "char_map_seq": "2 7 18 8 22 3 6 21 8 18 15 8 3 6 18 18 14 12 17 10 3 24 22 8 3 6 24 21 21 28 3 1",
+    "chars": "<s> d o e s _ c r e o l e _ c o o k i n g _ u s e _ c u r r y _ </s>",
+    "char_seq_len": 32
+}

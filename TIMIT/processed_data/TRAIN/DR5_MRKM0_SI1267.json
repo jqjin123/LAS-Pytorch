@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MRKM0/SI1267.WAV",
+    "char_map_seq": "2 23 11 12 21 23 28 3 9 12 25 8 3 16 12 15 12 23 4 21 28 3 4 17 7 3 6 12 25 12 15 12 4 17 3 22 23 24 7 8 17 23 22 3 21 8 6 8 12 25 8 7 3 15 4 5 18 21 4 23 18 21 28 3 23 21 4 12 17 12 17 10 3 1",
+    "chars": "<s> t h i r t y _ f i v e _ m i l i t a r y _ a n d _ c i v i l i a n _ s t u d e n t s _ r e c e i v e d _ l a b o r a t o r y _ t r a i n i n g _ </s>",
+    "char_seq_len": 74
+}

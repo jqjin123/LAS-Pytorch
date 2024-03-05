@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FDHC0/SX299.WAV",
+    "char_map_seq": "2 22 11 4 25 12 17 10 3 6 21 8 4 16 3 12 22 3 4 3 19 18 19 24 15 4 21 3 12 23 8 16 3 18 17 3 11 4 15 15 18 26 8 8 17 3 1",
+    "chars": "<s> s h a v i n g _ c r e a m _ i s _ a _ p o p u l a r _ i t e m _ o n _ h a l l o w e e n _ </s>",
+    "char_seq_len": 47
+}

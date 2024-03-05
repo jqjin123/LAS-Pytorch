@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FJSA0/SI749.WAV",
+    "char_map_seq": "2 9 18 15 7 3 12 17 23 18 3 26 11 12 19 19 8 7 3 6 21 8 4 16 3 4 17 7 3 4 7 7 3 4 3 7 4 22 11 3 18 9 3 22 4 15 23 3 4 17 7 3 22 19 21 12 17 14 15 12 17 10 3 18 9 3 19 4 19 21 12 14 4 3 1",
+    "chars": "<s> f o l d _ i n t o _ w h i p p e d _ c r e a m _ a n d _ a d d _ a _ d a s h _ o f _ s a l t _ a n d _ s p r i n k l i n g _ o f _ p a p r i k a _ </s>",
+    "char_seq_len": 75
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MSTF0/SI852.WAV",
+    "char_map_seq": "2 12 9 3 28 18 24 3 24 22 8 3 19 4 21 14 12 17 10 3 4 23 23 8 17 7 4 17 23 22 3 6 4 17 3 23 11 8 28 3 5 8 3 21 8 19 15 4 6 8 7 3 5 28 3 4 24 23 18 16 4 23 12 6 3 19 4 21 14 12 17 10 3 10 4 23 8 22 3 1",
+    "chars": "<s> i f _ y o u _ u s e _ p a r k i n g _ a t t e n d a n t s _ c a n _ t h e y _ b e _ r e p l a c e d _ b y _ a u t o m a t i c _ p a r k i n g _ g a t e s _ </s>",
+    "char_seq_len": 80
+}

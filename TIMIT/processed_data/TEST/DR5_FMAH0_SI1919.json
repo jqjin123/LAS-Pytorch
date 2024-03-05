@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FMAH0/SI1919.WAV",
+    "char_map_seq": "2 8 25 8 21 28 3 16 18 25 8 16 8 17 23 3 22 11 8 3 16 4 7 8 3 22 8 8 16 8 7 3 24 17 17 8 6 8 22 22 4 21 12 15 28 3 17 18 12 22 28 3 1",
+    "chars": "<s> e v e r y _ m o v e m e n t _ s h e _ m a d e _ s e e m e d _ u n n e c e s s a r i l y _ n o i s y _ </s>",
+    "char_seq_len": 53
+}

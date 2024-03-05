@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FSGF0/SI927.WAV",
+    "char_map_seq": "2 17 4 23 24 21 4 15 15 28 3 17 18 3 26 18 16 4 17 3 6 4 17 3 8 25 8 21 3 6 18 16 19 15 8 23 8 15 28 3 16 18 17 18 19 18 15 12 29 8 3 23 11 8 3 22 8 27 24 4 15 3 12 17 12 23 12 4 23 12 25 8 3 1",
+    "chars": "<s> n a t u r a l l y _ n o _ w o m a n _ c a n _ e v e r _ c o m p l e t e l y _ m o n o p o l i z e _ t h e _ s e x u a l _ i n i t i a t i v e _ </s>",
+    "char_seq_len": 74
+}

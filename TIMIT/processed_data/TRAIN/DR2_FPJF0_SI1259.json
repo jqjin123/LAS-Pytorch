@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FPJF0/SI1259.WAV",
+    "char_map_seq": "2 9 21 18 16 3 23 11 12 22 3 16 18 23 18 21 3 19 18 18 15 3 19 8 21 22 18 17 17 8 15 3 7 8 25 8 15 18 19 3 18 23 11 8 21 3 16 8 4 17 12 17 10 9 24 15 3 4 17 7 3 21 8 15 4 23 8 7 3 7 4 23 4 3 1",
+    "chars": "<s> f r o m _ t h i s _ m o t o r _ p o o l _ p e r s o n n e l _ d e v e l o p _ o t h e r _ m e a n i n g f u l _ a n d _ r e l a t e d _ d a t a _ </s>",
+    "char_seq_len": 75
+}

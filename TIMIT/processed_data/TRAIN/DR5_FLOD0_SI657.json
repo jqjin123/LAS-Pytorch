@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FLOD0/SI657.WAV",
+    "char_map_seq": "2 4 3 22 8 6 18 17 7 3 19 18 12 17 23 3 21 8 20 24 12 21 8 22 3 16 18 21 8 3 8 27 23 8 17 7 8 7 3 6 18 16 16 8 17 23 3 1",
+    "chars": "<s> a _ s e c o n d _ p o i n t _ r e q u i r e s _ m o r e _ e x t e n d e d _ c o m m e n t _ </s>",
+    "char_seq_len": 48
+}

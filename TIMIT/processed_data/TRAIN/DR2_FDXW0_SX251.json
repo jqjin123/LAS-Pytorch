@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FDXW0/SX251.WAV",
+    "char_map_seq": "2 26 8 3 4 19 19 15 28 3 4 24 7 12 23 18 21 28 3 16 18 7 8 15 12 17 10 3 23 18 3 6 18 16 19 24 23 8 21 3 22 19 8 8 6 11 3 21 8 6 18 10 17 12 23 12 18 17 3 1",
+    "chars": "<s> w e _ a p p l y _ a u d i t o r y _ m o d e l i n g _ t o _ c o m p u t e r _ s p e e c h _ r e c o g n i t i o n _ </s>",
+    "char_seq_len": 60
+}

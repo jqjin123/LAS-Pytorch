@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MRAI0/SI1954.WAV",
+    "char_map_seq": "2 11 18 17 8 28 3 11 8 3 26 11 12 22 19 8 21 8 7 3 1",
+    "chars": "<s> h o n e y _ h e _ w h i s p e r e d _ </s>",
+    "char_seq_len": 21
+}

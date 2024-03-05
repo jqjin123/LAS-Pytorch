@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FCRH0/SI1088.WAV",
+    "char_map_seq": "2 18 17 8 3 26 18 17 7 8 21 22 3 4 5 18 24 23 3 12 23 22 3 4 19 19 15 12 6 4 5 12 15 12 23 28 3 23 18 3 19 8 18 19 15 8 3 1",
+    "chars": "<s> o n e _ w o n d e r s _ a b o u t _ i t s _ a p p l i c a b i l i t y _ t o _ p e o p l e _ </s>",
+    "char_seq_len": 48
+}

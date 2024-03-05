@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MEAL0/SI2177.WAV",
+    "char_map_seq": "2 22 11 8 3 26 4 22 3 11 18 15 7 12 17 10 3 18 17 3 23 18 3 11 12 22 3 21 18 6 14 3 26 12 23 11 3 18 17 8 3 11 4 17 7 3 1",
+    "chars": "<s> s h e _ w a s _ h o l d i n g _ o n _ t o _ h i s _ r o c k _ w i t h _ o n e _ h a n d _ </s>",
+    "char_seq_len": 47
+}

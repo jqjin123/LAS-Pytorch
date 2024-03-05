@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FJKL0/SI932.WAV",
+    "char_map_seq": "2 11 12 22 3 19 21 8 22 6 21 12 19 23 12 18 17 3 11 18 23 3 4 17 7 3 6 18 15 7 3 6 18 16 19 21 8 22 22 8 22 3 23 18 3 12 17 6 21 8 4 22 8 3 11 8 21 3 4 5 22 18 21 19 23 12 18 17 3 18 9 3 26 4 23 8 21 3 1",
+    "chars": "<s> h i s _ p r e s c r i p t i o n _ h o t _ a n d _ c o l d _ c o m p r e s s e s _ t o _ i n c r e a s e _ h e r _ a b s o r p t i o n _ o f _ w a t e r _ </s>",
+    "char_seq_len": 79
+}

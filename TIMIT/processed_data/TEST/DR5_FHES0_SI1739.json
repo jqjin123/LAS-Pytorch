@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FHES0/SI1739.WAV",
+    "char_map_seq": "2 18 11 3 23 11 8 3 23 12 16 8 3 18 9 3 7 8 4 23 11 3 1",
+    "chars": "<s> o h _ t h e _ t i m e _ o f _ d e a t h _ </s>",
+    "char_seq_len": 23
+}

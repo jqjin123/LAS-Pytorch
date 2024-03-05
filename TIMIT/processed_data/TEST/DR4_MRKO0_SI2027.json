@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MRKO0/SI2027.WAV",
+    "char_map_seq": "2 23 11 8 28 3 6 4 16 8 3 24 19 18 17 3 6 11 8 8 23 4 15 3 7 8 8 21 3 4 23 3 26 18 18 7 15 4 17 7 3 19 18 18 15 22 3 1",
+    "chars": "<s> t h e y _ c a m e _ u p o n _ c h e e t a l _ d e e r _ a t _ w o o d l a n d _ p o o l s _ </s>",
+    "char_seq_len": 48
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MCPM0/SI564.WAV",
+    "char_map_seq": "2 26 12 17 8 3 10 15 4 22 22 3 11 8 8 15 22 3 4 21 8 3 23 18 3 5 8 3 9 18 24 17 7 3 12 17 3 5 18 23 11 3 11 12 10 11 3 4 17 7 3 22 8 16 12 3 11 8 12 10 11 23 22 3 1",
+    "chars": "<s> w i n e _ g l a s s _ h e e l s _ a r e _ t o _ b e _ f o u n d _ i n _ b o t h _ h i g h _ a n d _ s e m i _ h e i g h t s _ </s>",
+    "char_seq_len": 65
+}

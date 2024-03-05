@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MJWT0/SI1381.WAV",
+    "char_map_seq": "2 5 24 23 3 5 21 12 8 9 15 28 3 23 11 8 3 23 18 19 19 12 17 10 3 6 18 17 9 12 10 24 21 4 23 12 18 17 3 16 24 22 23 3 5 8 3 8 27 4 16 12 17 8 7 3 9 18 21 3 12 23 22 3 12 17 9 8 21 8 17 6 8 22 3 1",
+    "chars": "<s> b u t _ b r i e f l y _ t h e _ t o p p i n g _ c o n f i g u r a t i o n _ m u s t _ b e _ e x a m i n e d _ f o r _ i t s _ i n f e r e n c e s _ </s>",
+    "char_seq_len": 76
+}

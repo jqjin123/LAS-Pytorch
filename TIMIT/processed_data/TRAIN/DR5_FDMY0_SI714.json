@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FDMY0/SI714.WAV",
+    "char_map_seq": "2 18 23 11 8 21 3 12 17 23 8 21 19 21 8 23 4 23 12 18 17 22 3 19 21 8 22 8 17 23 3 23 11 8 3 16 24 22 12 6 3 4 22 3 4 17 3 8 22 22 8 17 23 12 4 15 15 28 3 12 17 23 12 16 4 23 8 3 6 21 8 4 23 12 18 17 3 1",
+    "chars": "<s> o t h e r _ i n t e r p r e t a t i o n s _ p r e s e n t _ t h e _ m u s i c _ a s _ a n _ e s s e n t i a l l y _ i n t i m a t e _ c r e a t i o n _ </s>",
+    "char_seq_len": 78
+}

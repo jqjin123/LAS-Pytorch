@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MJEB0/SI1286.WAV",
+    "char_map_seq": "2 5 15 18 26 8 21 22 3 22 11 18 24 15 7 3 5 8 3 18 19 8 21 4 23 8 7 3 19 8 21 12 18 7 12 6 4 15 15 28 3 18 17 3 4 3 21 8 10 24 15 4 21 3 22 6 11 8 7 24 15 8 3 1",
+    "chars": "<s> b l o w e r s _ s h o u l d _ b e _ o p e r a t e d _ p e r i o d i c a l l y _ o n _ a _ r e g u l a r _ s c h e d u l e _ </s>",
+    "char_seq_len": 64
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FSLB1/SI891.WAV",
+    "char_map_seq": "2 12 23 3 26 4 22 3 4 19 19 15 12 8 7 3 26 12 23 11 3 4 3 6 18 16 19 18 22 23 3 22 11 21 8 7 7 8 21 3 16 4 7 8 3 9 21 18 16 3 4 3 6 18 17 25 8 21 23 8 7 3 16 4 17 24 21 8 3 22 19 21 8 4 7 8 21 3 1",
+    "chars": "<s> i t _ w a s _ a p p l i e d _ w i t h _ a _ c o m p o s t _ s h r e d d e r _ m a d e _ f r o m _ a _ c o n v e r t e d _ m a n u r e _ s p r e a d e r _ </s>",
+    "char_seq_len": 79
+}

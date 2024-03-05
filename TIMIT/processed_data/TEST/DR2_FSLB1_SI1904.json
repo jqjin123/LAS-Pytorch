@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FSLB1/SI1904.WAV",
+    "char_map_seq": "2 26 11 8 17 3 22 24 12 23 4 5 15 28 3 15 12 10 11 23 8 7 3 26 11 4 23 3 26 18 24 15 7 3 12 23 3 15 18 18 14 3 15 12 14 8 3 1",
+    "chars": "<s> w h e n _ s u i t a b l y _ l i g h t e d _ w h a t _ w o u l d _ i t _ l o o k _ l i k e _ </s>",
+    "char_seq_len": 48
+}

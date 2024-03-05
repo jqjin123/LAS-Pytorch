@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FGMD0/SX233.WAV",
+    "char_map_seq": "2 11 12 10 11 26 4 28 3 4 17 7 3 9 21 8 8 26 4 28 3 16 8 4 17 3 23 11 8 3 22 4 16 8 3 23 11 12 17 10 3 1",
+    "chars": "<s> h i g h w a y _ a n d _ f r e e w a y _ m e a n _ t h e _ s a m e _ t h i n g _ </s>",
+    "char_seq_len": 42
+}

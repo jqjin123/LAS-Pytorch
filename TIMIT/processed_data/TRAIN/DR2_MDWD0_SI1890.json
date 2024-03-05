@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MDWD0/SI1890.WAV",
+    "char_map_seq": "2 4 15 23 11 18 24 10 11 3 16 28 3 22 11 18 23 3 14 12 15 15 8 7 3 11 12 22 3 11 18 21 22 8 3 11 8 3 21 18 15 15 8 7 3 18 9 9 3 23 11 8 3 5 4 15 8 3 18 17 3 23 18 19 3 18 9 3 16 8 3 1",
+    "chars": "<s> a l t h o u g h _ m y _ s h o t _ k i l l e d _ h i s _ h o r s e _ h e _ r o l l e d _ o f f _ t h e _ b a l e _ o n _ t o p _ o f _ m e _ </s>",
+    "char_seq_len": 72
+}

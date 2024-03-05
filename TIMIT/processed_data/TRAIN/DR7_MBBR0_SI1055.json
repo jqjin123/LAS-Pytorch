@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MBBR0/SI1055.WAV",
+    "char_map_seq": "2 12 17 23 8 21 17 4 15 3 17 4 23 12 18 17 4 15 3 21 8 22 19 18 17 22 12 5 12 15 12 23 28 3 17 18 26 3 4 3 23 21 24 12 22 16 3 17 8 8 7 3 17 18 23 3 5 8 3 7 18 6 24 16 8 17 23 8 7 3 1",
+    "chars": "<s> i n t e r n a l _ n a t i o n a l _ r e s p o n s i b i l i t y _ n o w _ a _ t r u i s m _ n e e d _ n o t _ b e _ d o c u m e n t e d _ </s>",
+    "char_seq_len": 71
+}

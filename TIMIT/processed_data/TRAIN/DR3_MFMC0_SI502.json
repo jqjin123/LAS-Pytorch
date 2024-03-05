@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MFMC0/SI502.WAV",
+    "char_map_seq": "2 4 17 7 3 28 18 24 3 23 11 12 17 14 3 28 18 24 3 11 4 25 8 3 15 4 17 10 24 4 10 8 3 19 21 18 5 15 8 16 22 3 1",
+    "chars": "<s> a n d _ y o u _ t h i n k _ y o u _ h a v e _ l a n g u a g e _ p r o b l e m s _ </s>",
+    "char_seq_len": 43
+}

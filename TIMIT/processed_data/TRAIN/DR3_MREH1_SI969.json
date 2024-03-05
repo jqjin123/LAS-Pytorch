@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MREH1/SI969.WAV",
+    "char_map_seq": "2 26 11 4 23 3 11 4 7 3 5 8 8 17 3 23 11 8 3 4 16 5 4 22 22 4 7 18 21 0 22 3 22 24 12 23 8 3 26 4 22 3 17 18 26 3 13 4 10 10 8 7 3 26 4 15 15 22 3 18 9 3 5 15 4 6 14 8 17 8 7 3 5 21 12 6 14 3 1",
+    "chars": "<s> w h a t _ h a d _ b e e n _ t h e _ a m b a s s a d o r ' s _ s u i t e _ w a s _ n o w _ j a g g e d _ w a l l s _ o f _ b l a c k e n e d _ b r i c k _ </s>",
+    "char_seq_len": 79
+}

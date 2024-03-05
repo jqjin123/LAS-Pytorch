@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MNET0/SI1446.WAV",
+    "char_map_seq": "2 12 17 3 8 4 21 15 12 8 21 3 28 8 4 21 22 3 23 11 8 3 19 21 8 22 8 21 25 4 23 12 18 17 3 18 9 3 9 18 18 7 3 26 4 22 3 8 22 22 8 17 23 12 4 15 15 28 3 21 8 15 4 23 8 7 3 23 18 3 22 24 21 25 12 25 4 15 3 1",
+    "chars": "<s> i n _ e a r l i e r _ y e a r s _ t h e _ p r e s e r v a t i o n _ o f _ f o o d _ w a s _ e s s e n t i a l l y _ r e l a t e d _ t o _ s u r v i v a l _ </s>",
+    "char_seq_len": 80
+}

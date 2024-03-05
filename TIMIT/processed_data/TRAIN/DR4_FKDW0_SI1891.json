@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FKDW0/SI1891.WAV",
+    "char_map_seq": "2 11 12 22 3 8 28 8 22 3 26 8 21 8 3 7 4 21 14 3 9 15 24 12 7 3 9 8 4 21 9 24 15 3 4 17 7 3 11 8 3 10 4 25 8 3 4 3 22 12 10 11 3 4 22 3 16 28 3 14 17 12 9 8 3 26 8 17 23 3 12 17 3 1",
+    "chars": "<s> h i s _ e y e s _ w e r e _ d a r k _ f l u i d _ f e a r f u l _ a n d _ h e _ g a v e _ a _ s i g h _ a s _ m y _ k n i f e _ w e n t _ i n _ </s>",
+    "char_seq_len": 74
+}

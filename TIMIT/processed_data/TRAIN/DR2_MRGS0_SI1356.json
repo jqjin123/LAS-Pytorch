@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRGS0/SI1356.WAV",
+    "char_map_seq": "2 23 11 8 3 19 21 18 5 15 8 16 3 18 9 3 22 18 15 12 7 4 21 12 23 28 3 4 17 7 3 16 18 21 4 15 8 3 4 10 4 12 17 3 12 17 25 18 15 25 8 22 3 23 11 8 3 6 18 17 6 8 19 23 3 18 9 3 25 4 15 24 8 22 3 1",
+    "chars": "<s> t h e _ p r o b l e m _ o f _ s o l i d a r i t y _ a n d _ m o r a l e _ a g a i n _ i n v o l v e s _ t h e _ c o n c e p t _ o f _ v a l u e s _ </s>",
+    "char_seq_len": 76
+}

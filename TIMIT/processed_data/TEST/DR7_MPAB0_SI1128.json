@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MPAB0/SI1128.WAV",
+    "char_map_seq": "2 18 23 11 8 21 22 3 12 17 25 18 14 8 7 3 23 8 6 11 17 18 15 18 10 28 3 4 17 7 3 6 18 16 16 18 17 3 22 8 17 22 8 3 1",
+    "chars": "<s> o t h e r s _ i n v o k e d _ t e c h n o l o g y _ a n d _ c o m m o n _ s e n s e _ </s>",
+    "char_seq_len": 45
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MBMA1/SI954.WAV",
+    "char_map_seq": "2 9 12 21 22 23 3 23 11 8 28 3 26 4 17 23 8 7 3 23 18 3 6 15 4 21 12 9 28 3 4 3 23 4 17 23 4 15 12 29 12 17 10 3 5 12 29 4 21 21 8 3 8 17 12 10 16 4 3 1",
+    "chars": "<s> f i r s t _ t h e y _ w a n t e d _ t o _ c l a r i f y _ a _ t a n t a l i z i n g _ b i z a r r e _ e n i g m a _ </s>",
+    "char_seq_len": 60
+}

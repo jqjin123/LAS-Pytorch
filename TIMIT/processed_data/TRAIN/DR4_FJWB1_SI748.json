@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FJWB1/SI748.WAV",
+    "char_map_seq": "2 23 18 3 19 21 8 19 4 21 8 3 16 24 22 23 4 21 7 3 6 21 8 4 16 3 5 15 8 17 7 3 16 24 22 23 4 21 7 3 26 12 23 11 3 8 17 18 24 10 11 3 26 4 23 8 21 3 23 18 3 16 4 14 8 3 4 3 23 11 12 17 3 19 4 22 23 8 3 1",
+    "chars": "<s> t o _ p r e p a r e _ m u s t a r d _ c r e a m _ b l e n d _ m u s t a r d _ w i t h _ e n o u g h _ w a t e r _ t o _ m a k e _ a _ t h i n _ p a s t e _ </s>",
+    "char_seq_len": 80
+}

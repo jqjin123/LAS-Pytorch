@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MJLN0/SI819.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 9 18 21 6 8 22 3 4 21 8 3 16 18 21 8 3 15 4 23 8 17 23 3 23 11 4 17 3 12 17 3 8 15 8 6 23 21 12 6 12 23 28 3 4 17 7 3 15 8 22 22 3 23 11 4 17 3 12 17 3 16 4 10 17 8 23 12 22 16 3 1",
+    "chars": "<s> t h e r e _ f o r c e s _ a r e _ m o r e _ l a t e n t _ t h a n _ i n _ e l e c t r i c i t y _ a n d _ l e s s _ t h a n _ i n _ m a g n e t i s m _ </s>",
+    "char_seq_len": 78
+}

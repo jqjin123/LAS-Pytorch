@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MGRP0/SI1317.WAV",
+    "char_map_seq": "2 5 8 12 17 10 3 5 4 22 8 7 3 18 17 3 22 18 3 9 8 26 3 8 25 8 17 23 22 3 23 11 8 22 8 3 21 8 22 24 15 23 22 3 4 21 8 3 18 9 3 7 24 5 12 18 24 22 3 25 4 15 12 7 12 23 28 3 1",
+    "chars": "<s> b e i n g _ b a s e d _ o n _ s o _ f e w _ e v e n t s _ t h e s e _ r e s u l t s _ a r e _ o f _ d u b i o u s _ v a l i d i t y _ </s>",
+    "char_seq_len": 69
+}

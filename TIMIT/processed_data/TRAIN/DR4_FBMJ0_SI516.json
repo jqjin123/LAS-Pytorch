@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FBMJ0/SI516.WAV",
+    "char_map_seq": "2 22 18 16 8 3 18 5 22 8 21 25 8 21 22 3 22 19 8 6 24 15 4 23 8 7 3 23 11 4 23 3 23 11 12 22 3 16 12 10 11 23 3 5 8 3 11 12 22 3 21 8 25 8 17 10 8 3 18 17 3 11 12 22 3 11 18 16 8 3 23 18 26 17 3 1",
+    "chars": "<s> s o m e _ o b s e r v e r s _ s p e c u l a t e d _ t h a t _ t h i s _ m i g h t _ b e _ h i s _ r e v e n g e _ o n _ h i s _ h o m e _ t o w n _ </s>",
+    "char_seq_len": 76
+}

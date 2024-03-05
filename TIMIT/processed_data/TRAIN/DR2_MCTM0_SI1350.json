@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MCTM0/SI1350.WAV",
+    "char_map_seq": "2 12 23 3 10 12 25 8 22 3 22 18 6 12 4 15 3 10 24 12 7 4 17 6 8 3 4 17 7 3 7 12 21 8 6 23 12 18 17 3 4 17 7 3 16 4 14 8 22 3 9 18 21 3 19 21 18 10 21 4 16 22 3 18 9 3 22 18 6 12 4 15 3 4 6 23 12 18 17 3 1",
+    "chars": "<s> i t _ g i v e s _ s o c i a l _ g u i d a n c e _ a n d _ d i r e c t i o n _ a n d _ m a k e s _ f o r _ p r o g r a m s _ o f _ s o c i a l _ a c t i o n _ </s>",
+    "char_seq_len": 81
+}

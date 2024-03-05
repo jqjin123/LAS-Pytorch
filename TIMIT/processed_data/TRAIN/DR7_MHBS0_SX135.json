@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MHBS0/SX135.WAV",
+    "char_map_seq": "2 23 8 6 11 17 12 6 4 15 3 26 21 12 23 8 21 22 3 6 4 17 3 4 5 5 21 8 25 12 4 23 8 3 12 17 3 5 12 5 15 12 18 10 21 4 19 11 12 8 22 3 1",
+    "chars": "<s> t e c h n i c a l _ w r i t e r s _ c a n _ a b b r e v i a t e _ i n _ b i b l i o g r a p h i e s _ </s>",
+    "char_seq_len": 53
+}

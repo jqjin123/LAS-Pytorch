@@ -20,7 +20,8 @@ class Convolution_Block(nn.Module):
             nn.ReLU()
         )
         
-    def forward(self, inputs):
+    def forward(self, inputs): # inputs:torch.Size([64, 257, 509]) out:torch.Size([64, 64, 255])
+        #print(inputs.shape)
         out = self.conv(inputs)
         return out
 
@@ -92,10 +93,14 @@ class Encoder(nn.Module):
         output_lengths = self.get_conv_out_lens(input_lengths)
         out = self.conv(inputs) 
         out = out.permute(0,2,1)
+        #print(out.shape)
+        # B* T 如果batch_first的话，并且按照长短排序，先长后短，需要传入各个句子的长度
+        out = nn.utils.rnn.pack_padded_sequence(out, output_lengths, enforce_sorted=False, batch_first=True)#按行给它压紧
         
-        out = nn.utils.rnn.pack_padded_sequence(out, output_lengths, enforce_sorted=False, batch_first=True)
         out, rnn_hidden_state = self.rnn(out)
-        out, _ = nn.utils.rnn.pad_packed_sequence(out)
+
+        out, _ = nn.utils.rnn.pad_packed_sequence(out) # 把压缩的还原回来，pad该还还得还
+        #print(out.shape)
         rnn_out = out.transpose(0, 1)
         
         return rnn_out, rnn_hidden_state

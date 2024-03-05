@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MMJR0/SI1648.WAV",
+    "char_map_seq": "2 12 23 3 26 4 22 3 4 3 9 4 12 21 15 28 3 16 18 7 8 21 17 3 16 18 23 8 15 3 26 12 23 11 3 20 24 12 23 8 3 4 3 5 12 23 3 18 9 3 8 15 8 6 23 21 12 6 4 15 3 7 12 22 19 15 4 28 3 12 17 3 9 21 18 17 23 3 1",
+    "chars": "<s> i t _ w a s _ a _ f a i r l y _ m o d e r n _ m o t e l _ w i t h _ q u i t e _ a _ b i t _ o f _ e l e c t r i c a l _ d i s p l a y _ i n _ f r o n t _ </s>",
+    "char_seq_len": 79
+}

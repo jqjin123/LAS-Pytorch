@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MTMR0/SI673.WAV",
+    "char_map_seq": "2 19 22 28 6 11 18 15 18 10 12 6 4 15 15 28 3 23 11 8 3 21 8 6 8 19 23 12 18 17 3 22 11 18 24 15 7 3 5 8 3 23 11 8 3 6 15 12 16 4 27 3 9 18 15 15 18 26 12 17 10 3 23 11 8 3 22 8 21 16 18 17 3 1",
+    "chars": "<s> p s y c h o l o g i c a l l y _ t h e _ r e c e p t i o n _ s h o u l d _ b e _ t h e _ c l i m a x _ f o l l o w i n g _ t h e _ s e r m o n _ </s>",
+    "char_seq_len": 74
+}

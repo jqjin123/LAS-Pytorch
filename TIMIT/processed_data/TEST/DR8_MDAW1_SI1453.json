@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MDAW1/SI1453.WAV",
+    "char_map_seq": "2 24 21 8 23 11 4 17 8 3 9 18 4 16 3 4 22 3 4 17 3 12 17 22 24 15 4 23 18 21 3 12 22 3 4 15 22 18 3 6 18 16 12 17 10 3 12 17 3 9 18 21 3 4 3 10 18 18 7 3 7 8 4 15 3 18 9 3 4 23 23 8 17 23 12 18 17 3 1",
+    "chars": "<s> u r e t h a n e _ f o a m _ a s _ a n _ i n s u l a t o r _ i s _ a l s o _ c o m i n g _ i n _ f o r _ a _ g o o d _ d e a l _ o f _ a t t e n t i o n _ </s>",
+    "char_seq_len": 79
+}

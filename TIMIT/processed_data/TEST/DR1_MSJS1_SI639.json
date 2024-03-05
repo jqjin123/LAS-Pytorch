@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MSJS1/SI639.WAV",
+    "char_map_seq": "2 23 11 8 3 11 8 4 25 8 17 22 3 21 8 9 24 22 8 7 3 23 18 3 10 12 25 8 3 24 19 3 23 11 8 12 21 3 26 8 8 19 12 17 10 3 1",
+    "chars": "<s> t h e _ h e a v e n s _ r e f u s e d _ t o _ g i v e _ u p _ t h e i r _ w e e p i n g _ </s>",
+    "char_seq_len": 47
+}

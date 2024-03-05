@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MCAE0/SI1447.WAV",
+    "char_map_seq": "2 16 12 6 21 18 18 21 10 4 17 12 22 16 22 3 4 21 8 3 18 9 23 8 17 3 21 8 22 19 18 17 22 12 5 15 8 3 9 18 21 3 23 11 8 3 21 4 19 12 7 3 22 19 18 12 15 4 10 8 3 18 9 3 9 18 18 7 22 3 1",
+    "chars": "<s> m i c r o o r g a n i s m s _ a r e _ o f t e n _ r e s p o n s i b l e _ f o r _ t h e _ r a p i d _ s p o i l a g e _ o f _ f o o d s _ </s>",
+    "char_seq_len": 71
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MBSB0/SI1353.WAV",
+    "char_map_seq": "2 23 11 8 22 8 3 17 8 8 7 22 3 24 22 24 4 15 15 28 3 6 18 17 6 8 21 17 3 23 11 8 3 21 8 7 24 6 23 12 18 17 3 18 9 3 10 24 12 15 23 3 4 17 7 3 22 18 16 8 3 21 8 15 12 8 9 3 18 9 3 23 8 17 22 12 18 17 3 1",
+    "chars": "<s> t h e s e _ n e e d s _ u s u a l l y _ c o n c e r n _ t h e _ r e d u c t i o n _ o f _ g u i l t _ a n d _ s o m e _ r e l i e f _ o f _ t e n s i o n _ </s>",
+    "char_seq_len": 80
+}

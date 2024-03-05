@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MKAJ0/SI2044.WAV",
+    "char_map_seq": "2 26 8 23 3 4 15 22 18 3 26 8 21 8 3 23 11 8 3 16 4 21 12 17 8 0 22 3 9 4 23 12 10 24 8 22 3 4 17 7 3 23 11 8 3 9 4 6 8 3 11 4 7 3 4 17 3 18 12 15 28 3 9 12 15 16 3 1",
+    "chars": "<s> w e t _ a l s o _ w e r e _ t h e _ m a r i n e ' s _ f a t i g u e s _ a n d _ t h e _ f a c e _ h a d _ a n _ o i l y _ f i l m _ </s>",
+    "char_seq_len": 68
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MRTC0/SI1458.WAV",
+    "char_map_seq": "2 4 3 7 18 16 8 22 23 12 6 3 4 24 23 18 16 4 23 12 6 3 26 4 22 11 8 21 3 23 11 4 23 3 26 12 15 15 3 10 12 25 8 3 8 20 24 12 25 4 15 8 17 23 3 21 8 22 24 15 23 22 3 16 4 28 3 5 8 3 24 22 8 7 3 1",
+    "chars": "<s> a _ d o m e s t i c _ a u t o m a t i c _ w a s h e r _ t h a t _ w i l l _ g i v e _ e q u i v a l e n t _ r e s u l t s _ m a y _ b e _ u s e d _ </s>",
+    "char_seq_len": 76
+}

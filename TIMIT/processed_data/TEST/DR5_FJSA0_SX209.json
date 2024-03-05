@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FJSA0/SX209.WAV",
+    "char_map_seq": "2 16 12 6 11 4 8 15 3 6 18 15 18 21 8 7 3 23 11 8 3 5 8 7 21 18 18 16 3 26 4 15 15 3 26 12 23 11 3 6 21 4 28 18 17 22 3 1",
+    "chars": "<s> m i c h a e l _ c o l o r e d _ t h e _ b e d r o o m _ w a l l _ w i t h _ c r a y o n s _ </s>",
+    "char_seq_len": 48
+}

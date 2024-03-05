@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MDLR1/SI669.WAV",
+    "char_map_seq": "2 15 4 23 8 21 3 26 8 3 22 11 4 15 15 3 22 8 8 3 26 11 4 23 3 11 4 19 19 8 17 8 7 3 26 11 8 17 3 4 17 3 8 16 19 8 21 18 21 3 23 18 18 14 3 23 11 12 22 3 12 7 8 4 3 23 18 18 3 15 12 23 8 21 4 15 15 28 3 1",
+    "chars": "<s> l a t e r _ w e _ s h a l l _ s e e _ w h a t _ h a p p e n e d _ w h e n _ a n _ e m p e r o r _ t o o k _ t h i s _ i d e a _ t o o _ l i t e r a l l y _ </s>",
+    "char_seq_len": 80
+}

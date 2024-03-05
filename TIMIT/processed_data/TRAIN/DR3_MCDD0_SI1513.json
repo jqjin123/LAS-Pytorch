@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MCDD0/SI1513.WAV",
+    "char_map_seq": "2 11 8 3 6 11 24 6 14 15 8 7 3 23 11 8 3 16 8 16 18 21 28 3 25 12 25 12 7 3 1",
+    "chars": "<s> h e _ c h u c k l e d _ t h e _ m e m o r y _ v i v i d _ </s>",
+    "char_seq_len": 31
+}

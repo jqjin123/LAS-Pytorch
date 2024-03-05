@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MTXS0/SI1690.WAV",
+    "char_map_seq": "2 11 8 28 3 6 18 16 8 3 5 4 6 14 3 11 8 3 22 11 18 24 23 8 7 3 1",
+    "chars": "<s> h e y _ c o m e _ b a c k _ h e _ s h o u t e d _ </s>",
+    "char_seq_len": 27
+}

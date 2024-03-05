@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MJRP0/SI585.WAV",
+    "char_map_seq": "2 18 24 21 3 8 17 23 12 21 8 3 8 6 18 17 18 16 28 3 26 12 15 15 3 11 4 25 8 3 4 3 23 8 21 21 12 9 12 6 3 24 19 15 12 9 23 3 1",
+    "chars": "<s> o u r _ e n t i r e _ e c o n o m y _ w i l l _ h a v e _ a _ t e r r i f i c _ u p l i f t _ </s>",
+    "char_seq_len": 49
+}

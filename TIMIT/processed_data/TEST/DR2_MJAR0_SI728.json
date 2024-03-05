@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MJAR0/SI728.WAV",
+    "char_map_seq": "2 19 18 4 6 11 3 23 11 8 3 4 19 19 15 8 22 3 12 17 3 23 11 12 22 3 22 28 21 24 19 3 9 18 21 3 23 26 8 15 25 8 3 16 12 17 24 23 8 22 3 7 21 4 12 17 3 23 11 8 16 3 4 17 7 3 6 18 18 15 3 1",
+    "chars": "<s> p o a c h _ t h e _ a p p l e s _ i n _ t h i s _ s y r u p _ f o r _ t w e l v e _ m i n u t e s _ d r a i n _ t h e m _ a n d _ c o o l _ </s>",
+    "char_seq_len": 72
+}

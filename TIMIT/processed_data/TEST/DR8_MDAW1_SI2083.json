@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MDAW1/SI2083.WAV",
+    "char_map_seq": "2 4 5 18 25 8 3 11 12 16 3 22 15 12 7 3 23 11 8 3 8 25 4 22 12 25 8 3 22 11 4 7 18 26 3 18 9 3 4 3 22 23 18 21 16 3 6 15 18 24 7 3 1",
+    "chars": "<s> a b o v e _ h i m _ s l i d _ t h e _ e v a s i v e _ s h a d o w _ o f _ a _ s t o r m _ c l o u d _ </s>",
+    "char_seq_len": 53
+}

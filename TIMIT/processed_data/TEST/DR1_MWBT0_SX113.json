@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MWBT0/SX113.WAV",
+    "char_map_seq": "2 4 3 16 24 22 6 24 15 4 21 3 4 5 7 18 16 8 17 3 12 22 3 10 18 18 7 3 9 18 21 3 28 18 24 21 3 5 4 6 14 3 1",
+    "chars": "<s> a _ m u s c u l a r _ a b d o m e n _ i s _ g o o d _ f o r _ y o u r _ b a c k _ </s>",
+    "char_seq_len": 43
+}

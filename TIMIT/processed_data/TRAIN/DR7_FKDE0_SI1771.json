@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FKDE0/SI1771.WAV",
+    "char_map_seq": "2 4 3 23 11 12 6 14 3 6 21 12 16 22 18 17 3 6 4 21 19 8 23 3 16 24 9 9 15 8 7 3 8 25 8 21 28 3 9 18 18 23 9 4 15 15 3 1",
+    "chars": "<s> a _ t h i c k _ c r i m s o n _ c a r p e t _ m u f f l e d _ e v e r y _ f o o t f a l l _ </s>",
+    "char_seq_len": 48
+}

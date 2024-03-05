@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MPAR0/SX406.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 26 4 22 3 4 3 10 12 10 4 17 23 12 6 3 26 4 22 19 3 17 8 27 23 3 23 18 3 12 21 25 12 17 10 0 22 3 5 12 10 3 23 18 19 3 11 4 23 3 1",
+    "chars": "<s> t h e r e _ w a s _ a _ g i g a n t i c _ w a s p _ n e x t _ t o _ i r v i n g ' s _ b i g _ t o p _ h a t _ </s>",
+    "char_seq_len": 57
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MSAH1/SX149.WAV",
+    "char_map_seq": "2 26 11 12 15 8 3 26 4 12 23 12 17 10 3 9 18 21 3 6 11 12 19 19 8 21 3 22 11 8 3 6 21 12 22 22 6 21 18 22 22 8 7 3 23 11 8 3 22 20 24 4 21 8 3 16 4 17 28 3 23 12 16 8 22 3 1",
+    "chars": "<s> w h i l e _ w a i t i n g _ f o r _ c h i p p e r _ s h e _ c r i s s c r o s s e d _ t h e _ s q u a r e _ m a n y _ t i m e s _ </s>",
+    "char_seq_len": 67
+}

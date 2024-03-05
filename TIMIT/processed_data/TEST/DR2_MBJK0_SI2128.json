@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MBJK0/SI2128.WAV",
+    "char_map_seq": "2 22 18 16 8 3 18 9 3 23 11 8 16 3 12 10 17 18 21 8 7 3 23 11 8 3 23 8 27 23 3 4 17 7 3 11 4 7 3 4 19 19 4 21 8 17 23 15 28 3 16 8 16 18 21 12 29 8 7 3 23 11 8 3 26 18 21 7 22 3 15 18 17 10 3 4 10 18 3 1",
+    "chars": "<s> s o m e _ o f _ t h e m _ i g n o r e d _ t h e _ t e x t _ a n d _ h a d _ a p p a r e n t l y _ m e m o r i z e d _ t h e _ w o r d s _ l o n g _ a g o _ </s>",
+    "char_seq_len": 80
+}

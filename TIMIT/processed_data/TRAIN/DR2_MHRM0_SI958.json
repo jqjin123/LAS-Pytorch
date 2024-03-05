@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MHRM0/SI958.WAV",
+    "char_map_seq": "2 18 17 8 3 18 9 3 23 11 8 3 16 18 22 23 3 6 18 16 16 18 17 3 18 9 3 6 4 16 19 3 16 4 15 4 7 12 8 22 3 26 4 22 3 7 12 4 21 21 11 18 8 4 3 1",
+    "chars": "<s> o n e _ o f _ t h e _ m o s t _ c o m m o n _ o f _ c a m p _ m a l a d i e s _ w a s _ d i a r r h o e a _ </s>",
+    "char_seq_len": 56
+}

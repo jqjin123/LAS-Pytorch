@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FEDW0/SI1653.WAV",
+    "char_map_seq": "2 11 8 3 22 19 18 14 8 3 22 18 18 23 11 12 17 10 15 28 3 1",
+    "chars": "<s> h e _ s p o k e _ s o o t h i n g l y _ </s>",
+    "char_seq_len": 22
+}

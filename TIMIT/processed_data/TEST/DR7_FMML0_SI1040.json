@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FMML0/SI1040.WAV",
+    "char_map_seq": "2 17 18 21 23 11 8 21 17 8 21 22 3 12 17 7 24 15 10 8 3 12 17 3 4 17 3 8 27 23 21 8 16 8 15 28 3 7 4 17 10 8 21 18 24 22 3 15 24 27 24 21 28 3 1",
+    "chars": "<s> n o r t h e r n e r s _ i n d u l g e _ i n _ a n _ e x t r e m e l y _ d a n g e r o u s _ l u x u r y _ </s>",
+    "char_seq_len": 55
+}

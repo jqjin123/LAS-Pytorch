@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FPLS0/SI960.WAV",
+    "char_map_seq": "2 17 18 3 10 21 18 24 19 3 18 9 3 18 9 9 12 6 8 21 22 3 6 4 16 8 3 12 17 3 9 18 21 3 16 18 21 8 3 22 19 12 21 12 23 8 7 3 7 8 17 24 17 6 12 4 23 12 18 17 3 23 11 4 17 3 23 11 8 3 7 18 6 23 18 21 22 3 1",
+    "chars": "<s> n o _ g r o u p _ o f _ o f f i c e r s _ c a m e _ i n _ f o r _ m o r e _ s p i r i t e d _ d e n u n c i a t i o n _ t h a n _ t h e _ d o c t o r s _ </s>",
+    "char_seq_len": 79
+}

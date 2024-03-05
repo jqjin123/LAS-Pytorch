@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MRAI0/SI792.WAV",
+    "char_map_seq": "2 5 24 23 3 9 8 17 6 8 7 3 18 21 3 24 17 9 8 17 6 8 7 3 17 18 3 19 18 18 15 3 22 12 7 8 3 12 22 3 23 11 8 3 19 15 4 6 8 3 9 18 21 3 21 24 17 17 12 17 10 3 18 21 3 11 18 21 22 8 19 15 4 28 3 1",
+    "chars": "<s> b u t _ f e n c e d _ o r _ u n f e n c e d _ n o _ p o o l _ s i d e _ i s _ t h e _ p l a c e _ f o r _ r u n n i n g _ o r _ h o r s e p l a y _ </s>",
+    "char_seq_len": 76
+}

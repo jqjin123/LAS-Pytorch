@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FRNG0/SI725.WAV",
+    "char_map_seq": "2 4 3 22 19 21 12 17 10 3 23 21 4 19 3 9 18 21 3 22 18 15 12 7 3 16 18 24 17 23 12 17 10 3 4 17 7 3 4 3 21 8 10 24 15 4 21 3 11 4 17 7 3 23 21 4 19 3 4 21 8 3 4 15 22 18 3 4 25 4 12 15 4 5 15 8 3 1",
+    "chars": "<s> a _ s p r i n g _ t r a p _ f o r _ s o l i d _ m o u n t i n g _ a n d _ a _ r e g u l a r _ h a n d _ t r a p _ a r e _ a l s o _ a v a i l a b l e _ </s>",
+    "char_seq_len": 78
+}

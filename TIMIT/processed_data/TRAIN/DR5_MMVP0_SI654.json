@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MMVP0/SI654.WAV",
+    "char_map_seq": "2 28 8 23 3 12 23 3 8 27 12 22 23 22 3 4 17 7 3 11 4 22 3 4 17 3 18 5 13 8 6 23 12 25 8 3 21 8 4 15 12 23 28 3 26 11 12 6 11 3 6 4 17 3 5 8 3 8 27 19 8 21 12 8 17 6 8 7 3 4 17 7 3 14 17 18 26 17 3 1",
+    "chars": "<s> y e t _ i t _ e x i s t s _ a n d _ h a s _ a n _ o b j e c t i v e _ r e a l i t y _ w h i c h _ c a n _ b e _ e x p e r i e n c e d _ a n d _ k n o w n _ </s>",
+    "char_seq_len": 80
+}

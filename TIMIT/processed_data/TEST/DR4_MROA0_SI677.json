@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MROA0/SI677.WAV",
+    "char_map_seq": "2 6 18 16 19 4 21 4 5 15 8 3 23 21 8 17 7 22 3 6 4 17 3 5 8 3 17 18 23 8 7 3 8 15 22 8 26 11 8 21 8 3 1",
+    "chars": "<s> c o m p a r a b l e _ t r e n d s _ c a n _ b e _ n o t e d _ e l s e w h e r e _ </s>",
+    "char_seq_len": 43
+}

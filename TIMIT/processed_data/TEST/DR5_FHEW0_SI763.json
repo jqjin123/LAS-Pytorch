@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FHEW0/SI763.WAV",
+    "char_map_seq": "2 13 4 21 22 3 4 21 8 3 4 22 22 8 16 5 15 8 7 3 12 17 3 5 18 26 15 3 18 9 3 5 24 23 23 8 21 3 16 18 15 7 3 1",
+    "chars": "<s> j a r s _ a r e _ a s s e m b l e d _ i n _ b o w l _ o f _ b u t t e r _ m o l d _ </s>",
+    "char_seq_len": 44
+}

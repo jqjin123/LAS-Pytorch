@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MWSB0/SI996.WAV",
+    "char_map_seq": "2 22 11 8 3 22 8 21 25 8 7 3 9 18 21 3 4 3 17 24 16 5 8 21 3 18 9 3 28 8 4 21 22 3 26 12 23 11 18 24 23 3 19 4 28 3 5 8 28 18 17 7 3 11 8 21 3 23 21 4 25 8 15 3 4 17 7 3 16 4 12 17 23 8 17 4 17 6 8 3 1",
+    "chars": "<s> s h e _ s e r v e d _ f o r _ a _ n u m b e r _ o f _ y e a r s _ w i t h o u t _ p a y _ b e y o n d _ h e r _ t r a v e l _ a n d _ m a i n t e n a n c e _ </s>",
+    "char_seq_len": 81
+}

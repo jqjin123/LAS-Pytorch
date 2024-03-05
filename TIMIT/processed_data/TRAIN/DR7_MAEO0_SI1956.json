@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MAEO0/SI1956.WAV",
+    "char_map_seq": "2 4 3 22 12 17 10 15 8 3 14 12 6 14 3 16 4 7 8 3 12 23 3 22 19 21 12 17 10 3 18 19 8 17 3 22 11 24 7 7 8 21 12 17 10 3 1",
+    "chars": "<s> a _ s i n g l e _ k i c k _ m a d e _ i t _ s p r i n g _ o p e n _ s h u d d e r i n g _ </s>",
+    "char_seq_len": 47
+}

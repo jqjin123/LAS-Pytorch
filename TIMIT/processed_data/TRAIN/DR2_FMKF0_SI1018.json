@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FMKF0/SI1018.WAV",
+    "char_map_seq": "2 6 4 23 23 15 8 3 26 11 12 6 11 3 7 12 8 7 3 9 21 18 16 3 23 11 8 16 3 26 12 17 23 8 21 3 22 23 18 21 16 22 3 26 8 21 8 3 21 8 9 8 21 21 8 7 3 23 18 3 4 22 3 23 11 8 3 26 12 17 23 8 21 3 14 12 15 15 3 1",
+    "chars": "<s> c a t t l e _ w h i c h _ d i e d _ f r o m _ t h e m _ w i n t e r _ s t o r m s _ w e r e _ r e f e r r e d _ t o _ a s _ t h e _ w i n t e r _ k i l l _ </s>",
+    "char_seq_len": 80
+}

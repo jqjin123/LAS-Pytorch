@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MCTT0/SI928.WAV",
+    "char_map_seq": "2 4 22 14 8 7 3 26 11 28 3 11 8 3 21 8 19 15 12 8 7 3 19 21 12 16 15 28 3 5 8 6 4 24 22 8 3 23 11 4 23 0 22 3 17 18 3 4 6 23 12 25 12 23 28 3 9 18 21 3 4 3 10 8 17 23 15 8 16 4 17 3 1",
+    "chars": "<s> a s k e d _ w h y _ h e _ r e p l i e d _ p r i m l y _ b e c a u s e _ t h a t ' s _ n o _ a c t i v i t y _ f o r _ a _ g e n t l e m a n _ </s>",
+    "char_seq_len": 73
+}

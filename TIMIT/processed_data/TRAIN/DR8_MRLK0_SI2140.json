@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MRLK0/SI2140.WAV",
+    "char_map_seq": "2 26 4 22 3 12 23 3 4 3 11 28 22 23 8 21 12 6 4 15 3 21 8 15 8 4 22 8 3 9 21 18 16 3 23 11 8 3 15 18 17 10 3 22 23 21 4 12 17 3 18 9 3 25 12 10 12 15 4 17 6 8 3 18 9 3 23 11 18 22 8 3 26 8 8 14 22 3 1",
+    "chars": "<s> w a s _ i t _ a _ h y s t e r i c a l _ r e l e a s e _ f r o m _ t h e _ l o n g _ s t r a i n _ o f _ v i g i l a n c e _ o f _ t h o s e _ w e e k s _ </s>",
+    "char_seq_len": 79
+}

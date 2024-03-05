@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MGJF0/SI1901.WAV",
+    "char_map_seq": "2 4 3 26 4 21 16 3 5 21 8 8 29 8 3 19 15 4 28 8 7 3 4 6 21 18 22 22 3 12 23 3 16 18 25 12 17 10 3 12 23 3 15 12 14 8 3 26 4 25 8 22 3 1",
+    "chars": "<s> a _ w a r m _ b r e e z e _ p l a y e d _ a c r o s s _ i t _ m o v i n g _ i t _ l i k e _ w a v e s _ </s>",
+    "char_seq_len": 54
+}

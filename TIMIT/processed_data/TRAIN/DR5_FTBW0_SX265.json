@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FTBW0/SX265.WAV",
+    "char_map_seq": "2 23 11 8 3 22 4 26 3 12 22 3 5 21 18 14 8 17 3 22 18 3 6 11 18 19 3 23 11 8 3 26 18 18 7 3 12 17 22 23 8 4 7 3 1",
+    "chars": "<s> t h e _ s a w _ i s _ b r o k e n _ s o _ c h o p _ t h e _ w o o d _ i n s t e a d _ </s>",
+    "char_seq_len": 45
+}

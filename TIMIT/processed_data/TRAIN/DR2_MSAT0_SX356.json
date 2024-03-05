@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MSAT0/SX356.WAV",
+    "char_map_seq": "2 7 12 4 17 8 3 16 4 28 3 22 19 15 24 21 10 8 3 4 17 7 3 5 24 28 3 4 3 23 24 21 20 24 18 12 22 8 3 17 8 6 14 15 4 6 8 3 1",
+    "chars": "<s> d i a n e _ m a y _ s p l u r g e _ a n d _ b u y _ a _ t u r q u o i s e _ n e c k l a c e _ </s>",
+    "char_seq_len": 49
+}

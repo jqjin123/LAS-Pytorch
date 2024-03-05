@@ -115,7 +115,7 @@ def main(config):
     
     ### Data related
     dataset_train = SpeechDataGenerator(manifest=args.training_filepath,max_len=config['max_out_len'],pad_token=config['pad_token'])
-    dataloader_train = DataLoader(dataset_train, batch_size=config['batch_size'],shuffle=True,collate_fn=speech_collate) 
+    dataloader_train = DataLoader(dataset_train, batch_size=config['batch_size'],shuffle=True,collate_fn=speech_collate) #collate_fn：如何取样本的
     
     dataset_test = SpeechDataGenerator(manifest=args.testing_filepath,max_len=config['max_out_len'],pad_token=config['pad_token'])
     dataloader_test = DataLoader(dataset_test, batch_size=config['batch_size'] ,shuffle=True,collate_fn=speech_collate) 

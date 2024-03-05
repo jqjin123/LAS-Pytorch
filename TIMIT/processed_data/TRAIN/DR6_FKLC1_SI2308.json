@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FKLC1/SI2308.WAV",
+    "char_map_seq": "2 16 4 28 3 12 3 10 8 23 3 22 18 16 8 3 16 18 21 8 3 6 18 18 14 12 8 22 3 17 18 21 4 3 1",
+    "chars": "<s> m a y _ i _ g e t _ s o m e _ m o r e _ c o o k i e s _ n o r a _ </s>",
+    "char_seq_len": 35
+}

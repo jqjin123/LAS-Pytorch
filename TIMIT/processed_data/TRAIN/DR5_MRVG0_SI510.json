@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MRVG0/SI510.WAV",
+    "char_map_seq": "2 4 7 8 20 24 4 23 8 3 6 18 16 19 8 17 22 4 23 12 18 17 3 12 22 3 12 17 7 12 22 19 8 17 22 4 5 15 8 3 1",
+    "chars": "<s> a d e q u a t e _ c o m p e n s a t i o n _ i s _ i n d i s p e n s a b l e _ </s>",
+    "char_seq_len": 41
+}

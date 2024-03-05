@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FDMS0/SI1502.WAV",
+    "char_map_seq": "2 12 23 3 26 4 22 3 17 18 23 3 8 27 4 6 23 15 28 3 19 4 17 12 6 3 23 11 8 28 3 10 4 25 8 3 26 4 28 3 23 18 3 5 24 23 3 23 11 8 28 3 6 18 24 15 7 3 17 18 23 3 13 24 22 23 3 22 12 23 3 23 11 8 21 8 3 1",
+    "chars": "<s> i t _ w a s _ n o t _ e x a c t l y _ p a n i c _ t h e y _ g a v e _ w a y _ t o _ b u t _ t h e y _ c o u l d _ n o t _ j u s t _ s i t _ t h e r e _ </s>",
+    "char_seq_len": 78
+}

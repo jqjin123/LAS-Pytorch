@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MABW0/SX314.WAV",
+    "char_map_seq": "2 12 9 3 19 8 18 19 15 8 3 26 8 21 8 3 16 18 21 8 3 10 8 17 8 21 18 24 22 3 23 11 8 21 8 3 26 18 24 15 7 3 5 8 3 17 18 3 17 8 8 7 3 9 18 21 3 26 8 15 9 4 21 8 3 1",
+    "chars": "<s> i f _ p e o p l e _ w e r e _ m o r e _ g e n e r o u s _ t h e r e _ w o u l d _ b e _ n o _ n e e d _ f o r _ w e l f a r e _ </s>",
+    "char_seq_len": 66
+}

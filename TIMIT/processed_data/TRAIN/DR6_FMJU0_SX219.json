@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FMJU0/SX219.WAV",
+    "char_map_seq": "2 17 18 17 19 21 18 9 12 23 3 18 21 10 4 17 12 29 4 23 12 18 17 22 3 11 4 25 8 3 9 21 8 20 24 8 17 23 3 9 24 17 7 3 21 4 12 22 8 21 22 3 1",
+    "chars": "<s> n o n p r o f i t _ o r g a n i z a t i o n s _ h a v e _ f r e q u e n t _ f u n d _ r a i s e r s _ </s>",
+    "char_seq_len": 53
+}

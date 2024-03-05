@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FADG0/SI1909.WAV",
+    "char_map_seq": "2 9 4 23 3 22 11 18 26 8 7 3 12 17 3 15 18 18 22 8 3 21 18 15 15 22 3 5 8 17 8 4 23 11 3 23 11 8 3 22 11 12 21 23 3 1",
+    "chars": "<s> f a t _ s h o w e d _ i n _ l o o s e _ r o l l s _ b e n e a t h _ t h e _ s h i r t _ </s>",
+    "char_seq_len": 46
+}

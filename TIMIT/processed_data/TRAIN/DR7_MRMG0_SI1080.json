@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MRMG0/SI1080.WAV",
+    "char_map_seq": "2 26 11 8 17 3 11 8 3 26 4 22 3 8 12 10 11 23 3 11 8 3 5 8 10 4 17 3 25 12 18 15 12 17 3 15 8 22 22 18 17 22 3 1",
+    "chars": "<s> w h e n _ h e _ w a s _ e i g h t _ h e _ b e g a n _ v i o l i n _ l e s s o n s _ </s>",
+    "char_seq_len": 44
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MJWG0/SX175.WAV",
+    "char_map_seq": "2 22 8 25 8 21 8 3 16 28 18 19 12 4 3 6 18 17 23 21 12 5 24 23 8 7 3 23 18 3 21 18 17 0 22 3 12 17 9 8 21 12 18 21 12 23 28 3 6 18 16 19 15 8 27 3 1",
+    "chars": "<s> s e v e r e _ m y o p i a _ c o n t r i b u t e d _ t o _ r o n ' s _ i n f e r i o r i t y _ c o m p l e x _ </s>",
+    "char_seq_len": 57
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MDCD0/SI785.WAV",
+    "char_map_seq": "2 23 11 8 3 23 11 8 18 21 28 3 23 11 8 3 12 7 8 4 3 5 8 11 12 17 7 3 18 24 21 3 7 8 22 12 10 17 3 12 22 3 16 18 7 24 15 4 21 3 24 17 12 23 22 3 18 21 3 19 4 17 8 15 12 29 4 23 12 18 17 3 1",
+    "chars": "<s> t h e _ t h e o r y _ t h e _ i d e a _ b e h i n d _ o u r _ d e s i g n _ i s _ m o d u l a r _ u n i t s _ o r _ p a n e l i z a t i o n _ </s>",
+    "char_seq_len": 73
+}

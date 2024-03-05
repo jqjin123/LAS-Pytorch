@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FDFB0/SI1318.WAV",
+    "char_map_seq": "2 23 18 3 26 11 4 23 3 8 27 23 8 17 23 3 22 24 6 11 3 15 18 26 3 7 8 17 22 12 23 28 3 4 19 19 15 12 8 22 3 23 18 3 16 12 6 21 18 16 8 23 8 18 21 12 23 8 22 3 12 22 3 24 17 14 17 18 26 17 3 1",
+    "chars": "<s> t o _ w h a t _ e x t e n t _ s u c h _ l o w _ d e n s i t y _ a p p l i e s _ t o _ m i c r o m e t e o r i t e s _ i s _ u n k n o w n _ </s>",
+    "char_seq_len": 72
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MDHL0/SI809.WAV",
+    "char_map_seq": "2 23 18 19 18 10 21 4 19 11 28 3 23 18 19 18 10 21 4 19 11 28 3 12 22 3 25 8 21 28 3 12 16 19 18 21 23 4 17 23 3 1",
+    "chars": "<s> t o p o g r a p h y _ t o p o g r a p h y _ i s _ v e r y _ i m p o r t a n t _ </s>",
+    "char_seq_len": 42
+}

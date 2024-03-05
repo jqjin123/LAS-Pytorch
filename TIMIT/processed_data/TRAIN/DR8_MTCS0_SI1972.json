@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MTCS0/SI1972.WAV",
+    "char_map_seq": "2 19 8 21 9 8 6 23 3 11 8 3 23 11 18 24 10 11 23 3 1",
+    "chars": "<s> p e r f e c t _ h e _ t h o u g h t _ </s>",
+    "char_seq_len": 21
+}

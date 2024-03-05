@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MRTK0/SI1750.WAV",
+    "char_map_seq": "2 6 18 24 15 7 3 23 11 8 3 4 16 5 4 22 22 4 7 18 21 3 11 12 16 22 8 15 9 3 5 8 3 23 11 8 3 16 4 17 3 18 17 3 23 11 12 22 3 22 12 7 8 3 23 11 8 3 19 21 12 16 8 3 16 12 17 12 22 23 8 21 3 9 8 4 21 8 7 3 1",
+    "chars": "<s> c o u l d _ t h e _ a m b a s s a d o r _ h i m s e l f _ b e _ t h e _ m a n _ o n _ t h i s _ s i d e _ t h e _ p r i m e _ m i n i s t e r _ f e a r e d _ </s>",
+    "char_seq_len": 81
+}

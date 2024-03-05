@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FMAH0/SX119.WAV",
+    "char_map_seq": "2 23 11 8 3 16 12 22 20 24 18 23 8 3 26 4 22 3 21 8 23 21 4 6 23 8 7 3 26 12 23 11 3 4 17 3 4 19 18 15 18 10 28 3 1",
+    "chars": "<s> t h e _ m i s q u o t e _ w a s _ r e t r a c t e d _ w i t h _ a n _ a p o l o g y _ </s>",
+    "char_seq_len": 45
+}

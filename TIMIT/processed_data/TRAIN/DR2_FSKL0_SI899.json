@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FSKL0/SI899.WAV",
+    "char_map_seq": "2 11 18 16 8 3 16 4 7 8 3 22 4 24 8 21 14 21 4 24 23 3 12 22 3 22 8 21 25 8 7 3 18 17 6 8 3 4 3 26 8 8 14 3 1",
+    "chars": "<s> h o m e _ m a d e _ s a u e r k r a u t _ i s _ s e r v e d _ o n c e _ a _ w e e k _ </s>",
+    "char_seq_len": 45
+}

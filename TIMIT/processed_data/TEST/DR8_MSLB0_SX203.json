@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MSLB0/SX203.WAV",
+    "char_map_seq": "2 23 11 8 3 6 4 24 22 8 26 4 28 3 8 17 7 8 7 3 4 5 21 24 19 23 15 28 3 4 23 3 23 11 8 3 22 11 18 21 8 3 1",
+    "chars": "<s> t h e _ c a u s e w a y _ e n d e d _ a b r u p t l y _ a t _ t h e _ s h o r e _ </s>",
+    "char_seq_len": 43
+}

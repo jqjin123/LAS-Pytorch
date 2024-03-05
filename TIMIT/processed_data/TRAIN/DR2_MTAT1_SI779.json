@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MTAT1/SI779.WAV",
+    "char_map_seq": "2 23 11 8 3 14 8 8 15 22 18 17 3 16 4 7 8 3 18 9 3 23 26 18 3 23 11 21 8 8 3 12 17 6 11 3 26 12 7 23 11 22 3 12 22 3 17 8 27 23 3 12 17 22 23 4 15 15 8 7 3 1",
+    "chars": "<s> t h e _ k e e l s o n _ m a d e _ o f _ t w o _ t h r e e _ i n c h _ w i d t h s _ i s _ n e x t _ i n s t a l l e d _ </s>",
+    "char_seq_len": 62
+}

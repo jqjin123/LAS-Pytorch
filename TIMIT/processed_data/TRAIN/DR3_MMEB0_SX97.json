@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMEB0/SX97.WAV",
+    "char_map_seq": "2 19 8 17 10 24 12 17 22 3 15 12 25 8 3 17 8 4 21 3 23 11 8 3 12 6 28 3 4 17 23 4 21 6 23 12 6 3 1",
+    "chars": "<s> p e n g u i n s _ l i v e _ n e a r _ t h e _ i c y _ a n t a r c t i c _ </s>",
+    "char_seq_len": 39
+}

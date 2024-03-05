@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MTAS1/SI2098.WAV",
+    "char_map_seq": "2 11 8 3 10 4 25 8 3 4 3 22 11 18 21 23 3 11 4 21 7 3 15 4 24 10 11 3 4 17 7 3 15 18 18 14 8 7 3 4 23 3 11 8 21 3 14 17 18 26 12 17 10 15 28 3 1",
+    "chars": "<s> h e _ g a v e _ a _ s h o r t _ h a r d _ l a u g h _ a n d _ l o o k e d _ a t _ h e r _ k n o w i n g l y _ </s>",
+    "char_seq_len": 57
+}

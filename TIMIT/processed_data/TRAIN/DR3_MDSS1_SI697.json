@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MDSS1/SI697.WAV",
+    "char_map_seq": "2 5 24 23 3 9 21 18 16 3 23 11 8 3 22 23 4 21 23 3 23 11 8 28 3 11 4 7 3 23 26 18 3 12 16 19 18 21 23 4 17 23 3 12 17 10 21 8 7 12 8 17 23 22 3 22 12 17 6 8 21 12 23 28 3 4 17 7 3 21 8 4 15 12 22 16 3 1",
+    "chars": "<s> b u t _ f r o m _ t h e _ s t a r t _ t h e y _ h a d _ t w o _ i m p o r t a n t _ i n g r e d i e n t s _ s i n c e r i t y _ a n d _ r e a l i s m _ </s>",
+    "char_seq_len": 78
+}

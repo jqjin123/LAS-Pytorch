@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FALR0/SI1955.WAV",
+    "char_map_seq": "2 15 12 14 8 3 8 17 18 24 10 11 3 26 8 0 15 15 3 4 15 15 3 5 8 3 24 19 3 18 17 3 23 18 19 3 5 28 3 22 24 17 7 18 26 17 3 1",
+    "chars": "<s> l i k e _ e n o u g h _ w e ' l l _ a l l _ b e _ u p _ o n _ t o p _ b y _ s u n d o w n _ </s>",
+    "char_seq_len": 48
+}

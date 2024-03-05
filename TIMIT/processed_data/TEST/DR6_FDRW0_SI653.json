@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/FDRW0/SI653.WAV",
+    "char_map_seq": "2 22 24 21 8 15 28 3 23 11 12 22 3 12 22 3 4 3 21 8 4 15 12 23 28 3 26 8 3 4 15 15 3 4 6 14 17 18 26 15 8 7 10 8 3 1",
+    "chars": "<s> s u r e l y _ t h i s _ i s _ a _ r e a l i t y _ w e _ a l l _ a c k n o w l e d g e _ </s>",
+    "char_seq_len": 46
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MCMB0/SX8.WAV",
+    "char_map_seq": "2 26 11 28 3 28 8 15 15 3 18 21 3 26 18 21 21 28 3 18 25 8 21 3 22 12 15 15 28 3 12 23 8 16 22 3 1",
+    "chars": "<s> w h y _ y e l l _ o r _ w o r r y _ o v e r _ s i l l y _ i t e m s _ </s>",
+    "char_seq_len": 37
+}

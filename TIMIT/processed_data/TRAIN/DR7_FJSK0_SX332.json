@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FJSK0/SX332.WAV",
+    "char_map_seq": "2 23 18 7 7 3 19 15 4 6 8 7 3 23 18 19 3 19 21 12 18 21 12 23 28 3 18 17 3 10 8 23 23 12 17 10 3 11 12 22 3 5 12 14 8 3 9 12 27 8 7 3 1",
+    "chars": "<s> t o d d _ p l a c e d _ t o p _ p r i o r i t y _ o n _ g e t t i n g _ h i s _ b i k e _ f i x e d _ </s>",
+    "char_seq_len": 53
+}

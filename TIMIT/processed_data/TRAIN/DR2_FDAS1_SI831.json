@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FDAS1/SI831.WAV",
+    "char_map_seq": "2 22 8 15 8 6 23 12 17 10 3 5 24 17 14 22 3 5 28 3 8 6 18 17 18 16 12 6 3 6 18 16 19 4 21 12 22 18 17 3 12 22 3 24 22 24 4 15 15 28 3 4 17 3 12 17 7 12 25 12 7 24 4 15 3 19 21 18 5 15 8 16 3 1",
+    "chars": "<s> s e l e c t i n g _ b u n k s _ b y _ e c o n o m i c _ c o m p a r i s o n _ i s _ u s u a l l y _ a n _ i n d i v i d u a l _ p r o b l e m _ </s>",
+    "char_seq_len": 74
+}

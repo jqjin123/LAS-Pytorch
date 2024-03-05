@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MSFH0/SI586.WAV",
+    "char_map_seq": "2 18 17 8 3 8 25 8 17 3 10 4 25 8 3 16 28 3 15 12 23 23 15 8 3 7 18 10 3 4 3 5 12 22 6 24 12 23 3 1",
+    "chars": "<s> o n e _ e v e n _ g a v e _ m y _ l i t t l e _ d o g _ a _ b i s c u i t _ </s>",
+    "char_seq_len": 40
+}

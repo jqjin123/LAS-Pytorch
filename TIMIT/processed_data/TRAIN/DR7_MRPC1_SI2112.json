@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MRPC1/SI2112.WAV",
+    "char_map_seq": "2 11 8 0 22 3 4 3 19 12 17 23 18 3 4 17 7 3 11 8 3 19 11 18 23 18 10 21 4 19 11 22 3 26 18 17 7 8 21 9 24 15 15 28 3 1",
+    "chars": "<s> h e ' s _ a _ p i n t o _ a n d _ h e _ p h o t o g r a p h s _ w o n d e r f u l l y _ </s>",
+    "char_seq_len": 46
+}

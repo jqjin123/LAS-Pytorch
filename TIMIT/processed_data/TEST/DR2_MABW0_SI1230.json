@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MABW0/SI1230.WAV",
+    "char_map_seq": "2 19 21 12 17 6 8 22 3 4 17 7 3 9 4 6 23 12 18 17 22 3 6 15 4 22 11 8 7 3 12 17 3 23 11 8 3 18 19 8 17 3 22 23 21 8 8 23 3 4 17 7 3 7 12 8 7 3 18 17 3 23 11 8 3 18 19 8 17 3 22 6 4 9 9 18 15 7 3 1",
+    "chars": "<s> p r i n c e s _ a n d _ f a c t i o n s _ c l a s h e d _ i n _ t h e _ o p e n _ s t r e e t _ a n d _ d i e d _ o n _ t h e _ o p e n _ s c a f f o l d _ </s>",
+    "char_seq_len": 80
+}

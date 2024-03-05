@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MJES0/SI2014.WAV",
+    "char_map_seq": "2 22 24 15 19 11 24 21 3 18 12 15 3 4 17 7 3 6 18 19 21 4 3 16 4 14 8 3 23 11 8 3 14 12 17 7 3 18 9 3 23 12 17 7 8 21 3 4 17 28 3 9 12 21 8 5 24 10 3 7 21 8 4 16 22 3 18 9 3 1",
+    "chars": "<s> s u l p h u r _ o i l _ a n d _ c o p r a _ m a k e _ t h e _ k i n d _ o f _ t i n d e r _ a n y _ f i r e b u g _ d r e a m s _ o f _ </s>",
+    "char_seq_len": 70
+}

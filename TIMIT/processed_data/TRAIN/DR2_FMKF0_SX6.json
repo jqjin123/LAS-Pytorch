@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FMKF0/SX6.WAV",
+    "char_map_seq": "2 5 21 12 10 11 23 3 22 24 17 22 11 12 17 8 3 22 11 12 16 16 8 21 22 3 18 17 3 23 11 8 3 18 6 8 4 17 3 1",
+    "chars": "<s> b r i g h t _ s u n s h i n e _ s h i m m e r s _ o n _ t h e _ o c e a n _ </s>",
+    "char_seq_len": 40
+}

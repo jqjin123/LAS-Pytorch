@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MDED0/SX270.WAV",
+    "char_map_seq": "2 4 21 8 3 11 18 15 12 7 4 28 3 4 19 21 18 17 22 3 4 25 4 12 15 4 5 15 8 3 23 18 3 24 22 3 1",
+    "chars": "<s> a r e _ h o l i d a y _ a p r o n s _ a v a i l a b l e _ t o _ u s _ </s>",
+    "char_seq_len": 37
+}

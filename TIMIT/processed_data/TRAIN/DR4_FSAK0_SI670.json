@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FSAK0/SI670.WAV",
+    "char_map_seq": "2 17 8 10 15 8 6 23 3 16 8 4 17 22 3 22 19 12 21 12 23 24 4 15 3 19 4 21 4 15 28 22 12 22 3 18 21 3 7 8 4 23 11 3 1",
+    "chars": "<s> n e g l e c t _ m e a n s _ s p i r i t u a l _ p a r a l y s i s _ o r _ d e a t h _ </s>",
+    "char_seq_len": 45
+}

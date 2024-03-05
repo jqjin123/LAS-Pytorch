@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FJRB0/SX222.WAV",
+    "char_map_seq": "2 28 18 24 3 4 15 26 4 28 22 3 6 18 16 8 3 24 19 3 26 12 23 11 3 19 4 23 11 18 15 18 10 12 6 4 15 3 8 27 4 16 19 15 8 22 3 1",
+    "chars": "<s> y o u _ a l w a y s _ c o m e _ u p _ w i t h _ p a t h o l o g i c a l _ e x a m p l e s _ </s>",
+    "char_seq_len": 48
+}

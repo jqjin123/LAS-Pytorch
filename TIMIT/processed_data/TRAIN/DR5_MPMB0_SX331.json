@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MPMB0/SX331.WAV",
+    "char_map_seq": "2 23 11 8 3 5 12 10 3 7 18 10 3 15 18 25 8 7 3 23 18 3 6 11 8 26 3 18 17 3 23 11 8 3 18 15 7 3 21 4 10 3 7 18 15 15 3 1",
+    "chars": "<s> t h e _ b i g _ d o g _ l o v e d _ t o _ c h e w _ o n _ t h e _ o l d _ r a g _ d o l l _ </s>",
+    "char_seq_len": 48
+}

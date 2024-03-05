@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FDRD1/SX284.WAV",
+    "char_map_seq": "2 13 8 9 9 3 23 11 18 24 10 11 23 3 28 18 24 3 4 21 10 24 8 7 3 12 17 3 9 4 25 18 21 3 18 9 3 4 3 6 8 17 23 21 12 9 24 10 8 3 19 24 21 6 11 4 22 8 3 1",
+    "chars": "<s> j e f f _ t h o u g h t _ y o u _ a r g u e d _ i n _ f a v o r _ o f _ a _ c e n t r i f u g e _ p u r c h a s e _ </s>",
+    "char_seq_len": 60
+}

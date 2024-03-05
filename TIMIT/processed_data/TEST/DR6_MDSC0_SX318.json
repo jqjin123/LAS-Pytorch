@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MDSC0/SX318.WAV",
+    "char_map_seq": "2 19 15 8 4 22 8 3 7 12 10 3 16 28 3 19 18 23 4 23 18 8 22 3 24 19 3 5 8 9 18 21 8 3 9 21 18 22 23 3 1",
+    "chars": "<s> p l e a s e _ d i g _ m y _ p o t a t o e s _ u p _ b e f o r e _ f r o s t _ </s>",
+    "char_seq_len": 41
+}

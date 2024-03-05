@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MDPS0/SI1979.WAV",
+    "char_map_seq": "2 26 8 3 26 8 21 8 3 18 9 9 3 23 11 8 3 21 18 4 7 3 10 15 8 4 16 12 17 10 3 5 4 21 5 8 7 3 26 12 21 8 3 19 24 15 15 12 17 10 3 23 4 24 23 3 1",
+    "chars": "<s> w e _ w e r e _ o f f _ t h e _ r o a d _ g l e a m i n g _ b a r b e d _ w i r e _ p u l l i n g _ t a u t _ </s>",
+    "char_seq_len": 57
+}

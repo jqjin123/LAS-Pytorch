@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MJTC0/SI1460.WAV",
+    "char_map_seq": "2 23 11 8 3 8 15 8 6 23 21 18 17 3 18 19 23 12 6 4 15 3 22 28 22 23 8 16 3 16 4 28 3 5 8 3 8 12 23 11 8 21 3 4 3 16 4 10 17 8 23 12 6 3 18 21 3 8 15 8 6 23 21 18 22 23 4 23 12 6 3 18 17 8 3 1",
+    "chars": "<s> t h e _ e l e c t r o n _ o p t i c a l _ s y s t e m _ m a y _ b e _ e i t h e r _ a _ m a g n e t i c _ o r _ e l e c t r o s t a t i c _ o n e _ </s>",
+    "char_seq_len": 76
+}

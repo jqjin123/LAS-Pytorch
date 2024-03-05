@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FGMD0/SI2107.WAV",
+    "char_map_seq": "2 12 23 3 22 18 24 17 7 8 7 3 22 12 15 15 28 3 26 11 28 3 10 18 3 18 17 3 1",
+    "chars": "<s> i t _ s o u n d e d _ s i l l y _ w h y _ g o _ o n _ </s>",
+    "char_seq_len": 29
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MTPG0/SI753.WAV",
+    "char_map_seq": "2 16 4 14 8 3 4 3 19 4 22 23 8 3 18 9 3 5 21 18 26 17 3 22 24 10 4 21 3 4 17 7 3 16 24 22 23 4 21 7 3 4 17 7 3 22 19 21 8 4 7 3 15 12 10 11 23 15 28 3 18 25 8 21 3 22 6 18 21 8 7 3 22 24 21 9 4 6 8 3 1",
+    "chars": "<s> m a k e _ a _ p a s t e _ o f _ b r o w n _ s u g a r _ a n d _ m u s t a r d _ a n d _ s p r e a d _ l i g h t l y _ o v e r _ s c o r e d _ s u r f a c e _ </s>",
+    "char_seq_len": 81
+}

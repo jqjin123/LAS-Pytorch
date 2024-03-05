@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FCLT0/SI2068.WAV",
+    "char_map_seq": "2 26 8 3 7 18 17 0 23 3 14 17 18 26 3 23 11 12 22 3 10 24 28 3 1",
+    "chars": "<s> w e _ d o n ' t _ k n o w _ t h i s _ g u y _ </s>",
+    "char_seq_len": 25
+}

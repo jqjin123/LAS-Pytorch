@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MTPP0/SI878.WAV",
+    "char_map_seq": "2 23 11 12 22 3 16 8 4 17 22 3 8 12 23 11 8 21 3 6 4 21 22 3 18 21 3 23 21 24 6 14 22 3 1",
+    "chars": "<s> t h i s _ m e a n s _ e i t h e r _ c a r s _ o r _ t r u c k s _ </s>",
+    "char_seq_len": 35
+}

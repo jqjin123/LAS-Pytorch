@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MMEA0/SX128.WAV",
+    "char_map_seq": "2 15 18 23 22 3 18 9 3 9 18 21 8 12 10 17 3 16 18 25 12 8 22 3 11 4 25 8 3 22 24 5 23 12 23 15 8 22 3 1",
+    "chars": "<s> l o t s _ o f _ f o r e i g n _ m o v i e s _ h a v e _ s u b t i t l e s _ </s>",
+    "char_seq_len": 40
+}

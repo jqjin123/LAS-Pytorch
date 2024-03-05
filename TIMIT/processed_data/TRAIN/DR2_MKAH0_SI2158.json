@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MKAH0/SI2158.WAV",
+    "char_map_seq": "2 9 18 21 3 4 3 16 18 16 8 17 23 3 11 8 3 9 8 15 23 3 15 12 14 8 3 4 3 23 11 12 8 9 3 7 12 22 6 18 25 8 21 8 7 3 1",
+    "chars": "<s> f o r _ a _ m o m e n t _ h e _ f e l t _ l i k e _ a _ t h i e f _ d i s c o v e r e d _ </s>",
+    "char_seq_len": 47
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FCRH0/SX368.WAV",
+    "char_map_seq": "2 15 18 21 12 0 22 3 6 18 22 23 24 16 8 3 17 8 8 7 8 7 3 5 15 4 6 14 3 10 15 18 25 8 22 3 23 18 3 5 8 3 6 18 16 19 15 8 23 8 15 28 3 8 15 8 10 4 17 23 3 1",
+    "chars": "<s> l o r i ' s _ c o s t u m e _ n e e d e d _ b l a c k _ g l o v e s _ t o _ b e _ c o m p l e t e l y _ e l e g a n t _ </s>",
+    "char_seq_len": 62
+}

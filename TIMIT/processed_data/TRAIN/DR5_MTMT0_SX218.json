@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MTMT0/SX218.WAV",
+    "char_map_seq": "2 23 21 28 3 23 18 3 21 8 6 4 15 15 3 23 11 8 3 8 25 8 17 23 22 3 12 17 3 6 11 21 18 17 18 15 18 10 12 6 4 15 3 18 21 7 8 21 3 1",
+    "chars": "<s> t r y _ t o _ r e c a l l _ t h e _ e v e n t s _ i n _ c h r o n o l o g i c a l _ o r d e r _ </s>",
+    "char_seq_len": 50
+}

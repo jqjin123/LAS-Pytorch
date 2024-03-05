@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MBEF0/SI651.WAV",
+    "char_map_seq": "2 9 4 21 3 16 18 21 8 3 9 21 8 20 24 8 17 23 15 28 3 18 25 8 21 8 4 23 12 17 10 3 12 22 3 4 3 21 8 22 24 15 23 3 18 9 3 4 3 19 22 28 6 11 18 15 18 10 12 6 4 15 3 6 18 16 19 24 15 22 12 18 17 3 1",
+    "chars": "<s> f a r _ m o r e _ f r e q u e n t l y _ o v e r e a t i n g _ i s _ a _ r e s u l t _ o f _ a _ p s y c h o l o g i c a l _ c o m p u l s i o n _ </s>",
+    "char_seq_len": 75
+}

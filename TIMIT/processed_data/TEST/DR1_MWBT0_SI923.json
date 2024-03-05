@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MWBT0/SI923.WAV",
+    "char_map_seq": "2 23 18 3 16 4 17 28 3 8 27 19 8 21 23 22 3 23 11 12 22 3 23 21 8 17 7 3 26 4 22 3 12 17 8 25 12 23 4 5 15 8 3 1",
+    "chars": "<s> t o _ m a n y _ e x p e r t s _ t h i s _ t r e n d _ w a s _ i n e v i t a b l e _ </s>",
+    "char_seq_len": 44
+}

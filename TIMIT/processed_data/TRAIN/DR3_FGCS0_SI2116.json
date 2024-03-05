@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FGCS0/SI2116.WAV",
+    "char_map_seq": "2 12 22 3 23 11 8 21 8 3 4 17 28 3 26 18 21 7 3 28 18 24 3 26 18 24 15 7 3 15 12 14 8 3 23 18 3 18 9 9 8 21 3 12 17 3 28 18 24 21 3 18 26 17 3 7 8 9 8 17 22 8 3 1",
+    "chars": "<s> i s _ t h e r e _ a n y _ w o r d _ y o u _ w o u l d _ l i k e _ t o _ o f f e r _ i n _ y o u r _ o w n _ d e f e n s e _ </s>",
+    "char_seq_len": 64
+}

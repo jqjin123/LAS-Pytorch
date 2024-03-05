@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MTRR0/SI918.WAV",
+    "char_map_seq": "2 26 8 3 14 17 18 26 3 23 11 4 23 3 4 6 23 18 21 22 3 6 4 17 3 15 8 4 21 17 3 23 18 3 19 18 21 23 21 4 28 3 4 3 26 12 7 8 3 25 4 21 12 8 23 28 3 18 9 3 6 11 4 21 4 6 23 8 21 3 21 18 15 8 22 3 1",
+    "chars": "<s> w e _ k n o w _ t h a t _ a c t o r s _ c a n _ l e a r n _ t o _ p o r t r a y _ a _ w i d e _ v a r i e t y _ o f _ c h a r a c t e r _ r o l e s _ </s>",
+    "char_seq_len": 77
+}

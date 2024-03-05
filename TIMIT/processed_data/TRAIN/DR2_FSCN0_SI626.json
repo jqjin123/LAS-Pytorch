@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FSCN0/SI626.WAV",
+    "char_map_seq": "2 23 11 8 3 26 18 21 14 22 3 4 21 8 3 19 21 8 22 8 17 23 8 7 3 6 11 21 18 17 18 15 18 10 12 6 4 15 15 28 3 1",
+    "chars": "<s> t h e _ w o r k s _ a r e _ p r e s e n t e d _ c h r o n o l o g i c a l l y _ </s>",
+    "char_seq_len": 42
+}

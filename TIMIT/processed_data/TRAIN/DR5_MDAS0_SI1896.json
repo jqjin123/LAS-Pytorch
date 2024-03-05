@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MDAS0/SI1896.WAV",
+    "char_map_seq": "2 4 17 7 3 11 8 3 26 4 22 3 11 4 17 7 22 18 16 8 3 7 8 22 19 12 23 8 3 23 11 8 3 15 18 17 10 3 23 11 12 17 3 22 6 4 21 3 23 11 4 23 3 22 15 4 17 23 8 7 3 4 6 21 18 22 22 3 11 12 22 3 6 11 8 8 14 3 1",
+    "chars": "<s> a n d _ h e _ w a s _ h a n d s o m e _ d e s p i t e _ t h e _ l o n g _ t h i n _ s c a r _ t h a t _ s l a n t e d _ a c r o s s _ h i s _ c h e e k _ </s>",
+    "char_seq_len": 79
+}

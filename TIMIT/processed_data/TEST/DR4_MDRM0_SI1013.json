@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MDRM0/SI1013.WAV",
+    "char_map_seq": "2 6 8 21 8 4 15 3 10 21 4 12 17 22 3 11 4 25 8 3 5 8 8 17 3 24 22 8 7 3 9 18 21 3 6 8 17 23 24 21 12 8 22 3 23 18 3 19 21 8 19 4 21 8 3 9 8 21 16 8 17 23 8 7 3 5 8 25 8 21 4 10 8 22 3 1",
+    "chars": "<s> c e r e a l _ g r a i n s _ h a v e _ b e e n _ u s e d _ f o r _ c e n t u r i e s _ t o _ p r e p a r e _ f e r m e n t e d _ b e v e r a g e s _ </s>",
+    "char_seq_len": 76
+}

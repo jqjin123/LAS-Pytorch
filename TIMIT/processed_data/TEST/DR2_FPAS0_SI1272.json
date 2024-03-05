@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FPAS0/SI1272.WAV",
+    "char_map_seq": "2 15 4 5 18 21 4 23 18 21 28 3 4 22 23 21 18 19 11 28 22 12 6 22 3 1",
+    "chars": "<s> l a b o r a t o r y _ a s t r o p h y s i c s _ </s>",
+    "char_seq_len": 26
+}

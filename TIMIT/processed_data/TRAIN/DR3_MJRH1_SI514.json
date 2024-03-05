@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MJRH1/SI514.WAV",
+    "char_map_seq": "2 28 18 24 0 21 8 3 4 9 21 4 12 7 3 23 18 3 23 4 15 14 3 23 18 3 4 3 10 24 28 3 28 18 24 3 12 7 18 15 12 29 8 3 1",
+    "chars": "<s> y o u ' r e _ a f r a i d _ t o _ t a l k _ t o _ a _ g u y _ y o u _ i d o l i z e _ </s>",
+    "char_seq_len": 45
+}

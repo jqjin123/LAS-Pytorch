@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FAEM0/SI1392.WAV",
+    "char_map_seq": "2 4 22 22 24 16 8 3 9 18 21 3 8 27 4 16 19 15 8 3 4 3 22 12 23 24 4 23 12 18 17 3 26 11 8 21 8 3 4 3 9 4 21 16 3 11 4 22 3 4 3 19 4 6 14 12 17 10 3 22 11 8 7 3 4 17 7 3 9 12 8 15 7 22 3 1",
+    "chars": "<s> a s s u m e _ f o r _ e x a m p l e _ a _ s i t u a t i o n _ w h e r e _ a _ f a r m _ h a s _ a _ p a c k i n g _ s h e d _ a n d _ f i e l d s _ </s>",
+    "char_seq_len": 76
+}

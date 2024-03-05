@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FMML0/SI2300.WAV",
+    "char_map_seq": "2 16 28 3 16 18 23 11 8 21 3 26 4 22 3 5 8 22 12 7 8 3 11 8 21 22 8 15 9 3 26 12 23 11 3 6 24 21 12 18 22 12 23 28 3 1",
+    "chars": "<s> m y _ m o t h e r _ w a s _ b e s i d e _ h e r s e l f _ w i t h _ c u r i o s i t y _ </s>",
+    "char_seq_len": 46
+}

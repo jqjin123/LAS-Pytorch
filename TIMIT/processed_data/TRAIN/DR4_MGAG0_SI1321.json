@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MGAG0/SI1321.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 4 21 8 3 18 19 23 12 16 4 15 3 11 24 16 12 7 12 23 28 3 21 8 20 24 12 21 8 16 8 17 23 22 3 9 18 21 3 25 4 21 12 18 24 22 3 4 10 8 17 23 22 3 26 11 8 17 3 4 12 21 5 18 21 17 8 3 1",
+    "chars": "<s> t h e r e _ a r e _ o p t i m a l _ h u m i d i t y _ r e q u i r e m e n t s _ f o r _ v a r i o u s _ a g e n t s _ w h e n _ a i r b o r n e _ </s>",
+    "char_seq_len": 75
+}

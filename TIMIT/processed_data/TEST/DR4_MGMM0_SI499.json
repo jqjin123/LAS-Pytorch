@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MGMM0/SI499.WAV",
+    "char_map_seq": "2 23 11 8 3 22 6 4 15 15 18 19 8 7 3 8 7 10 8 3 12 22 3 19 4 21 23 12 6 24 15 4 21 15 28 3 4 19 19 8 4 15 12 17 10 3 1",
+    "chars": "<s> t h e _ s c a l l o p e d _ e d g e _ i s _ p a r t i c u l a r l y _ a p p e a l i n g _ </s>",
+    "char_seq_len": 47
+}

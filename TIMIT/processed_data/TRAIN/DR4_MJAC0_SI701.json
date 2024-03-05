@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJAC0/SI701.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 4 21 8 3 19 8 18 19 15 8 3 26 11 18 3 23 21 4 25 8 15 3 15 18 17 10 3 7 12 22 23 4 17 6 8 22 3 23 18 3 4 22 22 24 21 8 3 16 28 3 6 18 17 23 12 17 24 8 7 3 8 27 12 22 23 8 17 6 8 3 1",
+    "chars": "<s> t h e r e _ a r e _ p e o p l e _ w h o _ t r a v e l _ l o n g _ d i s t a n c e s _ t o _ a s s u r e _ m y _ c o n t i n u e d _ e x i s t e n c e _ </s>",
+    "char_seq_len": 78
+}

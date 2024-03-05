@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FTAJ0/SI699.WAV",
+    "char_map_seq": "2 28 18 24 0 21 8 3 17 18 23 3 15 12 25 12 17 10 3 24 19 3 23 18 3 28 18 24 21 3 18 26 17 3 19 21 12 17 6 12 19 15 8 22 3 22 11 8 3 23 18 15 7 3 16 28 3 7 12 22 6 18 24 21 4 10 8 7 3 19 8 18 19 15 8 3 1",
+    "chars": "<s> y o u ' r e _ n o t _ l i v i n g _ u p _ t o _ y o u r _ o w n _ p r i n c i p l e s _ s h e _ t o l d _ m y _ d i s c o u r a g e d _ p e o p l e _ </s>",
+    "char_seq_len": 77
+}

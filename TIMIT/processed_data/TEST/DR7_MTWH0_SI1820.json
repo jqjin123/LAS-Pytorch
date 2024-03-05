@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MTWH0/SI1820.WAV",
+    "char_map_seq": "2 4 3 21 4 17 10 8 3 18 9 3 5 15 24 9 9 22 3 11 24 10 10 8 7 3 23 11 8 3 11 18 21 12 29 18 17 3 23 11 8 3 6 18 15 18 21 3 18 9 3 7 8 6 4 28 12 17 10 3 16 18 22 22 3 1",
+    "chars": "<s> a _ r a n g e _ o f _ b l u f f s _ h u g g e d _ t h e _ h o r i z o n _ t h e _ c o l o r _ o f _ d e c a y i n g _ m o s s _ </s>",
+    "char_seq_len": 66
+}

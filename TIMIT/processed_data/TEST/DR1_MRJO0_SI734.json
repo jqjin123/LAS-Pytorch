@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MRJO0/SI734.WAV",
+    "char_map_seq": "2 12 9 3 17 8 6 8 22 22 4 21 28 3 23 18 3 21 8 19 15 4 6 8 3 5 18 23 11 3 11 4 15 25 8 22 3 18 17 3 10 21 12 15 15 3 22 8 4 21 3 6 24 23 22 3 4 17 7 3 4 15 15 18 23 3 8 27 23 21 4 3 23 12 16 8 3 1",
+    "chars": "<s> i f _ n e c e s s a r y _ t o _ r e p l a c e _ b o t h _ h a l v e s _ o n _ g r i l l _ s e a r _ c u t s _ a n d _ a l l o t _ e x t r a _ t i m e _ </s>",
+    "char_seq_len": 78
+}

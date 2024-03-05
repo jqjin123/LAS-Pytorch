@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FPAD0/SI716.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 4 21 8 3 6 4 17 18 8 22 3 12 7 8 4 15 3 9 18 21 3 9 12 22 11 12 17 10 3 12 17 3 19 21 18 23 8 6 23 8 7 3 26 4 23 8 21 22 3 18 21 3 9 18 21 3 6 4 16 19 12 17 10 3 23 21 12 19 22 3 1",
+    "chars": "<s> t h e r e _ a r e _ c a n o e s _ i d e a l _ f o r _ f i s h i n g _ i n _ p r o t e c t e d _ w a t e r s _ o r _ f o r _ c a m p i n g _ t r i p s _ </s>",
+    "char_seq_len": 78
+}

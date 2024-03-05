@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MDRD0/SX122.WAV",
+    "char_map_seq": "2 8 17 6 28 6 15 18 19 8 7 12 4 22 3 22 8 15 7 18 16 3 19 21 8 22 8 17 23 3 4 17 8 6 7 18 23 4 15 3 8 25 12 7 8 17 6 8 3 1",
+    "chars": "<s> e n c y c l o p e d i a s _ s e l d o m _ p r e s e n t _ a n e c d o t a l _ e v i d e n c e _ </s>",
+    "char_seq_len": 50
+}

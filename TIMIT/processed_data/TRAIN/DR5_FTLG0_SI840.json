@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FTLG0/SI840.WAV",
+    "char_map_seq": "2 6 18 16 19 15 8 27 12 23 28 3 18 9 3 6 18 16 19 15 8 23 8 3 16 4 21 14 8 23 12 17 10 3 19 15 4 17 17 12 17 10 3 1",
+    "chars": "<s> c o m p l e x i t y _ o f _ c o m p l e t e _ m a r k e t i n g _ p l a n n i n g _ </s>",
+    "char_seq_len": 44
+}

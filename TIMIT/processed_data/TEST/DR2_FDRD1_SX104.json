@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FDRD1/SX104.WAV",
+    "char_map_seq": "2 11 8 3 22 23 18 15 8 3 4 3 7 12 16 8 3 9 21 18 16 3 4 3 5 8 10 10 4 21 3 1",
+    "chars": "<s> h e _ s t o l e _ a _ d i m e _ f r o m _ a _ b e g g a r _ </s>",
+    "char_seq_len": 32
+}

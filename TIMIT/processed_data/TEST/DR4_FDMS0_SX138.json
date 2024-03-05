@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FDMS0/SX138.WAV",
+    "char_map_seq": "2 23 11 8 3 6 15 24 16 22 28 3 6 24 22 23 18 16 8 21 3 22 19 12 15 15 8 7 3 22 18 16 8 3 8 27 19 8 17 22 12 25 8 3 19 8 21 9 24 16 8 3 1",
+    "chars": "<s> t h e _ c l u m s y _ c u s t o m e r _ s p i l l e d _ s o m e _ e x p e n s i v e _ p e r f u m e _ </s>",
+    "char_seq_len": 53
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MMGK0/SI1322.WAV",
+    "char_map_seq": "2 23 11 12 22 3 16 4 28 3 5 8 3 18 9 3 18 25 8 21 21 12 7 12 17 10 3 12 16 19 18 21 23 4 17 6 8 3 12 17 3 6 18 17 22 12 7 8 21 12 17 10 3 16 12 15 12 23 4 21 28 3 18 5 13 8 6 23 12 25 8 22 3 1",
+    "chars": "<s> t h i s _ m a y _ b e _ o f _ o v e r r i d i n g _ i m p o r t a n c e _ i n _ c o n s i d e r i n g _ m i l i t a r y _ o b j e c t i v e s _ </s>",
+    "char_seq_len": 74
+}

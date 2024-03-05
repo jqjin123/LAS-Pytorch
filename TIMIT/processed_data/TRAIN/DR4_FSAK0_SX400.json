@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FSAK0/SX400.WAV",
+    "char_map_seq": "2 13 24 22 23 3 7 21 18 19 3 17 18 23 12 6 8 22 3 12 17 3 4 17 28 3 22 24 10 10 8 22 23 12 18 17 3 5 18 27 3 1",
+    "chars": "<s> j u s t _ d r o p _ n o t i c e s _ i n _ a n y _ s u g g e s t i o n _ b o x _ </s>",
+    "char_seq_len": 42
+}

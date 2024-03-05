@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MJRG0/SI736.WAV",
+    "char_map_seq": "2 4 15 22 18 3 16 4 14 8 3 22 24 21 8 3 23 11 8 21 16 18 16 8 23 8 21 3 7 18 8 22 3 17 18 23 3 23 18 24 6 11 3 23 11 8 3 21 8 25 18 15 25 12 17 10 3 22 19 12 23 3 18 21 3 11 12 23 3 23 11 8 3 6 18 4 15 22 3 1",
+    "chars": "<s> a l s o _ m a k e _ s u r e _ t h e r m o m e t e r _ d o e s _ n o t _ t o u c h _ t h e _ r e v o l v i n g _ s p i t _ o r _ h i t _ t h e _ c o a l s _ </s>",
+    "char_seq_len": 80
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FDAW0/SI1271.WAV",
+    "char_map_seq": "2 23 11 12 22 3 11 4 22 3 5 8 8 17 3 4 23 23 21 12 5 24 23 8 7 3 23 18 3 11 8 15 12 24 16 3 9 12 15 16 3 9 15 18 26 3 12 17 3 23 11 8 3 25 4 19 18 21 3 19 21 8 22 22 24 21 8 3 23 11 8 21 16 18 16 8 23 8 21 3 1",
+    "chars": "<s> t h i s _ h a s _ b e e n _ a t t r i b u t e d _ t o _ h e l i u m _ f i l m _ f l o w _ i n _ t h e _ v a p o r _ p r e s s u r e _ t h e r m o m e t e r _ </s>",
+    "char_seq_len": 81
+}

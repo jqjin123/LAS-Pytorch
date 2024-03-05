@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MRJB1/SI1020.WAV",
+    "char_map_seq": "2 23 11 8 3 6 18 26 5 18 28 3 6 4 15 15 8 7 3 23 11 12 22 3 5 21 8 8 7 3 18 9 3 6 4 23 23 15 8 3 16 4 10 19 12 8 22 3 1",
+    "chars": "<s> t h e _ c o w b o y _ c a l l e d _ t h i s _ b r e e d _ o f _ c a t t l e _ m a g p i e s _ </s>",
+    "char_seq_len": 49
+}

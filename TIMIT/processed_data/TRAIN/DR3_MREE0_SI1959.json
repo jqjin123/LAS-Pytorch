@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MREE0/SI1959.WAV",
+    "char_map_seq": "2 11 8 3 11 4 7 3 17 18 23 3 6 18 25 8 21 8 7 3 4 3 11 24 17 7 21 8 7 3 28 4 21 7 22 3 5 8 9 18 21 8 3 4 3 10 24 17 3 6 21 4 22 11 8 7 3 9 21 18 16 3 22 18 16 8 26 11 8 21 8 3 5 8 11 12 17 7 3 1",
+    "chars": "<s> h e _ h a d _ n o t _ c o v e r e d _ a _ h u n d r e d _ y a r d s _ b e f o r e _ a _ g u n _ c r a s h e d _ f r o m _ s o m e w h e r e _ b e h i n d _ </s>",
+    "char_seq_len": 80
+}

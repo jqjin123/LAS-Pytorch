@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MTER0/SX257.WAV",
+    "char_map_seq": "2 26 8 3 4 21 8 3 18 19 8 17 3 8 25 8 21 28 3 16 18 17 7 4 28 3 8 25 8 17 12 17 10 3 1",
+    "chars": "<s> w e _ a r e _ o p e n _ e v e r y _ m o n d a y _ e v e n i n g _ </s>",
+    "char_seq_len": 35
+}

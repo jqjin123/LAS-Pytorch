@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MSTF0/SX226.WAV",
+    "char_map_seq": "2 22 23 8 19 11 3 6 18 24 15 7 3 5 4 21 8 15 28 3 11 4 17 7 15 8 3 23 11 8 3 19 22 28 6 11 18 15 18 10 12 6 4 15 3 23 21 4 24 16 4 3 1",
+    "chars": "<s> s t e p h _ c o u l d _ b a r e l y _ h a n d l e _ t h e _ p s y c h o l o g i c a l _ t r a u m a _ </s>",
+    "char_seq_len": 53
+}

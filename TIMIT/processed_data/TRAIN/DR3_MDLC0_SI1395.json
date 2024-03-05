@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MDLC0/SI1395.WAV",
+    "char_map_seq": "2 23 11 8 3 8 15 8 16 8 17 23 4 21 28 3 22 6 11 18 18 15 3 6 11 12 15 7 3 10 21 18 26 22 3 10 21 4 7 24 4 15 15 28 3 12 17 3 11 12 22 3 4 5 12 15 12 23 28 3 23 18 3 26 18 21 14 3 12 17 3 10 21 18 24 19 22 3 1",
+    "chars": "<s> t h e _ e l e m e n t a r y _ s c h o o l _ c h i l d _ g r o w s _ g r a d u a l l y _ i n _ h i s _ a b i l i t y _ t o _ w o r k _ i n _ g r o u p s _ </s>",
+    "char_seq_len": 79
+}

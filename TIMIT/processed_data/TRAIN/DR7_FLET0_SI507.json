@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FLET0/SI507.WAV",
+    "char_map_seq": "2 12 7 8 4 15 15 28 3 11 8 3 14 17 8 26 3 12 23 3 22 11 18 24 15 7 3 5 8 3 19 21 8 6 8 7 8 7 3 5 28 3 6 18 17 6 21 8 23 8 3 19 21 18 10 21 8 22 22 3 4 23 3 15 18 26 8 21 3 15 8 25 8 15 22 3 1",
+    "chars": "<s> i d e a l l y _ h e _ k n e w _ i t _ s h o u l d _ b e _ p r e c e d e d _ b y _ c o n c r e t e _ p r o g r e s s _ a t _ l o w e r _ l e v e l s _ </s>",
+    "char_seq_len": 77
+}

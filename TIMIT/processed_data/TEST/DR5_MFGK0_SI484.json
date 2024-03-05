@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MFGK0/SI484.WAV",
+    "char_map_seq": "2 23 11 8 3 9 4 16 12 15 28 3 21 8 20 24 8 22 23 22 3 23 11 4 23 3 9 15 18 26 8 21 22 3 5 8 3 18 16 12 23 23 8 7 3 1",
+    "chars": "<s> t h e _ f a m i l y _ r e q u e s t s _ t h a t _ f l o w e r s _ b e _ o m i t t e d _ </s>",
+    "char_seq_len": 46
+}

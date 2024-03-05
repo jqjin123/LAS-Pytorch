@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FCDR1/SI556.WAV",
+    "char_map_seq": "2 26 8 3 7 12 7 3 17 18 23 3 4 6 6 8 19 23 3 23 11 8 3 7 12 4 10 17 18 22 12 22 3 4 23 3 18 17 6 8 3 5 24 23 3 10 21 4 7 24 4 15 15 28 3 26 8 3 4 21 8 3 6 18 16 12 17 10 3 23 18 3 1",
+    "chars": "<s> w e _ d i d _ n o t _ a c c e p t _ t h e _ d i a g n o s i s _ a t _ o n c e _ b u t _ g r a d u a l l y _ w e _ a r e _ c o m i n g _ t o _ </s>",
+    "char_seq_len": 73
+}

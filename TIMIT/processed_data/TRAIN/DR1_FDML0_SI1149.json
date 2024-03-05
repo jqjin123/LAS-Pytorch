@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FDML0/SI1149.WAV",
+    "char_map_seq": "2 23 11 8 3 21 8 22 19 18 17 22 8 3 18 9 3 21 8 4 6 23 12 18 17 3 12 22 3 7 18 16 12 17 4 23 8 7 3 5 28 3 4 3 6 18 17 6 8 21 17 3 9 18 21 3 26 11 4 23 3 12 22 3 25 4 17 12 22 11 12 17 10 3 1",
+    "chars": "<s> t h e _ r e s p o n s e _ o f _ r e a c t i o n _ i s _ d o m i n a t e d _ b y _ a _ c o n c e r n _ f o r _ w h a t _ i s _ v a n i s h i n g _ </s>",
+    "char_seq_len": 75
+}

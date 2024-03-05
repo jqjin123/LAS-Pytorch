@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/FMLD0/SI822.WAV",
+    "char_map_seq": "2 16 12 15 14 3 19 21 18 7 24 6 23 12 18 17 3 16 4 28 3 5 8 3 12 17 6 21 8 4 22 8 7 3 5 28 3 23 11 8 3 4 17 23 12 3 12 17 9 8 6 23 12 25 8 3 19 21 18 19 8 21 23 12 8 22 3 18 9 3 23 11 12 22 3 7 21 24 10 3 1",
+    "chars": "<s> m i l k _ p r o d u c t i o n _ m a y _ b e _ i n c r e a s e d _ b y _ t h e _ a n t i _ i n f e c t i v e _ p r o p e r t i e s _ o f _ t h i s _ d r u g _ </s>",
+    "char_seq_len": 81
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FPAS0/SX404.WAV",
+    "char_map_seq": "2 5 4 21 5 3 5 24 21 17 8 7 3 19 4 19 8 21 3 4 17 7 3 15 8 4 25 8 22 3 12 17 3 4 3 5 12 10 3 5 18 17 9 12 21 8 3 1",
+    "chars": "<s> b a r b _ b u r n e d _ p a p e r _ a n d _ l e a v e s _ i n _ a _ b i g _ b o n f i r e _ </s>",
+    "char_seq_len": 48
+}

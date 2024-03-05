@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FSAK0/SI1930.WAV",
+    "char_map_seq": "2 4 3 21 4 5 5 12 23 3 19 24 17 6 11 3 21 8 7 18 24 5 15 8 7 3 11 12 16 3 1",
+    "chars": "<s> a _ r a b b i t _ p u n c h _ r e d o u b l e d _ h i m _ </s>",
+    "char_seq_len": 31
+}

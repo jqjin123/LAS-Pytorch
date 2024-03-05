@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MTAS0/SI755.WAV",
+    "char_map_seq": "2 8 20 24 12 19 16 8 17 23 3 5 4 22 12 6 3 19 18 23 23 8 21 28 3 22 23 24 7 12 18 3 8 20 24 12 19 16 8 17 23 3 1",
+    "chars": "<s> e q u i p m e n t _ b a s i c _ p o t t e r y _ s t u d i o _ e q u i p m e n t _ </s>",
+    "char_seq_len": 43
+}

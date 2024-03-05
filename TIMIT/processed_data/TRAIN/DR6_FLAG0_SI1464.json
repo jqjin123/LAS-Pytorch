@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FLAG0/SI1464.WAV",
+    "char_map_seq": "2 16 4 17 24 4 15 3 15 8 25 8 15 12 17 10 3 21 8 20 24 12 21 8 22 3 4 17 3 4 19 19 21 18 19 21 12 4 23 8 3 7 12 22 19 15 4 28 3 18 9 3 23 11 8 3 4 6 6 8 15 8 21 18 16 8 23 8 21 3 18 24 23 19 24 23 22 3 1",
+    "chars": "<s> m a n u a l _ l e v e l i n g _ r e q u i r e s _ a n _ a p p r o p r i a t e _ d i s p l a y _ o f _ t h e _ a c c e l e r o m e t e r _ o u t p u t s _ </s>",
+    "char_seq_len": 79
+}

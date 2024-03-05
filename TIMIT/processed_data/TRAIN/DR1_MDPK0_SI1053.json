@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MDPK0/SI1053.WAV",
+    "char_map_seq": "2 26 11 4 23 8 25 8 21 3 23 11 8 12 21 3 9 4 24 15 23 22 3 23 11 8 28 3 4 21 8 3 17 18 23 3 11 28 19 18 6 21 12 23 8 22 3 1",
+    "chars": "<s> w h a t e v e r _ t h e i r _ f a u l t s _ t h e y _ a r e _ n o t _ h y p o c r i t e s _ </s>",
+    "char_seq_len": 48
+}

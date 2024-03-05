@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FADG0/SI1279.WAV",
+    "char_map_seq": "2 5 21 12 6 14 22 3 4 21 8 3 4 17 3 4 15 23 8 21 17 4 23 12 25 8 3 1",
+    "chars": "<s> b r i c k s _ a r e _ a n _ a l t e r n a t i v e _ </s>",
+    "char_seq_len": 28
+}

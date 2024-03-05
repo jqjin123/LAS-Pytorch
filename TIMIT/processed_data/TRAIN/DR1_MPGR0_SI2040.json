@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MPGR0/SI2040.WAV",
+    "char_map_seq": "2 11 12 22 3 6 18 16 21 4 7 8 22 3 26 8 21 8 3 4 15 15 3 7 8 4 7 3 1",
+    "chars": "<s> h i s _ c o m r a d e s _ w e r e _ a l l _ d e a d _ </s>",
+    "char_seq_len": 29
+}

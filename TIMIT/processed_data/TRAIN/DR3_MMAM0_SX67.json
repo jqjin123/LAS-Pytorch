@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMAM0/SX67.WAV",
+    "char_map_seq": "2 15 4 22 23 3 28 8 4 21 0 22 3 10 4 22 3 22 11 18 21 23 4 10 8 3 6 4 24 22 8 7 3 22 23 8 8 19 3 19 21 12 6 8 3 12 17 6 21 8 4 22 8 22 3 1",
+    "chars": "<s> l a s t _ y e a r ' s _ g a s _ s h o r t a g e _ c a u s e d _ s t e e p _ p r i c e _ i n c r e a s e s _ </s>",
+    "char_seq_len": 56
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MDLC0/SI2025.WAV",
+    "char_map_seq": "2 11 8 3 7 12 7 17 0 23 3 23 8 15 15 3 11 8 21 3 23 11 8 3 23 21 24 23 11 3 11 8 3 17 18 26 3 9 21 8 8 15 28 3 4 7 16 12 23 23 8 7 3 23 18 3 11 12 16 22 8 15 9 3 1",
+    "chars": "<s> h e _ d i d n ' t _ t e l l _ h e r _ t h e _ t r u t h _ h e _ n o w _ f r e e l y _ a d m i t t e d _ t o _ h i m s e l f _ </s>",
+    "char_seq_len": 65
+}

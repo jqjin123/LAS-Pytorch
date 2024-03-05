@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MAPV0/SI1293.WAV",
+    "char_map_seq": "2 23 11 8 22 8 3 6 24 21 25 8 22 3 26 8 21 8 3 7 8 21 12 25 8 7 3 5 28 3 4 17 3 4 17 4 15 28 22 12 22 3 18 9 3 8 27 23 8 17 22 12 25 8 3 22 14 28 26 4 25 8 3 16 8 4 22 24 21 8 16 8 17 23 3 7 4 23 4 3 1",
+    "chars": "<s> t h e s e _ c u r v e s _ w e r e _ d e r i v e d _ b y _ a n _ a n a l y s i s _ o f _ e x t e n s i v e _ s k y w a v e _ m e a s u r e m e n t _ d a t a _ </s>",
+    "char_seq_len": 81
+}

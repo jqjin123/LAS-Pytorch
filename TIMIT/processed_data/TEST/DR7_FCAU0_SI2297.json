@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/FCAU0/SI2297.WAV",
+    "char_map_seq": "2 18 17 8 3 6 18 24 15 7 3 11 8 4 21 3 4 3 25 8 21 28 3 9 4 12 17 23 3 15 4 7 28 15 12 14 8 3 22 12 10 11 3 18 9 3 21 8 15 12 8 9 3 1",
+    "chars": "<s> o n e _ c o u l d _ h e a r _ a _ v e r y _ f a i n t _ l a d y l i k e _ s i g h _ o f _ r e l i e f _ </s>",
+    "char_seq_len": 54
+}

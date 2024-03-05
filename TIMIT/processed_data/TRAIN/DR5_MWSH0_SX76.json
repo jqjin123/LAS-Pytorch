@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MWSH0/SX76.WAV",
+    "char_map_seq": "2 10 8 17 23 15 28 3 19 15 4 6 8 3 13 12 16 0 22 3 9 18 4 16 3 22 6 24 15 19 23 24 21 8 3 12 17 3 23 11 8 3 5 18 27 3 1",
+    "chars": "<s> g e n t l y _ p l a c e _ j i m ' s _ f o a m _ s c u l p t u r e _ i n _ t h e _ b o x _ </s>",
+    "char_seq_len": 47
+}

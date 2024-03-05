@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MPCS0/SI729.WAV",
+    "char_map_seq": "2 5 8 22 23 3 22 18 15 24 23 12 18 17 3 12 22 3 23 18 3 9 12 17 7 3 4 17 3 4 21 8 4 3 23 11 4 23 3 12 22 3 19 21 8 7 18 16 12 17 4 17 23 15 28 3 22 24 17 15 12 10 11 23 3 18 21 3 22 11 4 7 8 3 1",
+    "chars": "<s> b e s t _ s o l u t i o n _ i s _ t o _ f i n d _ a n _ a r e a _ t h a t _ i s _ p r e d o m i n a n t l y _ s u n l i g h t _ o r _ s h a d e _ </s>",
+    "char_seq_len": 75
+}

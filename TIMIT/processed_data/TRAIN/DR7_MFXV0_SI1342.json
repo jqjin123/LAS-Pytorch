@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MFXV0/SI1342.WAV",
+    "char_map_seq": "2 5 8 9 18 21 8 3 7 8 21 12 25 12 17 10 3 23 11 12 22 3 9 18 21 16 24 15 4 3 26 8 3 8 27 19 15 4 12 17 3 26 11 4 23 3 26 8 3 16 8 4 17 3 5 28 3 19 21 18 5 15 8 16 22 3 18 9 3 23 11 12 22 3 14 12 17 7 3 1",
+    "chars": "<s> b e f o r e _ d e r i v i n g _ t h i s _ f o r m u l a _ w e _ e x p l a i n _ w h a t _ w e _ m e a n _ b y _ p r o b l e m s _ o f _ t h i s _ k i n d _ </s>",
+    "char_seq_len": 80
+}

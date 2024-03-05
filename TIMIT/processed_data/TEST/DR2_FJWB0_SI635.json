@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FJWB0/SI635.WAV",
+    "char_map_seq": "2 11 8 3 12 22 3 4 3 16 4 17 3 18 9 3 16 4 13 18 21 3 23 4 15 8 17 23 3 5 24 23 3 4 3 16 4 17 3 18 9 3 22 18 15 12 23 4 21 28 3 24 17 6 8 21 23 4 12 17 3 12 16 19 24 15 22 8 22 3 1",
+    "chars": "<s> h e _ i s _ a _ m a n _ o f _ m a j o r _ t a l e n t _ b u t _ a _ m a n _ o f _ s o l i t a r y _ u n c e r t a i n _ i m p u l s e s _ </s>",
+    "char_seq_len": 71
+}

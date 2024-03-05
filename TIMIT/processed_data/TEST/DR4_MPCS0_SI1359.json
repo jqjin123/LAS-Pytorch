@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MPCS0/SI1359.WAV",
+    "char_map_seq": "2 12 17 3 22 11 18 21 23 3 22 6 12 8 17 23 12 9 12 6 3 22 4 16 19 15 12 17 10 3 26 4 22 3 12 17 23 21 18 7 24 6 8 7 3 12 17 3 19 15 4 6 8 3 18 9 3 22 24 5 13 8 6 23 12 25 8 3 22 4 16 19 15 12 17 10 3 1",
+    "chars": "<s> i n _ s h o r t _ s c i e n t i f i c _ s a m p l i n g _ w a s _ i n t r o d u c e d _ i n _ p l a c e _ o f _ s u b j e c t i v e _ s a m p l i n g _ </s>",
+    "char_seq_len": 78
+}

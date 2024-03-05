@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MKDT0/SX173.WAV",
+    "char_map_seq": "2 26 11 18 8 25 8 21 3 6 18 18 19 8 21 4 23 8 22 3 12 17 3 9 12 17 7 12 17 10 3 17 4 17 0 22 3 6 4 16 8 18 3 26 12 15 15 3 5 8 3 21 8 26 4 21 7 8 7 3 1",
+    "chars": "<s> w h o e v e r _ c o o p e r a t e s _ i n _ f i n d i n g _ n a n ' s _ c a m e o _ w i l l _ b e _ r e w a r d e d _ </s>",
+    "char_seq_len": 61
+}

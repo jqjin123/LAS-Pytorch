@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FPAS0/SX134.WAV",
+    "char_map_seq": "2 7 8 6 8 16 5 8 21 3 4 17 7 3 13 4 17 24 4 21 28 3 4 21 8 3 17 12 6 8 3 16 18 17 23 11 22 3 23 18 3 22 19 8 17 7 3 12 17 3 16 12 4 16 12 3 1",
+    "chars": "<s> d e c e m b e r _ a n d _ j a n u a r y _ a r e _ n i c e _ m o n t h s _ t o _ s p e n d _ i n _ m i a m i _ </s>",
+    "char_seq_len": 57
+}

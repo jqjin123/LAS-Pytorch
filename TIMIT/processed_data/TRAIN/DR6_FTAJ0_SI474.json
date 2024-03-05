@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FTAJ0/SI474.WAV",
+    "char_map_seq": "2 23 11 8 3 10 18 15 9 12 17 10 3 9 4 23 11 8 21 22 3 21 24 15 8 7 3 12 17 3 11 12 22 3 9 4 25 18 21 3 1",
+    "chars": "<s> t h e _ g o l f i n g _ f a t h e r s _ r u l e d _ i n _ h i s _ f a v o r _ </s>",
+    "char_seq_len": 41
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FJAS0/SX140.WAV",
+    "char_map_seq": "2 4 10 21 12 6 24 15 23 24 21 4 15 3 19 21 18 7 24 6 23 22 3 4 21 8 3 24 17 8 25 8 17 15 28 3 7 12 22 23 21 12 5 24 23 8 7 3 1",
+    "chars": "<s> a g r i c u l t u r a l _ p r o d u c t s _ a r e _ u n e v e n l y _ d i s t r i b u t e d _ </s>",
+    "char_seq_len": 49
+}

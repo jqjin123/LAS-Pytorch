@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MREE0/SI1104.WAV",
+    "char_map_seq": "2 23 11 12 22 3 10 12 21 15 3 22 18 18 17 3 7 21 18 19 22 3 23 11 8 3 5 18 24 21 10 8 18 12 22 12 8 3 19 22 28 6 11 12 4 23 21 12 22 23 3 26 11 18 3 7 12 22 4 19 19 21 18 25 8 22 3 18 9 3 11 8 21 3 15 12 9 8 3 1",
+    "chars": "<s> t h i s _ g i r l _ s o o n _ d r o p s _ t h e _ b o u r g e o i s i e _ p s y c h i a t r i s t _ w h o _ d i s a p p r o v e s _ o f _ h e r _ l i f e _ </s>",
+    "char_seq_len": 80
+}

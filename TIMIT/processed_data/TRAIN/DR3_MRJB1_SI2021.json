@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MRJB1/SI2021.WAV",
+    "char_map_seq": "2 23 11 8 17 3 11 8 3 26 18 24 15 7 3 21 8 4 15 12 29 8 3 23 11 8 28 3 26 8 21 8 3 21 8 4 15 15 28 3 23 11 12 17 10 22 3 23 11 4 23 3 18 17 15 28 3 11 8 3 11 12 16 22 8 15 9 3 6 18 24 15 7 3 23 11 12 17 14 3 1",
+    "chars": "<s> t h e n _ h e _ w o u l d _ r e a l i z e _ t h e y _ w e r e _ r e a l l y _ t h i n g s _ t h a t _ o n l y _ h e _ h i m s e l f _ c o u l d _ t h i n k _ </s>",
+    "char_seq_len": 81
+}

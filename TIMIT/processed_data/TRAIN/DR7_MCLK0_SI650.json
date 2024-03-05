@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MCLK0/SI650.WAV",
+    "char_map_seq": "2 23 11 8 3 9 4 23 3 16 4 17 3 11 4 22 3 23 21 18 24 5 15 8 3 5 24 28 12 17 10 3 15 12 9 8 3 12 17 22 24 21 4 17 6 8 3 18 21 3 11 4 22 3 23 18 3 19 4 28 3 11 12 10 11 8 21 3 19 21 8 16 12 24 16 22 3 1",
+    "chars": "<s> t h e _ f a t _ m a n _ h a s _ t r o u b l e _ b u y i n g _ l i f e _ i n s u r a n c e _ o r _ h a s _ t o _ p a y _ h i g h e r _ p r e m i u m s _ </s>",
+    "char_seq_len": 78
+}

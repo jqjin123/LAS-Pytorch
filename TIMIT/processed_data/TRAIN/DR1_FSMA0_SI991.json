@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FSMA0/SI991.WAV",
+    "char_map_seq": "2 22 11 8 3 11 4 7 3 17 18 3 26 4 28 3 18 9 3 14 17 18 26 12 17 10 3 12 17 3 4 7 25 4 17 6 8 3 26 11 8 23 11 8 21 3 4 17 3 18 19 19 18 21 23 24 17 12 23 28 3 9 18 21 3 16 24 21 7 8 21 3 8 27 12 22 23 8 7 3 1",
+    "chars": "<s> s h e _ h a d _ n o _ w a y _ o f _ k n o w i n g _ i n _ a d v a n c e _ w h e t h e r _ a n _ o p p o r t u n i t y _ f o r _ m u r d e r _ e x i s t e d _ </s>",
+    "char_seq_len": 81
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FREW0/SI1910.WAV",
+    "char_map_seq": "2 11 8 3 15 12 25 8 7 3 4 17 7 3 5 21 8 4 23 11 8 7 3 9 18 21 3 23 11 8 3 16 12 17 12 17 10 3 6 18 16 19 4 17 28 3 1",
+    "chars": "<s> h e _ l i v e d _ a n d _ b r e a t h e d _ f o r _ t h e _ m i n i n g _ c o m p a n y _ </s>",
+    "char_seq_len": 47
+}

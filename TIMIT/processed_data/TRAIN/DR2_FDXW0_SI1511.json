@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FDXW0/SI1511.WAV",
+    "char_map_seq": "2 9 12 7 7 15 8 22 3 22 6 21 8 8 6 11 8 7 3 4 3 19 12 4 17 18 3 23 12 17 14 15 8 7 3 1",
+    "chars": "<s> f i d d l e s _ s c r e e c h e d _ a _ p i a n o _ t i n k l e d _ </s>",
+    "char_seq_len": 36
+}

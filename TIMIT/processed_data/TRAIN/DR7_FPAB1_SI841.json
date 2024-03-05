@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FPAB1/SI841.WAV",
+    "char_map_seq": "2 8 25 8 21 28 3 22 12 17 10 15 8 3 19 21 18 5 15 8 16 3 23 18 24 6 11 8 7 3 18 17 3 23 11 24 22 3 9 4 21 3 12 22 3 21 8 15 4 23 8 7 3 23 18 3 10 18 18 7 3 16 4 21 14 8 23 12 17 10 3 19 15 4 17 17 12 17 10 3 1",
+    "chars": "<s> e v e r y _ s i n g l e _ p r o b l e m _ t o u c h e d _ o n _ t h u s _ f a r _ i s _ r e l a t e d _ t o _ g o o d _ m a r k e t i n g _ p l a n n i n g _ </s>",
+    "char_seq_len": 81
+}

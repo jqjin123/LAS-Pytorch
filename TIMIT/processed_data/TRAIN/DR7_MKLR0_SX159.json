@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MKLR0/SX159.WAV",
+    "char_map_seq": "2 23 11 8 3 10 18 25 8 21 17 16 8 17 23 3 22 18 24 10 11 23 3 4 24 23 11 18 21 12 29 4 23 12 18 17 3 18 9 3 11 12 22 3 6 12 23 12 29 8 17 22 11 12 19 3 1",
+    "chars": "<s> t h e _ g o v e r n m e n t _ s o u g h t _ a u t h o r i z a t i o n _ o f _ h i s _ c i t i z e n s h i p _ </s>",
+    "char_seq_len": 57
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MKCL0/SI1721.WAV",
+    "char_map_seq": "2 6 18 16 8 3 11 18 16 8 3 21 12 10 11 23 3 4 26 4 28 3 1",
+    "chars": "<s> c o m e _ h o m e _ r i g h t _ a w a y _ </s>",
+    "char_seq_len": 23
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MESG0/SI1962.WAV",
+    "char_map_seq": "2 4 17 18 23 11 8 21 3 22 17 4 21 15 8 7 3 6 15 18 22 8 3 18 25 8 21 11 8 4 7 3 1",
+    "chars": "<s> a n o t h e r _ s n a r l e d _ c l o s e _ o v e r h e a d _ </s>",
+    "char_seq_len": 33
+}

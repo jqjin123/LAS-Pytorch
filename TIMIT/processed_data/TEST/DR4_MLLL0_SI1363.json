@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MLLL0/SI1363.WAV",
+    "char_map_seq": "2 22 18 16 8 3 18 9 3 23 11 8 22 8 3 22 19 8 6 24 15 4 23 12 18 17 22 3 16 4 28 3 11 4 25 8 3 22 18 16 8 3 16 8 21 12 23 3 18 23 11 8 21 22 3 4 21 8 3 22 18 16 8 26 11 4 23 3 4 16 5 12 10 24 18 24 22 3 1",
+    "chars": "<s> s o m e _ o f _ t h e s e _ s p e c u l a t i o n s _ m a y _ h a v e _ s o m e _ m e r i t _ o t h e r s _ a r e _ s o m e w h a t _ a m b i g u o u s _ </s>",
+    "char_seq_len": 79
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MGLB0/SI1534.WAV",
+    "char_map_seq": "2 12 22 3 12 23 3 5 8 6 4 24 22 8 3 18 9 3 16 28 3 22 15 18 25 8 17 15 12 17 8 22 22 3 23 11 4 23 3 11 4 12 21 3 10 21 18 26 22 3 18 17 3 16 28 3 9 4 6 8 3 1",
+    "chars": "<s> i s _ i t _ b e c a u s e _ o f _ m y _ s l o v e n l i n e s s _ t h a t _ h a i r _ g r o w s _ o n _ m y _ f a c e _ </s>",
+    "char_seq_len": 62
+}

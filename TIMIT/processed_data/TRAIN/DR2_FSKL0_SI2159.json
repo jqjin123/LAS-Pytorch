@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FSKL0/SI2159.WAV",
+    "char_map_seq": "2 11 8 21 3 9 4 6 8 3 22 8 8 16 8 7 3 23 18 3 9 15 18 4 23 3 12 17 3 4 17 3 12 16 19 15 4 24 22 12 5 15 28 3 5 21 12 10 11 23 3 22 11 4 9 23 3 18 9 3 22 24 17 15 12 10 11 23 3 1",
+    "chars": "<s> h e r _ f a c e _ s e e m e d _ t o _ f l o a t _ i n _ a n _ i m p l a u s i b l y _ b r i g h t _ s h a f t _ o f _ s u n l i g h t _ </s>",
+    "char_seq_len": 70
+}

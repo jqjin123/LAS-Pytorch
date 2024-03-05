@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJLS0/SX376.WAV",
+    "char_map_seq": "2 26 18 16 8 17 3 16 4 28 3 17 8 25 8 21 3 5 8 6 18 16 8 3 6 18 16 19 15 8 23 8 15 28 3 8 20 24 4 15 3 23 18 3 16 8 17 3 1",
+    "chars": "<s> w o m e n _ m a y _ n e v e r _ b e c o m e _ c o m p l e t e l y _ e q u a l _ t o _ m e n _ </s>",
+    "char_seq_len": 49
+}

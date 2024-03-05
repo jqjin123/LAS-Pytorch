@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MMDM2/SX192.WAV",
+    "char_map_seq": "2 22 23 21 4 26 3 11 4 23 22 3 4 21 8 3 18 24 23 3 18 9 3 9 4 22 11 12 18 17 3 23 11 12 22 3 28 8 4 21 3 1",
+    "chars": "<s> s t r a w _ h a t s _ a r e _ o u t _ o f _ f a s h i o n _ t h i s _ y e a r _ </s>",
+    "char_seq_len": 42
+}

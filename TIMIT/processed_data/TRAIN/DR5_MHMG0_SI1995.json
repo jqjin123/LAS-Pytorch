@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MHMG0/SI1995.WAV",
+    "char_map_seq": "2 11 8 3 5 15 8 26 3 11 12 22 3 17 18 22 8 3 8 27 19 8 21 23 15 28 3 5 8 23 26 8 8 17 3 11 12 22 3 9 12 17 10 8 21 22 3 1",
+    "chars": "<s> h e _ b l e w _ h i s _ n o s e _ e x p e r t l y _ b e t w e e n _ h i s _ f i n g e r s _ </s>",
+    "char_seq_len": 48
+}

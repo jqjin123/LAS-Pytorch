@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MKDR0/SI1273.WAV",
+    "char_map_seq": "2 22 8 15 8 6 23 8 7 3 5 12 5 15 12 18 10 21 4 19 11 12 8 22 3 4 17 7 3 23 4 5 15 8 22 3 18 9 3 4 25 4 12 15 4 5 15 8 3 7 4 23 4 3 4 21 8 3 17 18 26 3 12 17 3 19 21 8 19 4 21 4 23 12 18 17 3 1",
+    "chars": "<s> s e l e c t e d _ b i b l i o g r a p h i e s _ a n d _ t a b l e s _ o f _ a v a i l a b l e _ d a t a _ a r e _ n o w _ i n _ p r e p a r a t i o n _ </s>",
+    "char_seq_len": 78
+}

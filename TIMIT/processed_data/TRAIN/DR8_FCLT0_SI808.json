@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FCLT0/SI808.WAV",
+    "char_map_seq": "2 4 3 22 12 23 8 3 16 4 28 3 4 15 22 18 3 5 8 3 4 23 23 21 4 6 23 12 25 8 3 13 24 22 23 3 23 11 21 18 24 10 11 3 23 11 8 3 5 8 4 24 23 28 3 18 9 3 12 23 22 3 23 21 8 8 22 3 4 17 7 3 22 11 21 24 5 22 3 1",
+    "chars": "<s> a _ s i t e _ m a y _ a l s o _ b e _ a t t r a c t i v e _ j u s t _ t h r o u g h _ t h e _ b e a u t y _ o f _ i t s _ t r e e s _ a n d _ s h r u b s _ </s>",
+    "char_seq_len": 80
+}

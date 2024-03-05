@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MJMA0/SX235.WAV",
+    "char_map_seq": "2 12 3 12 23 8 16 12 29 8 3 4 15 15 3 4 6 6 18 24 17 23 22 3 12 17 3 16 28 3 4 10 8 17 6 28 3 1",
+    "chars": "<s> i _ i t e m i z e _ a l l _ a c c o u n t s _ i n _ m y _ a g e n c y _ </s>",
+    "char_seq_len": 38
+}

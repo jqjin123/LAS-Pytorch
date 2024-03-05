@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MBDG0/SI1463.WAV",
+    "char_map_seq": "2 26 8 3 6 4 17 3 11 18 26 8 25 8 21 3 16 4 27 12 16 12 29 8 3 12 23 22 3 8 27 19 8 6 23 8 7 3 25 4 15 24 8 3 1",
+    "chars": "<s> w e _ c a n _ h o w e v e r _ m a x i m i z e _ i t s _ e x p e c t e d _ v a l u e _ </s>",
+    "char_seq_len": 45
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MPWM0/SI1757.WAV",
+    "char_map_seq": "2 11 12 22 3 22 4 21 6 4 22 16 3 26 4 22 3 9 18 15 15 18 26 8 7 3 5 28 3 4 3 22 23 24 19 12 7 3 10 21 12 17 3 18 9 3 11 12 22 3 23 11 12 6 14 3 16 18 24 23 11 3 4 17 7 3 5 4 7 3 23 8 8 23 11 3 1",
+    "chars": "<s> h i s _ s a r c a s m _ w a s _ f o l l o w e d _ b y _ a _ s t u p i d _ g r i n _ o f _ h i s _ t h i c k _ m o u t h _ a n d _ b a d _ t e e t h _ </s>",
+    "char_seq_len": 77
+}

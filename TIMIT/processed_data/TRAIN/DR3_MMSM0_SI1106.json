@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMSM0/SI1106.WAV",
+    "char_map_seq": "2 8 25 8 21 28 23 11 12 17 10 3 12 17 3 23 11 8 3 9 12 17 4 15 3 4 17 4 15 28 22 12 22 3 21 8 7 24 6 8 7 3 12 23 22 8 15 9 3 23 18 3 22 8 27 24 4 15 3 22 28 16 5 18 15 12 22 16 3 1",
+    "chars": "<s> e v e r y t h i n g _ i n _ t h e _ f i n a l _ a n a l y s i s _ r e d u c e d _ i t s e l f _ t o _ s e x u a l _ s y m b o l i s m _ </s>",
+    "char_seq_len": 70
+}

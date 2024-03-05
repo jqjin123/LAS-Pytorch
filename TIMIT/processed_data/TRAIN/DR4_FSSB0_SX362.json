@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FSSB0/SX362.WAV",
+    "char_map_seq": "2 23 11 8 3 4 17 17 18 28 12 17 10 3 21 4 6 6 18 18 17 22 3 22 15 12 19 19 8 7 3 12 17 23 18 3 19 11 12 15 0 22 3 10 4 21 7 8 17 3 8 25 8 21 28 3 17 12 10 11 23 3 1",
+    "chars": "<s> t h e _ a n n o y i n g _ r a c c o o n s _ s l i p p e d _ i n t o _ p h i l ' s _ g a r d e n _ e v e r y _ n i g h t _ </s>",
+    "char_seq_len": 63
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRHL0/SI1515.WAV",
+    "char_map_seq": "2 23 11 8 28 0 21 8 3 7 18 12 17 0 3 12 23 3 17 18 26 3 1",
+    "chars": "<s> t h e y ' r e _ d o i n ' _ i t _ n o w _ </s>",
+    "char_seq_len": 23
+}

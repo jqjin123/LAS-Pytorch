@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MPAB0/SI1103.WAV",
+    "char_map_seq": "2 23 11 8 12 21 3 26 18 21 14 3 16 12 21 21 18 21 22 3 23 11 8 3 16 8 17 23 4 15 12 23 28 3 18 9 3 23 11 8 3 19 22 28 6 11 18 19 4 23 11 3 21 18 18 23 15 8 22 22 3 4 17 7 3 12 21 21 8 22 19 18 17 22 12 5 15 8 3 1",
+    "chars": "<s> t h e i r _ w o r k _ m i r r o r s _ t h e _ m e n t a l i t y _ o f _ t h e _ p s y c h o p a t h _ r o o t l e s s _ a n d _ i r r e s p o n s i b l e _ </s>",
+    "char_seq_len": 80
+}

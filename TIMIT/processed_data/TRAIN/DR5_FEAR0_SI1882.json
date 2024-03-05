@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FEAR0/SI1882.WAV",
+    "char_map_seq": "2 10 24 8 21 21 12 15 15 4 22 3 26 8 21 8 3 21 4 6 12 17 10 3 23 18 26 4 21 7 3 11 12 16 3 1",
+    "chars": "<s> g u e r r i l l a s _ w e r e _ r a c i n g _ t o w a r d _ h i m _ </s>",
+    "char_seq_len": 36
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FEXM0/SI1731.WAV",
+    "char_map_seq": "2 13 8 18 19 4 21 7 12 29 8 3 12 23 3 17 18 26 3 23 18 3 6 18 21 21 8 6 23 3 22 18 3 18 15 7 3 4 3 26 21 18 17 10 3 1",
+    "chars": "<s> j e o p a r d i z e _ i t _ n o w _ t o _ c o r r e c t _ s o _ o l d _ a _ w r o n g _ </s>",
+    "char_seq_len": 46
+}

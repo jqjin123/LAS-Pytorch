@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MJJG0/SI1633.WAV",
+    "char_map_seq": "2 22 4 12 7 3 28 18 24 3 26 18 21 8 3 28 18 24 21 22 8 15 9 3 18 24 23 3 6 15 8 4 17 12 17 10 3 4 15 15 3 23 11 8 22 8 3 8 16 19 23 28 3 21 18 18 16 22 3 1",
+    "chars": "<s> s a i d _ y o u _ w o r e _ y o u r s e l f _ o u t _ c l e a n i n g _ a l l _ t h e s e _ e m p t y _ r o o m s _ </s>",
+    "char_seq_len": 60
+}

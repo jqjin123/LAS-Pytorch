@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MEWM0/SX448.WAV",
+    "char_map_seq": "2 22 19 11 8 21 12 6 4 15 3 10 12 9 23 22 3 4 21 8 3 7 12 9 9 12 6 24 15 23 3 23 18 3 26 21 4 19 3 1",
+    "chars": "<s> s p h e r i c a l _ g i f t s _ a r e _ d i f f i c u l t _ t o _ w r a p _ </s>",
+    "char_seq_len": 40
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MRJM3/SI1809.WAV",
+    "char_map_seq": "2 18 14 4 28 3 23 4 14 8 3 23 11 8 3 23 21 4 28 3 1",
+    "chars": "<s> o k a y _ t a k e _ t h e _ t r a y _ </s>",
+    "char_seq_len": 21
+}

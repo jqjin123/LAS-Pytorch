@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MCMJ0/SI602.WAV",
+    "char_map_seq": "2 5 24 23 3 23 11 8 3 22 11 12 19 22 3 4 21 8 3 25 8 21 28 3 22 15 18 26 3 17 18 26 3 4 17 7 3 26 8 3 7 18 17 0 23 3 10 8 23 3 22 18 3 16 4 17 28 3 22 4 12 15 18 21 22 3 4 17 28 3 16 18 21 8 3 1",
+    "chars": "<s> b u t _ t h e _ s h i p s _ a r e _ v e r y _ s l o w _ n o w _ a n d _ w e _ d o n ' t _ g e t _ s o _ m a n y _ s a i l o r s _ a n y _ m o r e _ </s>",
+    "char_seq_len": 76
+}

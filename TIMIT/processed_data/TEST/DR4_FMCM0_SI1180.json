@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FMCM0/SI1180.WAV",
+    "char_map_seq": "2 26 11 4 23 3 9 4 6 23 18 21 22 3 6 18 17 7 12 23 12 18 17 3 23 11 8 3 7 8 10 21 8 8 3 18 9 3 21 8 4 15 12 29 4 23 12 18 17 3 4 23 3 25 4 21 12 18 24 22 3 23 12 16 8 22 3 4 17 7 3 19 15 4 6 8 22 3 1",
+    "chars": "<s> w h a t _ f a c t o r s _ c o n d i t i o n _ t h e _ d e g r e e _ o f _ r e a l i z a t i o n _ a t _ v a r i o u s _ t i m e s _ a n d _ p l a c e s _ </s>",
+    "char_seq_len": 79
+}

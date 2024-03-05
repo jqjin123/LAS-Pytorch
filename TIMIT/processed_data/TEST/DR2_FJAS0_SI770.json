@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FJAS0/SI770.WAV",
+    "char_map_seq": "2 25 4 22 8 22 3 16 4 14 8 3 22 4 16 8 3 4 22 3 22 4 15 23 3 4 17 7 3 19 8 19 19 8 21 3 22 11 4 14 8 21 22 3 15 8 4 25 12 17 10 3 18 9 9 3 23 18 19 3 19 12 8 6 8 22 3 1",
+    "chars": "<s> v a s e s _ m a k e _ s a m e _ a s _ s a l t _ a n d _ p e p p e r _ s h a k e r s _ l e a v i n g _ o f f _ t o p _ p i e c e s _ </s>",
+    "char_seq_len": 68
+}

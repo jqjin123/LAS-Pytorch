@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MGLB0/SI904.WAV",
+    "char_map_seq": "2 11 8 3 19 8 8 21 8 7 3 4 11 8 4 7 3 4 17 7 3 10 21 12 17 17 8 7 3 4 22 3 23 11 8 3 21 4 12 15 21 18 4 7 3 23 21 4 6 14 22 3 6 4 16 8 3 12 17 23 18 3 25 12 8 26 3 4 10 4 12 17 3 5 8 15 18 26 3 1",
+    "chars": "<s> h e _ p e e r e d _ a h e a d _ a n d _ g r i n n e d _ a s _ t h e _ r a i l r o a d _ t r a c k s _ c a m e _ i n t o _ v i e w _ a g a i n _ b e l o w _ </s>",
+    "char_seq_len": 80
+}

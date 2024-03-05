@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/MAJC0/SI2095.WAV",
+    "char_map_seq": "2 16 28 3 7 4 7 3 7 12 7 3 12 23 3 4 17 7 3 11 8 3 15 12 25 8 7 3 23 18 3 4 3 10 21 8 4 23 3 4 10 8 3 1",
+    "chars": "<s> m y _ d a d _ d i d _ i t _ a n d _ h e _ l i v e d _ t o _ a _ g r e a t _ a g e _ </s>",
+    "char_seq_len": 44
+}

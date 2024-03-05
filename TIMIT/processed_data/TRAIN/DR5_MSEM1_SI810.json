@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MSEM1/SI810.WAV",
+    "char_map_seq": "2 4 17 3 4 21 8 4 3 22 11 8 15 23 8 21 8 7 3 9 21 18 16 3 22 23 21 18 17 10 3 26 12 17 7 22 3 16 4 28 3 5 8 3 11 12 10 11 15 28 3 7 8 22 12 21 4 5 15 8 3 9 18 21 3 21 8 6 21 8 4 23 12 18 17 3 24 22 8 3 1",
+    "chars": "<s> a n _ a r e a _ s h e l t e r e d _ f r o m _ s t r o n g _ w i n d s _ m a y _ b e _ h i g h l y _ d e s i r a b l e _ f o r _ r e c r e a t i o n _ u s e _ </s>",
+    "char_seq_len": 81
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MKLT0/SI1843.WAV",
+    "char_map_seq": "2 22 11 8 3 26 4 22 3 21 8 4 7 28 3 9 18 21 3 11 8 21 3 10 21 8 4 23 3 4 7 25 8 17 23 24 21 8 22 3 4 17 7 3 23 11 8 3 4 21 21 12 25 4 15 3 18 9 3 11 8 21 3 16 18 5 12 15 8 3 19 4 21 23 17 8 21 3 1",
+    "chars": "<s> s h e _ w a s _ r e a d y _ f o r _ h e r _ g r e a t _ a d v e n t u r e s _ a n d _ t h e _ a r r i v a l _ o f _ h e r _ m o b i l e _ p a r t n e r _ </s>",
+    "char_seq_len": 79
+}

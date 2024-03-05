@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MERS0/SI1019.WAV",
+    "char_map_seq": "2 23 11 8 16 3 17 8 26 3 23 18 3 23 11 8 3 6 18 24 17 23 21 28 3 26 8 21 8 3 21 8 9 8 21 21 8 7 3 23 18 3 4 22 3 19 12 15 10 21 12 16 22 3 1",
+    "chars": "<s> t h e m _ n e w _ t o _ t h e _ c o u n t r y _ w e r e _ r e f e r r e d _ t o _ a s _ p i l g r i m s _ </s>",
+    "char_seq_len": 55
+}

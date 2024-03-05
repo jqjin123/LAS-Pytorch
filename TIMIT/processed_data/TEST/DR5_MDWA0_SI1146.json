@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MDWA0/SI1146.WAV",
+    "char_map_seq": "2 26 8 3 14 17 8 26 3 23 11 4 23 3 12 23 3 26 4 22 3 4 22 3 21 8 4 22 22 24 21 4 17 6 8 3 23 11 8 3 12 21 18 17 12 6 3 9 21 24 12 23 3 18 9 3 4 3 7 8 8 19 15 28 3 16 18 21 4 15 3 17 4 23 24 21 8 3 1",
+    "chars": "<s> w e _ k n e w _ t h a t _ i t _ w a s _ a s _ r e a s s u r a n c e _ t h e _ i r o n i c _ f r u i t _ o f _ a _ d e e p l y _ m o r a l _ n a t u r e _ </s>",
+    "char_seq_len": 79
+}

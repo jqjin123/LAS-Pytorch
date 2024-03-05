@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MPRB0/SX125.WAV",
+    "char_map_seq": "2 26 8 22 23 6 11 8 22 23 8 21 3 12 22 3 4 3 6 18 24 17 23 28 3 12 17 3 17 8 26 3 28 18 21 14 3 1",
+    "chars": "<s> w e s t c h e s t e r _ i s _ a _ c o u n t y _ i n _ n e w _ y o r k _ </s>",
+    "char_seq_len": 38
+}

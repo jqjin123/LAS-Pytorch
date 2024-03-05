@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MDBB0/SI565.WAV",
+    "char_map_seq": "2 22 23 4 6 14 8 7 3 11 8 8 15 22 3 4 21 8 3 4 15 22 18 3 19 18 19 24 15 4 21 3 18 17 3 7 21 8 22 22 28 3 18 21 3 23 4 12 15 18 21 8 7 3 22 11 18 8 22 3 1",
+    "chars": "<s> s t a c k e d _ h e e l s _ a r e _ a l s o _ p o p u l a r _ o n _ d r e s s y _ o r _ t a i l o r e d _ s h o e s _ </s>",
+    "char_seq_len": 61
+}

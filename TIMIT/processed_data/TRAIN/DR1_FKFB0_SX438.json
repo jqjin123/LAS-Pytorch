@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FKFB0/SX438.WAV",
+    "char_map_seq": "2 22 11 8 15 15 3 22 11 18 6 14 3 6 4 24 22 8 7 3 5 28 3 22 11 21 4 19 17 8 15 3 12 22 3 22 18 16 8 23 12 16 8 22 3 6 24 21 8 7 3 23 11 21 18 24 10 11 3 10 21 18 24 19 3 23 11 8 21 4 19 28 3 1",
+    "chars": "<s> s h e l l _ s h o c k _ c a u s e d _ b y _ s h r a p n e l _ i s _ s o m e t i m e s _ c u r e d _ t h r o u g h _ g r o u p _ t h e r a p y _ </s>",
+    "char_seq_len": 74
+}

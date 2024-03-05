@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MFRM0/SX255.WAV",
+    "char_map_seq": "2 16 28 3 12 7 8 4 15 3 16 18 21 17 12 17 10 3 5 8 10 12 17 22 3 26 12 23 11 3 11 18 23 3 6 18 9 9 8 8 3 1",
+    "chars": "<s> m y _ i d e a l _ m o r n i n g _ b e g i n s _ w i t h _ h o t _ c o f f e e _ </s>",
+    "char_seq_len": 42
+}

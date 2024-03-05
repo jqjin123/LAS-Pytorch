@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MCEF0/SX55.WAV",
+    "char_map_seq": "2 23 11 8 3 15 4 6 14 3 18 9 3 11 8 4 23 3 6 18 16 19 18 24 17 7 8 7 3 23 11 8 3 23 8 17 4 17 23 0 22 3 10 21 12 8 25 4 17 6 8 22 3 1",
+    "chars": "<s> t h e _ l a c k _ o f _ h e a t _ c o m p o u n d e d _ t h e _ t e n a n t ' s _ g r i e v a n c e s _ </s>",
+    "char_seq_len": 54
+}

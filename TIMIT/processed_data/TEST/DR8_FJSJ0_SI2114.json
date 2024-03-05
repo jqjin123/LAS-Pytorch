@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/FJSJ0/SI2114.WAV",
+    "char_map_seq": "2 22 23 4 14 8 3 16 8 3 22 11 8 3 22 4 12 7 3 4 17 7 3 15 8 23 3 16 8 3 4 23 3 23 11 18 22 8 3 7 12 6 8 3 1",
+    "chars": "<s> s t a k e _ m e _ s h e _ s a i d _ a n d _ l e t _ m e _ a t _ t h o s e _ d i c e _ </s>",
+    "char_seq_len": 45
+}

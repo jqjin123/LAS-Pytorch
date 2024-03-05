@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MTEB0/SX323.WAV",
+    "char_map_seq": "2 23 11 8 3 9 18 10 3 19 21 8 25 8 17 23 8 7 3 23 11 8 16 3 9 21 18 16 3 4 21 21 12 25 12 17 10 3 18 17 3 23 12 16 8 3 1",
+    "chars": "<s> t h e _ f o g _ p r e v e n t e d _ t h e m _ f r o m _ a r r i v i n g _ o n _ t i m e _ </s>",
+    "char_seq_len": 47
+}

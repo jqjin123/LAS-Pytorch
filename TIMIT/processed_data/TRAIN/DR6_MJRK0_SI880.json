@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MJRK0/SI880.WAV",
+    "char_map_seq": "2 23 11 8 3 21 8 25 18 15 24 23 12 18 17 3 17 18 26 3 24 17 7 8 21 3 26 4 28 3 12 17 3 16 4 23 8 21 12 4 15 22 3 11 4 17 7 15 12 17 10 3 16 4 14 8 22 3 23 11 12 22 3 16 24 6 11 3 8 4 22 12 8 21 3 1",
+    "chars": "<s> t h e _ r e v o l u t i o n _ n o w _ u n d e r _ w a y _ i n _ m a t e r i a l s _ h a n d l i n g _ m a k e s _ t h i s _ m u c h _ e a s i e r _ </s>",
+    "char_seq_len": 76
+}

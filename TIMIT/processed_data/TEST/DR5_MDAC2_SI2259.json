@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MDAC2/SI2259.WAV",
+    "char_map_seq": "2 23 11 8 3 23 4 15 8 3 11 8 3 23 11 18 24 10 11 23 3 26 18 24 15 7 3 5 8 6 18 16 8 3 15 8 22 22 3 10 4 28 3 1",
+    "chars": "<s> t h e _ t a l e _ h e _ t h o u g h t _ w o u l d _ b e c o m e _ l e s s _ g a y _ </s>",
+    "char_seq_len": 44
+}

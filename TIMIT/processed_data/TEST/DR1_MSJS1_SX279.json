@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MSJS1/SX279.WAV",
+    "char_map_seq": "2 4 15 12 6 8 0 22 3 4 5 12 15 12 23 28 3 23 18 3 26 18 21 14 3 26 12 23 11 18 24 23 3 22 24 19 8 21 25 12 22 12 18 17 3 12 22 3 17 18 23 8 26 18 21 23 11 28 3 1",
+    "chars": "<s> a l i c e ' s _ a b i l i t y _ t o _ w o r k _ w i t h o u t _ s u p e r v i s i o n _ i s _ n o t e w o r t h y _ </s>",
+    "char_seq_len": 60
+}

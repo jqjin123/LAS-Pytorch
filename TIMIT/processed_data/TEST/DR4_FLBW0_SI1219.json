@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FLBW0/SI1219.WAV",
+    "char_map_seq": "2 22 23 24 7 8 17 23 22 0 3 6 11 18 12 6 8 22 3 18 9 3 12 7 8 4 15 3 8 7 24 6 4 23 12 18 17 4 15 3 10 18 4 15 22 3 4 21 8 3 17 18 23 3 4 21 5 12 23 21 4 21 28 3 18 21 3 26 11 12 16 22 12 6 4 15 3 1",
+    "chars": "<s> s t u d e n t s ' _ c h o i c e s _ o f _ i d e a l _ e d u c a t i o n a l _ g o a l s _ a r e _ n o t _ a r b i t r a r y _ o r _ w h i m s i c a l _ </s>",
+    "char_seq_len": 78
+}

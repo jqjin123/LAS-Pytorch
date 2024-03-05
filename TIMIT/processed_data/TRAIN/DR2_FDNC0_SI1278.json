@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FDNC0/SI1278.WAV",
+    "char_map_seq": "2 22 18 15 12 7 3 6 18 17 6 21 8 23 8 3 5 15 18 6 14 22 3 21 8 15 4 23 12 25 8 15 28 3 11 8 4 25 28 3 4 17 7 3 7 8 17 22 8 3 4 21 8 3 24 22 8 7 3 9 18 21 3 23 11 12 22 3 22 11 8 15 23 8 21 3 1",
+    "chars": "<s> s o l i d _ c o n c r e t e _ b l o c k s _ r e l a t i v e l y _ h e a v y _ a n d _ d e n s e _ a r e _ u s e d _ f o r _ t h i s _ s h e l t e r _ </s>",
+    "char_seq_len": 77
+}

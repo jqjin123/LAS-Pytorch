@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MMEB0/SI1357.WAV",
+    "char_map_seq": "2 23 11 8 3 19 18 19 24 15 4 23 12 18 17 3 6 4 17 3 23 11 8 21 8 5 28 3 21 8 19 15 8 17 12 22 11 3 12 23 22 8 15 9 3 4 17 7 3 4 6 23 24 4 15 15 28 3 10 21 18 26 3 15 4 21 10 8 21 3 1",
+    "chars": "<s> t h e _ p o p u l a t i o n _ c a n _ t h e r e b y _ r e p l e n i s h _ i t s e l f _ a n d _ a c t u a l l y _ g r o w _ l a r g e r _ </s>",
+    "char_seq_len": 71
+}

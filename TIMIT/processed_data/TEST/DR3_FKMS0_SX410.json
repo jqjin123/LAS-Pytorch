@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/FKMS0/SX410.WAV",
+    "char_map_seq": "2 10 21 8 10 3 5 24 28 22 3 9 21 8 22 11 3 16 12 15 14 3 8 4 6 11 3 26 8 8 14 7 4 28 3 16 18 21 17 12 17 10 3 1",
+    "chars": "<s> g r e g _ b u y s _ f r e s h _ m i l k _ e a c h _ w e e k d a y _ m o r n i n g _ </s>",
+    "char_seq_len": 44
+}

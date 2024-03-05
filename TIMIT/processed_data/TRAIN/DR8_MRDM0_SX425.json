@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MRDM0/SX425.WAV",
+    "char_map_seq": "2 16 18 25 12 8 22 3 17 8 25 8 21 3 11 4 25 8 3 8 17 18 24 10 11 3 25 12 15 15 4 12 17 22 3 1",
+    "chars": "<s> m o v i e s _ n e v e r _ h a v e _ e n o u g h _ v i l l a i n s _ </s>",
+    "char_seq_len": 36
+}

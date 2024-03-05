@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FLTM0/SX260.WAV",
+    "char_map_seq": "2 21 8 16 8 16 5 8 21 3 23 18 3 4 15 15 18 26 3 12 7 8 17 23 12 6 4 15 3 23 26 12 17 22 3 23 18 3 8 17 23 8 21 3 9 21 8 8 15 28 3 1",
+    "chars": "<s> r e m e m b e r _ t o _ a l l o w _ i d e n t i c a l _ t w i n s _ t o _ e n t e r _ f r e e l y _ </s>",
+    "char_seq_len": 52
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MJDA0/SX131.WAV",
+    "char_map_seq": "2 26 8 3 19 15 4 17 3 23 18 3 5 24 12 15 7 3 4 3 17 8 26 3 5 8 25 8 21 4 10 8 3 19 15 4 17 23 3 1",
+    "chars": "<s> w e _ p l a n _ t o _ b u i l d _ a _ n e w _ b e v e r a g e _ p l a n t _ </s>",
+    "char_seq_len": 40
+}

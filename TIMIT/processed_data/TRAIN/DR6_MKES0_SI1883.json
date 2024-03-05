@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MKES0/SI1883.WAV",
+    "char_map_seq": "2 22 18 16 8 3 23 18 21 8 3 8 17 23 12 21 8 15 28 3 23 11 21 18 24 10 11 3 23 11 8 3 26 11 12 19 22 4 26 8 7 3 19 18 22 23 3 18 4 14 3 1",
+    "chars": "<s> s o m e _ t o r e _ e n t i r e l y _ t h r o u g h _ t h e _ w h i p s a w e d _ p o s t _ o a k _ </s>",
+    "char_seq_len": 52
+}

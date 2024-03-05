@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FJXM0/SX41.WAV",
+    "char_map_seq": "2 8 23 12 20 24 8 23 23 8 3 16 4 17 7 4 23 8 22 3 6 18 16 19 15 12 4 17 6 8 3 26 12 23 11 3 8 27 12 22 23 12 17 10 3 21 8 10 24 15 4 23 12 18 17 22 3 1",
+    "chars": "<s> e t i q u e t t e _ m a n d a t e s _ c o m p l i a n c e _ w i t h _ e x i s t i n g _ r e g u l a t i o n s _ </s>",
+    "char_seq_len": 58
+}

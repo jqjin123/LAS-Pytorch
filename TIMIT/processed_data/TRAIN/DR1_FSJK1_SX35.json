@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FSJK1/SX35.WAV",
+    "char_map_seq": "2 11 8 15 19 3 6 8 15 8 5 21 4 23 8 3 28 18 24 21 3 5 21 18 23 11 8 21 0 22 3 22 24 6 6 8 22 22 3 1",
+    "chars": "<s> h e l p _ c e l e b r a t e _ y o u r _ b r o t h e r ' s _ s u c c e s s _ </s>",
+    "char_seq_len": 40
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MPEB0/SI1860.WAV",
+    "char_map_seq": "2 26 8 0 21 8 3 17 18 23 3 7 21 24 17 14 4 21 7 22 3 22 11 8 3 22 4 12 7 3 1",
+    "chars": "<s> w e ' r e _ n o t _ d r u n k a r d s _ s h e _ s a i d _ </s>",
+    "char_seq_len": 31
+}

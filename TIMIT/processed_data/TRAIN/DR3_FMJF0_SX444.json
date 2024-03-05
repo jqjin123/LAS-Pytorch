@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FMJF0/SX444.WAV",
+    "char_map_seq": "2 23 11 8 3 23 18 7 7 15 8 21 3 9 18 24 17 7 3 4 3 6 15 4 16 22 11 8 15 15 3 17 8 4 21 3 23 11 8 3 6 4 16 19 3 22 12 23 8 3 1",
+    "chars": "<s> t h e _ t o d d l e r _ f o u n d _ a _ c l a m s h e l l _ n e a r _ t h e _ c a m p _ s i t e _ </s>",
+    "char_seq_len": 51
+}

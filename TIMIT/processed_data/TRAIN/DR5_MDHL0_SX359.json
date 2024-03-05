@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MDHL0/SX359.WAV",
+    "char_map_seq": "2 23 11 8 3 22 28 22 23 8 16 3 16 4 28 3 5 21 8 4 14 3 7 18 26 17 3 22 18 18 17 3 22 18 3 22 4 25 8 3 28 18 24 21 3 9 12 15 8 22 3 9 21 8 20 24 8 17 23 15 28 3 1",
+    "chars": "<s> t h e _ s y s t e m _ m a y _ b r e a k _ d o w n _ s o o n _ s o _ s a v e _ y o u r _ f i l e s _ f r e q u e n t l y _ </s>",
+    "char_seq_len": 63
+}

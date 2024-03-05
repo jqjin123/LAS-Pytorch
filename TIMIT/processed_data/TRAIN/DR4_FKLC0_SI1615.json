@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FKLC0/SI1615.WAV",
+    "char_map_seq": "2 19 4 3 7 18 17 0 23 3 6 4 21 8 3 4 5 18 24 23 3 23 11 8 3 14 12 7 3 1",
+    "chars": "<s> p a _ d o n ' t _ c a r e _ a b o u t _ t h e _ k i d _ </s>",
+    "char_seq_len": 30
+}

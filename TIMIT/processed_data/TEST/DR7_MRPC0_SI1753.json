@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MRPC0/SI1753.WAV",
+    "char_map_seq": "2 11 8 3 6 18 24 15 7 3 19 12 6 14 3 24 19 3 4 17 18 23 11 8 21 3 19 4 6 14 3 18 17 3 11 12 22 3 26 4 28 3 11 18 16 8 3 12 9 3 11 8 3 26 8 21 8 3 10 18 12 17 10 3 11 18 16 8 3 1",
+    "chars": "<s> h e _ c o u l d _ p i c k _ u p _ a n o t h e r _ p a c k _ o n _ h i s _ w a y _ h o m e _ i f _ h e _ w e r e _ g o i n g _ h o m e _ </s>",
+    "char_seq_len": 70
+}

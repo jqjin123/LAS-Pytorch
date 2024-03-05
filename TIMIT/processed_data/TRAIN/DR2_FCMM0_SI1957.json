@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FCMM0/SI1957.WAV",
+    "char_map_seq": "2 6 15 4 19 19 12 17 10 3 22 19 24 21 22 3 23 18 3 23 11 8 3 5 21 18 17 6 3 11 8 3 22 8 23 3 18 9 9 3 4 23 3 4 3 22 11 4 21 19 3 6 4 17 23 8 21 3 26 12 23 11 3 10 21 18 26 12 17 10 3 4 15 4 21 16 3 1",
+    "chars": "<s> c l a p p i n g _ s p u r s _ t o _ t h e _ b r o n c _ h e _ s e t _ o f f _ a t _ a _ s h a r p _ c a n t e r _ w i t h _ g r o w i n g _ a l a r m _ </s>",
+    "char_seq_len": 78
+}

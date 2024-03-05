@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FPMY0/SX163.WAV",
+    "char_map_seq": "2 23 11 8 28 3 21 8 16 4 12 17 8 7 3 15 12 9 8 15 18 17 10 3 9 21 12 8 17 7 22 3 4 17 7 3 6 18 16 19 4 17 12 18 17 22 3 1",
+    "chars": "<s> t h e y _ r e m a i n e d _ l i f e l o n g _ f r i e n d s _ a n d _ c o m p a n i o n s _ </s>",
+    "char_seq_len": 48
+}

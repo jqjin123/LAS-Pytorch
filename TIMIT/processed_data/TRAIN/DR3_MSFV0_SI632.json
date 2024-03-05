@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MSFV0/SI632.WAV",
+    "char_map_seq": "2 23 11 8 3 18 21 6 11 8 22 23 21 4 3 26 4 22 3 18 5 25 12 18 24 22 15 28 3 18 17 3 12 23 22 3 16 8 23 23 15 8 3 4 17 7 3 12 23 3 19 15 4 28 8 7 3 16 18 22 23 3 21 8 22 19 18 17 22 12 25 8 15 28 3 1",
+    "chars": "<s> t h e _ o r c h e s t r a _ w a s _ o b v i o u s l y _ o n _ i t s _ m e t t l e _ a n d _ i t _ p l a y e d _ m o s t _ r e s p o n s i v e l y _ </s>",
+    "char_seq_len": 76
+}

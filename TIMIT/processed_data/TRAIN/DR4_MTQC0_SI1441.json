@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MTQC0/SI1441.WAV",
+    "char_map_seq": "2 18 23 11 8 21 3 16 18 21 19 11 18 15 18 10 12 6 4 15 3 19 11 28 22 12 6 4 15 3 4 17 7 3 18 19 23 12 6 4 15 3 19 21 18 19 8 21 23 28 3 25 4 15 24 8 22 3 4 21 8 3 4 15 22 18 3 10 12 25 8 17 3 1",
+    "chars": "<s> o t h e r _ m o r p h o l o g i c a l _ p h y s i c a l _ a n d _ o p t i c a l _ p r o p e r t y _ v a l u e s _ a r e _ a l s o _ g i v e n _ </s>",
+    "char_seq_len": 74
+}

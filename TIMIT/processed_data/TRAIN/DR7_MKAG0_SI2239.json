@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MKAG0/SI2239.WAV",
+    "char_map_seq": "2 23 11 8 3 15 8 4 10 24 8 22 3 4 21 8 3 9 24 15 15 3 18 9 3 10 24 28 22 3 15 12 14 8 3 23 11 4 23 3 1",
+    "chars": "<s> t h e _ l e a g u e s _ a r e _ f u l l _ o f _ g u y s _ l i k e _ t h a t _ </s>",
+    "char_seq_len": 41
+}

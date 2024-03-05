@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MCPM0/SX24.WAV",
+    "char_map_seq": "2 4 15 23 11 18 24 10 11 3 4 15 26 4 28 22 3 4 15 18 17 8 3 26 8 3 22 24 21 25 12 25 8 3 1",
+    "chars": "<s> a l t h o u g h _ a l w a y s _ a l o n e _ w e _ s u r v i v e _ </s>",
+    "char_seq_len": 35
+}

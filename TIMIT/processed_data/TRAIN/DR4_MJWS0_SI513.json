@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJWS0/SI513.WAV",
+    "char_map_seq": "2 23 11 12 22 3 12 22 3 17 18 3 22 24 21 19 21 12 22 12 17 10 3 23 21 4 12 23 3 9 18 21 3 4 3 5 4 15 15 19 15 4 28 8 21 3 1",
+    "chars": "<s> t h i s _ i s _ n o _ s u r p r i s i n g _ t r a i t _ f o r _ a _ b a l l p l a y e r _ </s>",
+    "char_seq_len": 47
+}

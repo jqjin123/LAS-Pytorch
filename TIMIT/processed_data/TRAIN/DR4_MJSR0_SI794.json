@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJSR0/SI794.WAV",
+    "char_map_seq": "2 28 18 24 3 22 11 18 24 15 7 3 9 12 21 16 15 28 3 12 17 22 12 22 23 3 23 11 4 23 3 17 18 3 5 18 5 5 28 3 19 12 17 22 3 18 21 3 11 4 12 21 3 19 12 17 22 3 5 8 3 26 18 21 17 3 12 17 3 23 11 8 3 26 4 23 8 21 3 1",
+    "chars": "<s> y o u _ s h o u l d _ f i r m l y _ i n s i s t _ t h a t _ n o _ b o b b y _ p i n s _ o r _ h a i r _ p i n s _ b e _ w o r n _ i n _ t h e _ w a t e r _ </s>",
+    "char_seq_len": 80
+}

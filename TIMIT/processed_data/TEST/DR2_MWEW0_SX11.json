@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MWEW0/SX11.WAV",
+    "char_map_seq": "2 11 8 3 26 12 15 15 3 4 15 15 18 26 3 4 3 21 4 21 8 3 15 12 8 3 1",
+    "chars": "<s> h e _ w i l l _ a l l o w _ a _ r a r e _ l i e _ </s>",
+    "char_seq_len": 27
+}

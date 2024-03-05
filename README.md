@@ -6,3 +6,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 For any queries contact : krishnadn94@gmail.com
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Download TIMIT dataset, then execute timit.py
+https://pan.baidu.com/s/1xDHTFO4rns5CXMLWwfNqQQ?pwd=be8v fetch code: be8v
+
+本目录中的TIMIT只包含了示例数据

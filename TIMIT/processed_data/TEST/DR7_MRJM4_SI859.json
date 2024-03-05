@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MRJM4/SI859.WAV",
+    "char_map_seq": "2 4 3 17 18 17 3 6 18 17 23 21 12 5 24 23 18 21 28 3 19 15 4 17 3 24 22 24 4 15 15 28 3 26 18 17 0 23 3 19 4 28 3 18 9 9 3 9 18 21 3 23 11 8 3 26 18 21 14 8 21 3 24 17 23 12 15 3 11 8 3 21 8 23 12 21 8 22 3 1",
+    "chars": "<s> a _ n o n _ c o n t r i b u t o r y _ p l a n _ u s u a l l y _ w o n ' t _ p a y _ o f f _ f o r _ t h e _ w o r k e r _ u n t i l _ h e _ r e t i r e s _ </s>",
+    "char_seq_len": 80
+}

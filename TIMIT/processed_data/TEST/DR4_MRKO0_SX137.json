@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MRKO0/SX137.WAV",
+    "char_map_seq": "2 23 21 4 7 12 23 12 18 17 3 21 8 20 24 12 21 8 22 3 19 4 21 8 17 23 4 15 3 4 19 19 21 18 25 4 15 3 9 18 21 3 24 17 7 8 21 3 4 10 8 3 16 4 21 21 12 4 10 8 3 1",
+    "chars": "<s> t r a d i t i o n _ r e q u i r e s _ p a r e n t a l _ a p p r o v a l _ f o r _ u n d e r _ a g e _ m a r r i a g e _ </s>",
+    "char_seq_len": 62
+}

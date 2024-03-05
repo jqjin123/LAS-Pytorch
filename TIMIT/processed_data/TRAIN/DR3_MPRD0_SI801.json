@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MPRD0/SI801.WAV",
+    "char_map_seq": "2 12 17 3 4 3 17 8 26 3 11 18 24 22 8 3 10 8 17 8 21 18 24 22 3 21 18 18 9 3 18 25 8 21 11 4 17 10 22 3 4 21 8 3 4 3 15 18 10 12 6 4 15 3 4 17 7 3 8 9 9 8 6 23 12 25 8 3 22 18 15 24 23 12 18 17 3 1",
+    "chars": "<s> i n _ a _ n e w _ h o u s e _ g e n e r o u s _ r o o f _ o v e r h a n g s _ a r e _ a _ l o g i c a l _ a n d _ e f f e c t i v e _ s o l u t i o n _ </s>",
+    "char_seq_len": 78
+}

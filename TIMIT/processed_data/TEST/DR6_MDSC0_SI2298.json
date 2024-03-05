@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MDSC0/SI2298.WAV",
+    "char_map_seq": "2 4 22 3 4 3 21 8 22 24 15 23 3 11 8 3 26 4 22 3 19 8 21 22 24 4 7 8 7 3 18 24 23 3 23 18 3 7 12 17 17 8 21 3 1",
+    "chars": "<s> a s _ a _ r e s u l t _ h e _ w a s _ p e r s u a d e d _ o u t _ t o _ d i n n e r _ </s>",
+    "char_seq_len": 45
+}

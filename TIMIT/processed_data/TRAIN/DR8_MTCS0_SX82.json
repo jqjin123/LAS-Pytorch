@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MTCS0/SX82.WAV",
+    "char_map_seq": "2 10 18 18 7 3 22 8 21 25 12 6 8 3 22 11 18 24 15 7 3 5 8 3 21 8 26 4 21 7 8 7 3 5 28 3 5 12 10 3 23 12 19 22 3 1",
+    "chars": "<s> g o o d _ s e r v i c e _ s h o u l d _ b e _ r e w a r d e d _ b y _ b i g _ t i p s _ </s>",
+    "char_seq_len": 46
+}

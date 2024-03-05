@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MBSB0/SI1983.WAV",
+    "char_map_seq": "2 5 21 4 14 8 22 3 22 11 21 12 8 14 8 7 3 5 8 11 12 17 7 3 24 22 3 1",
+    "chars": "<s> b r a k e s _ s h r i e k e d _ b e h i n d _ u s _ </s>",
+    "char_seq_len": 28
+}

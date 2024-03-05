@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FPAB1/SI2101.WAV",
+    "char_map_seq": "2 13 24 22 23 3 26 11 28 3 4 17 28 5 18 7 28 3 22 11 18 24 15 7 3 26 12 22 11 3 23 18 3 22 23 4 21 23 3 4 3 21 12 18 23 3 23 11 8 3 8 27 8 6 24 23 12 25 8 3 18 9 9 12 6 8 21 3 7 12 7 17 0 23 3 14 17 18 26 3 1",
+    "chars": "<s> j u s t _ w h y _ a n y b o d y _ s h o u l d _ w i s h _ t o _ s t a r t _ a _ r i o t _ t h e _ e x e c u t i v e _ o f f i c e r _ d i d n ' t _ k n o w _ </s>",
+    "char_seq_len": 81
+}

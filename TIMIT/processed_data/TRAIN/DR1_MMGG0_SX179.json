@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MMGG0/SX179.WAV",
+    "char_map_seq": "2 26 8 3 6 18 24 15 7 3 5 4 21 8 15 28 3 22 8 8 3 23 11 8 3 9 13 18 21 7 22 3 23 11 21 18 24 10 11 3 23 11 8 3 22 17 18 26 3 9 15 24 21 21 12 8 22 3 1",
+    "chars": "<s> w e _ c o u l d _ b a r e l y _ s e e _ t h e _ f j o r d s _ t h r o u g h _ t h e _ s n o w _ f l u r r i e s _ </s>",
+    "char_seq_len": 59
+}

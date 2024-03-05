@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MWGR0/SX346.WAV",
+    "char_map_seq": "2 23 11 8 3 5 4 21 21 4 6 24 7 4 3 21 8 6 18 12 15 8 7 3 9 21 18 16 3 23 11 8 3 22 8 21 19 8 17 23 0 22 3 19 18 12 22 18 17 18 24 22 3 9 4 17 10 22 3 1",
+    "chars": "<s> t h e _ b a r r a c u d a _ r e c o i l e d _ f r o m _ t h e _ s e r p e n t ' s _ p o i s o n o u s _ f a n g s _ </s>",
+    "char_seq_len": 60
+}

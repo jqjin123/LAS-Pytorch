@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/MBBR0/SX335.WAV",
+    "char_map_seq": "2 10 24 22 3 22 4 26 3 19 12 17 8 3 23 21 8 8 22 3 4 17 7 3 21 8 7 26 18 18 7 22 3 18 17 3 11 12 22 3 26 4 15 14 3 23 11 21 18 24 10 11 3 22 8 20 24 18 12 4 3 17 4 23 12 18 17 4 15 3 9 18 21 8 22 23 3 1",
+    "chars": "<s> g u s _ s a w _ p i n e _ t r e e s _ a n d _ r e d w o o d s _ o n _ h i s _ w a l k _ t h r o u g h _ s e q u o i a _ n a t i o n a l _ f o r e s t _ </s>",
+    "char_seq_len": 78
+}

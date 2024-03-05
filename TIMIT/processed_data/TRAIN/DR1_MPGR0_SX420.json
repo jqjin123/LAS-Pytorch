@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MPGR0/SX420.WAV",
+    "char_map_seq": "2 22 8 4 16 22 23 21 8 22 22 8 22 3 4 23 23 4 6 11 3 29 12 19 19 8 21 22 3 26 12 23 11 3 4 3 23 11 12 16 5 15 8 3 17 8 8 7 15 8 3 4 17 7 3 23 11 21 8 4 7 3 1",
+    "chars": "<s> s e a m s t r e s s e s _ a t t a c h _ z i p p e r s _ w i t h _ a _ t h i m b l e _ n e e d l e _ a n d _ t h r e a d _ </s>",
+    "char_seq_len": 63
+}

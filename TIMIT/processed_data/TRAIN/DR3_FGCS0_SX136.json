@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FGCS0/SX136.WAV",
+    "char_map_seq": "2 22 6 12 8 17 23 12 9 12 6 3 19 21 18 10 21 8 22 22 3 6 18 16 8 22 3 9 21 18 16 3 23 11 8 3 7 8 25 8 15 18 19 16 8 17 23 3 18 9 3 17 8 26 3 23 8 6 11 17 12 20 24 8 22 3 1",
+    "chars": "<s> s c i e n t i f i c _ p r o g r e s s _ c o m e s _ f r o m _ t h e _ d e v e l o p m e n t _ o f _ n e w _ t e c h n i q u e s _ </s>",
+    "char_seq_len": 67
+}

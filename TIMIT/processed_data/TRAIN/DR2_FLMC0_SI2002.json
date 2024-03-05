@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FLMC0/SI2002.WAV",
+    "char_map_seq": "2 23 11 8 28 0 15 15 3 21 18 15 15 3 18 9 9 3 12 17 3 4 17 18 23 11 8 21 3 7 4 28 3 1",
+    "chars": "<s> t h e y ' l l _ r o l l _ o f f _ i n _ a n o t h e r _ d a y _ </s>",
+    "char_seq_len": 34
+}

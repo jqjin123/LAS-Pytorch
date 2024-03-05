@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FSJW0/SX433.WAV",
+    "char_map_seq": "2 23 11 8 3 18 25 8 21 26 8 12 10 11 23 3 6 11 4 21 16 8 21 3 6 18 24 15 7 3 22 15 12 19 3 19 18 12 22 18 17 3 12 17 23 18 3 4 17 28 18 17 8 0 22 3 23 8 4 3 1",
+    "chars": "<s> t h e _ o v e r w e i g h t _ c h a r m e r _ c o u l d _ s l i p _ p o i s o n _ i n t o _ a n y o n e ' s _ t e a _ </s>",
+    "char_seq_len": 61
+}

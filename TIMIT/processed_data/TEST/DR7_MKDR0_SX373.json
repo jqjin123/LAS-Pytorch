@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MKDR0/SX373.WAV",
+    "char_map_seq": "2 4 3 5 18 21 12 17 10 3 17 18 25 8 15 3 12 22 3 4 3 22 24 19 8 21 5 3 22 15 8 8 19 12 17 10 3 19 12 15 15 3 1",
+    "chars": "<s> a _ b o r i n g _ n o v e l _ i s _ a _ s u p e r b _ s l e e p i n g _ p i l l _ </s>",
+    "char_seq_len": 43
+}

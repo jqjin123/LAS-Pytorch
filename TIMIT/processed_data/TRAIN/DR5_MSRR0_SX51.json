@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MSRR0/SX51.WAV",
+    "char_map_seq": "2 4 16 5 12 7 8 27 23 21 18 24 22 3 19 12 6 14 19 18 6 14 8 23 22 3 4 6 6 18 16 19 15 12 22 11 3 16 18 21 8 3 1",
+    "chars": "<s> a m b i d e x t r o u s _ p i c k p o c k e t s _ a c c o m p l i s h _ m o r e _ </s>",
+    "char_seq_len": 43
+}

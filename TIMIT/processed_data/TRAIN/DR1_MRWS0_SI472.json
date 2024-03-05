@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MRWS0/SI472.WAV",
+    "char_map_seq": "2 11 8 3 19 15 4 28 8 7 3 5 4 22 14 8 23 5 4 15 15 3 23 11 8 21 8 3 26 11 12 15 8 3 26 18 21 14 12 17 10 3 23 18 26 4 21 7 3 4 3 15 4 26 3 7 8 10 21 8 8 3 1",
+    "chars": "<s> h e _ p l a y e d _ b a s k e t b a l l _ t h e r e _ w h i l e _ w o r k i n g _ t o w a r d _ a _ l a w _ d e g r e e _ </s>",
+    "char_seq_len": 63
+}

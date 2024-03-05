@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR8/FCMH1/SI2123.WAV",
+    "char_map_seq": "2 23 11 12 22 3 23 21 4 10 12 6 3 15 4 7 3 11 4 7 3 9 18 21 10 8 7 3 11 12 22 3 18 26 17 3 22 11 4 6 14 15 8 22 3 1",
+    "chars": "<s> t h i s _ t r a g i c _ l a d _ h a d _ f o r g e d _ h i s _ o w n _ s h a c k l e s _ </s>",
+    "char_seq_len": 46
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MRCG0/SI798.WAV",
+    "char_map_seq": "2 26 11 8 17 3 28 18 24 0 21 8 3 15 8 22 22 3 9 4 23 12 10 24 8 7 3 23 11 12 17 10 22 3 13 24 22 23 3 17 4 23 24 21 4 15 15 28 3 15 18 18 14 3 5 21 12 10 11 23 8 21 3 1",
+    "chars": "<s> w h e n _ y o u ' r e _ l e s s _ f a t i g u e d _ t h i n g s _ j u s t _ n a t u r a l l y _ l o o k _ b r i g h t e r _ </s>",
+    "char_seq_len": 64
+}

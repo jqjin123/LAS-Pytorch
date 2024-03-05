@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FRNG0/SI1355.WAV",
+    "char_map_seq": "2 21 8 10 24 15 4 23 12 25 8 3 17 18 21 16 22 3 10 18 25 8 21 17 12 17 10 3 22 24 5 10 21 18 24 19 22 3 4 17 7 3 21 18 15 8 22 3 1",
+    "chars": "<s> r e g u l a t i v e _ n o r m s _ g o v e r n i n g _ s u b g r o u p s _ a n d _ r o l e s _ </s>",
+    "char_seq_len": 49
+}

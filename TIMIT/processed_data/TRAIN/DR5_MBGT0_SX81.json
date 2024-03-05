@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MBGT0/SX81.WAV",
+    "char_map_seq": "2 12 23 0 22 3 12 16 19 18 22 22 12 5 15 8 3 23 18 3 7 8 4 15 3 26 12 23 11 3 5 24 21 8 4 24 6 21 4 6 28 3 1",
+    "chars": "<s> i t ' s _ i m p o s s i b l e _ t o _ d e a l _ w i t h _ b u r e a u c r a c y _ </s>",
+    "char_seq_len": 43
+}

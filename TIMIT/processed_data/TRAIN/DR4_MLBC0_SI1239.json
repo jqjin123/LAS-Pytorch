@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MLBC0/SI1239.WAV",
+    "char_map_seq": "2 23 11 24 22 3 9 4 21 3 23 11 8 3 4 7 25 4 17 6 8 22 3 16 4 7 8 3 11 4 25 8 3 5 8 8 17 3 4 15 16 18 22 23 3 8 17 23 12 21 8 15 28 3 4 15 18 17 10 3 9 24 17 6 23 12 18 17 4 15 3 15 12 17 8 22 3 1",
+    "chars": "<s> t h u s _ f a r _ t h e _ a d v a n c e s _ m a d e _ h a v e _ b e e n _ a l m o s t _ e n t i r e l y _ a l o n g _ f u n c t i o n a l _ l i n e s _ </s>",
+    "char_seq_len": 78
+}

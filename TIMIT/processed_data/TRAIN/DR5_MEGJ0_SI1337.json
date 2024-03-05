@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MEGJ0/SI1337.WAV",
+    "char_map_seq": "2 23 11 12 22 3 26 4 22 3 6 11 12 8 9 15 28 3 5 8 6 4 24 22 8 3 18 9 3 23 11 8 3 5 15 24 12 22 11 3 26 11 12 23 8 3 4 24 23 18 9 15 24 18 21 8 22 6 8 17 6 8 3 9 21 18 16 3 23 11 8 3 6 8 15 15 22 3 1",
+    "chars": "<s> t h i s _ w a s _ c h i e f l y _ b e c a u s e _ o f _ t h e _ b l u i s h _ w h i t e _ a u t o f l u o r e s c e n c e _ f r o m _ t h e _ c e l l s _ </s>",
+    "char_seq_len": 79
+}

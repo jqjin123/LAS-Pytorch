@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FLMC0/SI1372.WAV",
+    "char_map_seq": "2 21 18 15 8 19 15 4 28 12 17 10 3 24 22 8 7 3 9 18 21 3 4 17 4 15 28 22 12 22 3 9 18 15 15 18 26 22 3 23 11 8 22 8 3 10 8 17 8 21 4 15 3 22 23 8 19 22 3 15 8 4 7 12 17 10 3 23 18 3 23 21 4 12 17 12 17 10 3 1",
+    "chars": "<s> r o l e p l a y i n g _ u s e d _ f o r _ a n a l y s i s _ f o l l o w s _ t h e s e _ g e n e r a l _ s t e p s _ l e a d i n g _ t o _ t r a i n i n g _ </s>",
+    "char_seq_len": 80
+}

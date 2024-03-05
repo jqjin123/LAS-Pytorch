@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MRPP0/SI1814.WAV",
+    "char_map_seq": "2 4 9 23 8 21 26 4 21 7 22 3 28 18 24 3 7 12 7 3 26 8 15 15 3 8 17 18 24 10 11 3 1",
+    "chars": "<s> a f t e r w a r d s _ y o u _ d i d _ w e l l _ e n o u g h _ </s>",
+    "char_seq_len": 33
+}

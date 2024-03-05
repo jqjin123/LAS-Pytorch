@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MWSB0/SX186.WAV",
+    "char_map_seq": "2 26 18 24 15 7 3 4 3 23 18 16 5 18 28 3 18 9 23 8 17 3 19 15 4 28 3 18 24 23 7 18 18 21 22 3 1",
+    "chars": "<s> w o u l d _ a _ t o m b o y _ o f t e n _ p l a y _ o u t d o o r s _ </s>",
+    "char_seq_len": 37
+}

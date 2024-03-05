@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MBWP0/SI709.WAV",
+    "char_map_seq": "2 4 25 18 6 4 7 18 22 3 11 18 26 8 25 8 21 3 4 21 8 3 25 8 21 28 3 21 12 6 11 3 12 17 3 17 24 23 21 12 8 17 23 22 3 1",
+    "chars": "<s> a v o c a d o s _ h o w e v e r _ a r e _ v e r y _ r i c h _ i n _ n u t r i e n t s _ </s>",
+    "char_seq_len": 46
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FCAG0/SX153.WAV",
+    "char_map_seq": "2 22 6 11 18 15 4 22 23 12 6 3 4 19 23 12 23 24 7 8 3 12 22 3 13 24 7 10 8 7 3 5 28 3 22 23 4 17 7 4 21 7 12 29 8 7 3 23 8 22 23 22 3 1",
+    "chars": "<s> s c h o l a s t i c _ a p t i t u d e _ i s _ j u d g e d _ b y _ s t a n d a r d i z e d _ t e s t s _ </s>",
+    "char_seq_len": 54
+}

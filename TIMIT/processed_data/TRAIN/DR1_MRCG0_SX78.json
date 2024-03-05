@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MRCG0/SX78.WAV",
+    "char_map_seq": "2 7 18 6 23 18 21 22 3 19 21 8 22 6 21 12 5 8 3 7 21 24 10 22 3 23 18 18 3 9 21 8 8 15 28 3 1",
+    "chars": "<s> d o c t o r s _ p r e s c r i b e _ d r u g s _ t o o _ f r e e l y _ </s>",
+    "char_seq_len": 37
+}

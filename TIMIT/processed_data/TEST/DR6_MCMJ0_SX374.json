@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MCMJ0/SX374.WAV",
+    "char_map_seq": "2 13 18 11 17 3 6 15 8 4 17 22 3 22 11 8 15 15 9 12 22 11 3 9 18 21 3 4 3 15 12 25 12 17 10 3 1",
+    "chars": "<s> j o h n _ c l e a n s _ s h e l l f i s h _ f o r _ a _ l i v i n g _ </s>",
+    "char_seq_len": 37
+}

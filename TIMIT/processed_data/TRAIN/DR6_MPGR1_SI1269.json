@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MPGR1/SI1269.WAV",
+    "char_map_seq": "2 21 8 22 12 22 23 4 17 6 8 3 23 11 8 21 16 18 16 8 23 8 21 22 3 1",
+    "chars": "<s> r e s i s t a n c e _ t h e r m o m e t e r s _ </s>",
+    "char_seq_len": 26
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MAHH0/SI1294.WAV",
+    "char_map_seq": "2 12 9 3 28 18 24 3 4 21 8 3 4 3 15 12 9 8 3 23 8 17 4 17 23 3 28 18 24 3 7 8 7 24 6 23 3 4 15 15 18 26 4 5 15 8 3 7 8 19 21 8 6 12 4 23 12 18 17 3 4 17 7 3 7 8 19 15 8 23 12 18 17 3 1",
+    "chars": "<s> i f _ y o u _ a r e _ a _ l i f e _ t e n a n t _ y o u _ d e d u c t _ a l l o w a b l e _ d e p r e c i a t i o n _ a n d _ d e p l e t i o n _ </s>",
+    "char_seq_len": 75
+}

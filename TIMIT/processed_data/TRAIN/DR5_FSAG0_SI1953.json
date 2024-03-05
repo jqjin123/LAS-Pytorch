@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FSAG0/SI1953.WAV",
+    "char_map_seq": "2 26 11 8 21 8 0 21 8 3 28 18 24 3 23 4 14 12 17 0 3 16 8 3 1",
+    "chars": "<s> w h e r e ' r e _ y o u _ t a k i n ' _ m e _ </s>",
+    "char_seq_len": 25
+}

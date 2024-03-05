@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MJRF0/SX191.WAV",
+    "char_map_seq": "2 26 12 23 11 7 21 4 26 3 4 15 15 3 19 11 18 17 28 3 4 6 6 24 22 4 23 12 18 17 22 3 4 23 3 18 17 6 8 3 1",
+    "chars": "<s> w i t h d r a w _ a l l _ p h o n y _ a c c u s a t i o n s _ a t _ o n c e _ </s>",
+    "char_seq_len": 41
+}

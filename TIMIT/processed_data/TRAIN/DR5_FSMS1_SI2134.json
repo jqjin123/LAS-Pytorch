@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/FSMS1/SI2134.WAV",
+    "char_map_seq": "2 4 15 15 3 11 12 22 3 9 4 16 12 15 28 3 26 4 22 3 7 8 4 7 3 8 27 6 8 19 23 3 9 18 21 3 11 12 22 3 22 18 17 3 1",
+    "chars": "<s> a l l _ h i s _ f a m i l y _ w a s _ d e a d _ e x c e p t _ f o r _ h i s _ s o n _ </s>",
+    "char_seq_len": 45
+}

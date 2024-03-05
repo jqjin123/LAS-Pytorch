@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FRAM1/SI730.WAV",
+    "char_map_seq": "2 4 17 18 23 11 8 21 3 16 8 16 18 3 9 18 21 3 22 12 10 11 23 22 8 8 21 22 3 5 21 12 17 10 3 28 18 24 21 3 6 4 16 8 21 4 3 4 15 18 17 10 3 23 18 3 16 24 22 8 24 16 22 3 1",
+    "chars": "<s> a n o t h e r _ m e m o _ f o r _ s i g h t s e e r s _ b r i n g _ y o u r _ c a m e r a _ a l o n g _ t o _ m u s e u m s _ </s>",
+    "char_seq_len": 65
+}

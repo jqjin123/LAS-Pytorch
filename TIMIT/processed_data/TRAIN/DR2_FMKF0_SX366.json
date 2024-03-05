@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FMKF0/SX366.WAV",
+    "char_map_seq": "2 26 18 24 15 7 3 28 18 24 3 19 15 8 4 22 8 3 6 18 17 9 12 21 16 3 10 18 25 8 21 17 16 8 17 23 3 19 18 15 12 6 28 3 21 8 10 4 21 7 12 17 10 3 26 4 22 23 8 3 21 8 16 18 25 4 15 3 1",
+    "chars": "<s> w o u l d _ y o u _ p l e a s e _ c o n f i r m _ g o v e r n m e n t _ p o l i c y _ r e g a r d i n g _ w a s t e _ r e m o v a l _ </s>",
+    "char_seq_len": 69
+}

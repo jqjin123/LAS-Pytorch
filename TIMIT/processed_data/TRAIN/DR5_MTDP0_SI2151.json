@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MTDP0/SI2151.WAV",
+    "char_map_seq": "2 11 8 3 22 4 17 14 3 5 4 6 14 3 22 12 10 11 12 17 10 3 4 17 7 3 26 4 22 3 22 18 18 17 3 4 22 15 8 8 19 3 4 10 4 12 17 3 1",
+    "chars": "<s> h e _ s a n k _ b a c k _ s i g h i n g _ a n d _ w a s _ s o o n _ a s l e e p _ a g a i n _ </s>",
+    "char_seq_len": 49
+}

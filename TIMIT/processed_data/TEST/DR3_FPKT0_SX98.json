@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/FPKT0/SX98.WAV",
+    "char_map_seq": "2 10 24 8 22 22 3 23 11 8 3 20 24 8 22 23 12 18 17 3 9 21 18 16 3 23 11 8 3 4 17 22 26 8 21 3 1",
+    "chars": "<s> g u e s s _ t h e _ q u e s t i o n _ f r o m _ t h e _ a n s w e r _ </s>",
+    "char_seq_len": 37
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/FPKT0/SI2168.WAV",
+    "char_map_seq": "2 23 11 8 28 3 16 4 14 8 3 24 22 3 6 18 17 9 18 21 16 12 22 23 22 3 15 18 18 14 3 10 18 18 7 3 1",
+    "chars": "<s> t h e y _ m a k e _ u s _ c o n f o r m i s t s _ l o o k _ g o o d _ </s>",
+    "char_seq_len": 37
+}

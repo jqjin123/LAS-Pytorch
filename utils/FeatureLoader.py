@@ -21,7 +21,7 @@ class Feature_loader(object):
         self.audio_filepath  = data['audio_filepath']
         self.chars_map = data['char_map_seq']
         self.chars = data['chars']
-        self.sr = 16000
+        self.sr = 16000  # sample rate
         self.feature_type = 'spectrogram'
 
     def load_audio(self):
@@ -30,10 +30,13 @@ class Feature_loader(object):
     
     def feature_extraction(self,audio_data):
         if self.feature_type=='mfcc':
-            features = librosa.feature.mfcc(audio_data, sr=self.sr,hop_length=160, win_length=400, n_mfcc=13) 
+            # features的维度为 (n_mfcc, len(audio_data) / hop_length)
+            features = librosa.feature.mfcc(y=audio_data, sr=self.sr,hop_length=160, win_length=400, n_mfcc=13)
         elif self.feature_type =='mel':
-            features = librosa.feature.melspectrogram(audio_data, sr=self.sr, hop_length=160, win_length=400,n_mels=40) 
+            # features的维度为 (n_mels, len(audio_data) / hop_length)
+            features = librosa.feature.melspectrogram(y=audio_data, sr=self.sr, hop_length=160, win_length=400,n_mels=40)
         else:
+            # features的维度为 (n_fft/2 + 1, len(audio_data) / hop_length)
             features = librosa.stft(audio_data, n_fft=512, win_length=400, hop_length=160) 
             
         return features.T
@@ -49,8 +52,8 @@ class Feature_loader(object):
     def load_dataset(self):
         ### Audio processing
         audio_data = self.load_audio()
-        features = self.feature_extraction(audio_data)
-        mag, _ = librosa.magphase(features)  # magnitude
+        features = self.feature_extraction(audio_data)#频域特征
+        mag, _ = librosa.magphase(features)  # 计算幅值和相位值
         mag_T = mag.T
         spec_mag = mag_T
         # preprocessing, subtract mean, divided by time-wise var

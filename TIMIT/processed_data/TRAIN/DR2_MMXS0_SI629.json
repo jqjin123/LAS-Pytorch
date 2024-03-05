@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MMXS0/SI629.WAV",
+    "char_map_seq": "2 11 12 22 3 23 8 6 11 17 12 20 24 8 3 12 22 3 4 16 19 15 8 3 4 17 7 3 11 12 22 3 16 24 22 12 6 4 15 3 12 7 8 4 22 3 4 21 8 3 19 21 18 13 8 6 23 8 7 3 5 8 4 24 23 12 9 24 15 15 28 3 1",
+    "chars": "<s> h i s _ t e c h n i q u e _ i s _ a m p l e _ a n d _ h i s _ m u s i c a l _ i d e a s _ a r e _ p r o j e c t e d _ b e a u t i f u l l y _ </s>",
+    "char_seq_len": 73
+}

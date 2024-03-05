@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MJEE0/SI1237.WAV",
+    "char_map_seq": "2 26 8 3 16 4 28 3 22 4 28 3 18 9 3 22 18 16 8 3 24 17 9 18 21 23 24 17 4 23 8 22 3 23 11 4 23 3 23 11 8 28 3 26 8 21 8 3 17 8 25 8 21 3 28 18 24 17 10 3 1",
+    "chars": "<s> w e _ m a y _ s a y _ o f _ s o m e _ u n f o r t u n a t e s _ t h a t _ t h e y _ w e r e _ n e v e r _ y o u n g _ </s>",
+    "char_seq_len": 61
+}

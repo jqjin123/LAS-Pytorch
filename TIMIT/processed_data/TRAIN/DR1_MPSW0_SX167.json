@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MPSW0/SX167.WAV",
+    "char_map_seq": "2 8 16 19 15 18 28 8 8 3 15 4 28 18 9 9 22 3 6 18 12 17 6 12 7 8 7 3 26 12 23 11 3 23 11 8 3 6 18 16 19 4 17 28 0 22 3 21 8 18 21 10 4 17 12 29 4 23 12 18 17 3 1",
+    "chars": "<s> e m p l o y e e _ l a y o f f s _ c o i n c i d e d _ w i t h _ t h e _ c o m p a n y ' s _ r e o r g a n i z a t i o n _ </s>",
+    "char_seq_len": 63
+}

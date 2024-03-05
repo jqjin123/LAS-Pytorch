@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MAHH0/SI664.WAV",
+    "char_map_seq": "2 15 18 18 14 3 4 23 3 23 11 8 3 23 11 12 17 10 22 3 26 8 3 7 18 3 23 18 3 8 22 6 4 19 8 3 18 24 21 3 9 8 4 21 22 3 4 17 7 3 23 18 3 9 18 21 10 8 23 3 18 24 21 3 26 18 21 21 12 8 22 3 1",
+    "chars": "<s> l o o k _ a t _ t h e _ t h i n g s _ w e _ d o _ t o _ e s c a p e _ o u r _ f e a r s _ a n d _ t o _ f o r g e t _ o u r _ w o r r i e s _ </s>",
+    "char_seq_len": 73
+}

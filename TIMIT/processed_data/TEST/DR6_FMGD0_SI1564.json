@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/FMGD0/SI1564.WAV",
+    "char_map_seq": "2 11 24 22 5 4 17 7 21 28 3 26 4 22 3 5 18 24 17 7 8 7 3 5 28 3 22 17 4 14 8 3 21 4 12 15 3 9 8 17 6 8 22 3 4 17 7 3 23 11 8 21 8 3 26 8 21 8 3 10 21 4 29 12 17 10 3 6 4 23 23 15 8 3 1",
+    "chars": "<s> h u s b a n d r y _ w a s _ b o u n d e d _ b y _ s n a k e _ r a i l _ f e n c e s _ a n d _ t h e r e _ w e r e _ g r a z i n g _ c a t t l e _ </s>",
+    "char_seq_len": 75
+}

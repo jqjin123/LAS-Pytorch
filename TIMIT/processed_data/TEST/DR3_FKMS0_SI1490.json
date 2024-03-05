@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/FKMS0/SI1490.WAV",
+    "char_map_seq": "2 19 8 21 11 4 19 22 3 12 23 3 26 4 22 3 21 12 10 11 23 3 19 8 21 11 4 19 22 3 12 23 3 26 4 22 3 13 24 22 23 3 1",
+    "chars": "<s> p e r h a p s _ i t _ w a s _ r i g h t _ p e r h a p s _ i t _ w a s _ j u s t _ </s>",
+    "char_seq_len": 43
+}

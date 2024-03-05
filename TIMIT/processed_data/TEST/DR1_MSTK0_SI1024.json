@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MSTK0/SI1024.WAV",
+    "char_map_seq": "2 4 23 3 23 11 8 3 5 4 22 8 3 18 9 3 23 11 8 3 21 18 6 14 28 3 11 12 15 15 22 12 7 8 3 23 11 8 28 3 15 8 9 23 3 23 11 8 12 21 3 11 18 21 22 8 22 3 4 17 7 3 6 15 12 16 5 8 7 3 18 17 3 9 18 18 23 3 1",
+    "chars": "<s> a t _ t h e _ b a s e _ o f _ t h e _ r o c k y _ h i l l s i d e _ t h e y _ l e f t _ t h e i r _ h o r s e s _ a n d _ c l i m b e d _ o n _ f o o t _ </s>",
+    "char_seq_len": 79
+}

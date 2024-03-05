@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MRMS1/SI1487.WAV",
+    "char_map_seq": "2 23 11 8 22 8 3 26 8 21 8 3 11 8 21 18 8 22 3 17 12 17 8 3 9 8 8 23 3 23 4 15 15 3 23 18 3 11 12 16 3 1",
+    "chars": "<s> t h e s e _ w e r e _ h e r o e s _ n i n e _ f e e t _ t a l l _ t o _ h i m _ </s>",
+    "char_seq_len": 42
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MMDB0/SI1358.WAV",
+    "char_map_seq": "2 5 24 23 3 23 11 8 3 12 17 9 18 21 16 4 23 12 18 17 3 18 17 3 23 11 8 3 7 28 17 4 16 12 6 22 3 18 9 3 19 18 19 24 15 4 23 12 18 17 3 26 4 22 3 18 9 23 8 17 3 20 24 12 23 8 3 16 12 22 15 8 4 7 12 17 10 3 1",
+    "chars": "<s> b u t _ t h e _ i n f o r m a t i o n _ o n _ t h e _ d y n a m i c s _ o f _ p o p u l a t i o n _ w a s _ o f t e n _ q u i t e _ m i s l e a d i n g _ </s>",
+    "char_seq_len": 79
+}

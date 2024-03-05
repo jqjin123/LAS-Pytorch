@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MRTK0/SI1093.WAV",
+    "char_map_seq": "2 26 11 4 23 3 8 15 8 16 8 17 23 22 3 18 9 3 18 24 21 3 5 8 11 4 25 12 18 21 3 4 21 8 3 7 8 6 12 22 12 25 8 3 1",
+    "chars": "<s> w h a t _ e l e m e n t s _ o f _ o u r _ b e h a v i o r _ a r e _ d e c i s i v e _ </s>",
+    "char_seq_len": 45
+}

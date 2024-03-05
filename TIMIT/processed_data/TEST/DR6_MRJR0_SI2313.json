@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MRJR0/SI2313.WAV",
+    "char_map_seq": "2 26 8 15 15 3 13 24 17 12 18 21 3 7 12 7 17 0 23 3 11 8 3 8 4 23 3 18 17 15 28 3 18 17 8 3 4 17 7 3 16 21 3 11 8 17 21 28 3 7 12 7 17 0 23 3 8 25 8 17 3 7 18 3 23 11 4 23 3 26 8 15 15 3 1",
+    "chars": "<s> w e l l _ j u n i o r _ d i d n ' t _ h e _ e a t _ o n l y _ o n e _ a n d _ m r _ h e n r y _ d i d n ' t _ e v e n _ d o _ t h a t _ w e l l _ </s>",
+    "char_seq_len": 75
+}

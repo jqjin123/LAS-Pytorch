@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MRMS0/SX30.WAV",
+    "char_map_seq": "2 10 8 23 3 4 3 6 4 15 12 6 18 3 6 4 23 3 23 18 3 14 8 8 19 3 1",
+    "chars": "<s> g e t _ a _ c a l i c o _ c a t _ t o _ k e e p _ </s>",
+    "char_seq_len": 27
+}

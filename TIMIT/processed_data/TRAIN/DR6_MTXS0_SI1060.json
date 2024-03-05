@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MTXS0/SI1060.WAV",
+    "char_map_seq": "2 23 11 8 28 3 12 17 11 4 5 12 23 3 4 3 22 8 6 21 8 23 3 26 18 21 15 7 3 6 8 17 23 8 21 8 7 3 18 17 3 10 18 3 6 18 7 8 22 3 4 17 7 3 10 18 15 7 3 19 11 18 17 8 22 3 1",
+    "chars": "<s> t h e y _ i n h a b i t _ a _ s e c r e t _ w o r l d _ c e n t e r e d _ o n _ g o _ c o d e s _ a n d _ g o l d _ p h o n e s _ </s>",
+    "char_seq_len": 67
+}

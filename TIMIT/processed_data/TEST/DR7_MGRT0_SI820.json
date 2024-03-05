@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MGRT0/SI820.WAV",
+    "char_map_seq": "2 5 28 3 23 11 4 23 3 18 17 8 3 9 8 8 15 22 3 23 11 4 23 3 16 4 10 17 8 23 12 6 3 9 18 21 6 8 22 3 4 21 8 3 4 22 3 10 8 17 8 21 4 15 3 4 22 3 8 15 8 6 23 21 12 6 4 15 3 9 18 21 6 8 22 3 1",
+    "chars": "<s> b y _ t h a t _ o n e _ f e e l s _ t h a t _ m a g n e t i c _ f o r c e s _ a r e _ a s _ g e n e r a l _ a s _ e l e c t r i c a l _ f o r c e s _ </s>",
+    "char_seq_len": 77
+}

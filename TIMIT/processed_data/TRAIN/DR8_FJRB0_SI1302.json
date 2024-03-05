@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/FJRB0/SI1302.WAV",
+    "char_map_seq": "2 16 18 21 8 3 18 9 23 8 17 3 23 11 8 22 8 3 18 9 9 12 6 8 22 3 4 21 8 3 21 8 22 23 21 12 6 23 8 7 3 23 18 3 23 11 8 3 10 4 23 11 8 21 12 17 10 3 18 9 3 8 16 19 12 21 12 6 4 15 3 7 4 23 4 3 1",
+    "chars": "<s> m o r e _ o f t e n _ t h e s e _ o f f i c e s _ a r e _ r e s t r i c t e d _ t o _ t h e _ g a t h e r i n g _ o f _ e m p i r i c a l _ d a t a _ </s>",
+    "char_seq_len": 77
+}

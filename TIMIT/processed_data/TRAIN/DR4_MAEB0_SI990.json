@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MAEB0/SI990.WAV",
+    "char_map_seq": "2 4 17 7 3 23 11 8 22 8 3 11 4 21 7 28 3 23 21 4 25 8 15 8 21 22 3 4 21 8 3 17 18 23 3 24 17 4 19 19 21 8 6 12 4 23 8 7 3 23 18 7 4 28 3 1",
+    "chars": "<s> a n d _ t h e s e _ h a r d y _ t r a v e l e r s _ a r e _ n o t _ u n a p p r e c i a t e d _ t o d a y _ </s>",
+    "char_seq_len": 56
+}

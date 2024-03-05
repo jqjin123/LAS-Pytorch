@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MWVW0/SI846.WAV",
+    "char_map_seq": "2 23 11 12 22 3 5 21 12 17 10 22 3 24 22 3 23 18 3 23 11 8 3 20 24 8 22 23 12 18 17 3 18 9 3 4 6 6 21 8 7 12 23 4 23 12 18 17 3 18 9 3 4 21 23 3 22 6 11 18 18 15 22 3 12 17 3 10 8 17 8 21 4 15 3 1",
+    "chars": "<s> t h i s _ b r i n g s _ u s _ t o _ t h e _ q u e s t i o n _ o f _ a c c r e d i t a t i o n _ o f _ a r t _ s c h o o l s _ i n _ g e n e r a l _ </s>",
+    "char_seq_len": 76
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FDAS1/SX291.WAV",
+    "char_map_seq": "2 23 11 8 3 4 25 4 15 4 17 6 11 8 3 23 21 12 10 10 8 21 8 7 3 4 3 16 12 17 18 21 3 8 4 21 23 11 20 24 4 14 8 3 1",
+    "chars": "<s> t h e _ a v a l a n c h e _ t r i g g e r e d _ a _ m i n o r _ e a r t h q u a k e _ </s>",
+    "char_seq_len": 45
+}

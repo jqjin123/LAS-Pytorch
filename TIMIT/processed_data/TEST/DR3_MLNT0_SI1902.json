@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MLNT0/SI1902.WAV",
+    "char_map_seq": "2 23 11 8 3 19 24 15 22 12 17 10 3 10 15 18 26 3 18 9 3 4 3 6 12 10 4 21 8 23 23 8 3 1",
+    "chars": "<s> t h e _ p u l s i n g _ g l o w _ o f _ a _ c i g a r e t t e _ </s>",
+    "char_seq_len": 34
+}

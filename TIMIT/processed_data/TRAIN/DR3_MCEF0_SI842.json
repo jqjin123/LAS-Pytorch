@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MCEF0/SI842.WAV",
+    "char_map_seq": "2 4 21 8 3 19 15 4 17 17 12 17 10 3 4 17 7 3 22 23 21 4 23 8 10 28 3 7 8 25 8 15 18 19 16 8 17 23 3 8 16 19 11 4 22 12 29 8 7 3 22 24 9 9 12 6 12 8 17 23 15 28 3 12 17 3 28 18 24 21 3 6 18 16 19 4 17 28 3 1",
+    "chars": "<s> a r e _ p l a n n i n g _ a n d _ s t r a t e g y _ d e v e l o p m e n t _ e m p h a s i z e d _ s u f f i c i e n t l y _ i n _ y o u r _ c o m p a n y _ </s>",
+    "char_seq_len": 80
+}

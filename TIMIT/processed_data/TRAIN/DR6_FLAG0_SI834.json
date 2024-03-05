@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FLAG0/SI834.WAV",
+    "char_map_seq": "2 12 23 3 11 4 22 3 16 24 15 23 12 19 15 8 3 12 16 19 15 12 6 4 23 12 18 17 22 3 4 17 7 3 19 18 22 22 12 5 15 8 3 11 8 4 7 4 6 11 8 22 3 9 18 21 3 28 18 24 21 3 16 4 21 14 8 23 12 17 10 3 19 21 18 10 21 4 16 3 1",
+    "chars": "<s> i t _ h a s _ m u l t i p l e _ i m p l i c a t i o n s _ a n d _ p o s s i b l e _ h e a d a c h e s _ f o r _ y o u r _ m a r k e t i n g _ p r o g r a m _ </s>",
+    "char_seq_len": 81
+}

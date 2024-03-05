@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MKXL0/SX285.WAV",
+    "char_map_seq": "2 21 12 6 11 3 19 24 21 6 11 4 22 8 7 3 22 8 25 8 21 4 15 3 22 12 10 17 8 7 3 15 12 23 11 18 10 21 4 19 11 22 3 1",
+    "chars": "<s> r i c h _ p u r c h a s e d _ s e v e r a l _ s i g n e d _ l i t h o g r a p h s _ </s>",
+    "char_seq_len": 44
+}

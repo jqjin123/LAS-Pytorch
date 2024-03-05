@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FNLP0/SI678.WAV",
+    "char_map_seq": "2 22 4 15 25 4 23 12 18 17 3 21 8 6 18 17 22 12 7 8 21 8 7 3 1",
+    "chars": "<s> s a l v a t i o n _ r e c o n s i d e r e d _ </s>",
+    "char_seq_len": 25
+}

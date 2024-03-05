@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MDSC0/SX48.WAV",
+    "char_map_seq": "2 10 21 4 17 7 16 18 23 11 8 21 3 18 24 23 10 21 8 26 3 11 8 21 3 24 19 5 21 12 17 10 12 17 10 3 12 17 3 19 8 23 23 12 6 18 4 23 22 3 1",
+    "chars": "<s> g r a n d m o t h e r _ o u t g r e w _ h e r _ u p b r i n g i n g _ i n _ p e t t i c o a t s _ </s>",
+    "char_seq_len": 51
+}

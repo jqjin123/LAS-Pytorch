@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MPPC0/SI782.WAV",
+    "char_map_seq": "2 23 11 8 3 7 8 6 14 12 17 10 3 12 22 3 20 24 4 21 23 8 21 3 12 17 6 11 3 16 4 11 18 10 4 17 28 3 16 4 21 12 17 8 3 19 15 28 26 18 18 7 3 1",
+    "chars": "<s> t h e _ d e c k i n g _ i s _ q u a r t e r _ i n c h _ m a h o g a n y _ m a r i n e _ p l y w o o d _ </s>",
+    "char_seq_len": 54
+}

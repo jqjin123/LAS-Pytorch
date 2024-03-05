@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FRAM1/SX190.WAV",
+    "char_map_seq": "2 22 8 21 25 8 3 23 11 8 3 6 18 15 8 22 15 4 26 3 4 9 23 8 21 3 12 3 4 7 7 3 23 11 8 3 18 12 15 3 1",
+    "chars": "<s> s e r v e _ t h e _ c o l e s l a w _ a f t e r _ i _ a d d _ t h e _ o i l _ </s>",
+    "char_seq_len": 41
+}

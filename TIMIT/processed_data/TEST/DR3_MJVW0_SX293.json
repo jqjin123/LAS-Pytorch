@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MJVW0/SX293.WAV",
+    "char_map_seq": "2 19 15 8 4 22 8 3 23 4 14 8 3 23 11 12 22 3 7 12 21 23 28 3 23 4 5 15 8 3 6 15 18 23 11 3 23 18 3 23 11 8 3 6 15 8 4 17 8 21 22 3 9 18 21 3 16 8 3 1",
+    "chars": "<s> p l e a s e _ t a k e _ t h i s _ d i r t y _ t a b l e _ c l o t h _ t o _ t h e _ c l e a n e r s _ f o r _ m e _ </s>",
+    "char_seq_len": 60
+}

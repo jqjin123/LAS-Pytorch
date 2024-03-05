@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MARW0/SX349.WAV",
+    "char_map_seq": "2 23 11 8 3 19 21 8 22 6 11 18 18 15 8 21 3 6 18 24 15 7 17 0 23 3 25 8 21 5 4 15 12 29 8 3 11 8 21 3 9 8 8 15 12 17 10 22 3 4 5 18 24 23 3 23 11 8 3 8 16 8 21 10 8 17 6 28 3 6 18 17 7 12 23 12 18 17 22 3 1",
+    "chars": "<s> t h e _ p r e s c h o o l e r _ c o u l d n ' t _ v e r b a l i z e _ h e r _ f e e l i n g s _ a b o u t _ t h e _ e m e r g e n c y _ c o n d i t i o n s _ </s>",
+    "char_seq_len": 81
+}

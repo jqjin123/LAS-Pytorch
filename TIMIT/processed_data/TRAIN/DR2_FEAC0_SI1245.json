@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FEAC0/SI1245.WAV",
+    "char_map_seq": "2 18 5 13 8 6 23 3 4 3 25 12 15 15 4 10 8 3 6 21 18 22 22 21 18 4 7 22 3 1",
+    "chars": "<s> o b j e c t _ a _ v i l l a g e _ c r o s s r o a d s _ </s>",
+    "char_seq_len": 30
+}

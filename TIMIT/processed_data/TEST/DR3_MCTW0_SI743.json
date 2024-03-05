@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR3/MCTW0/SI743.WAV",
+    "char_map_seq": "2 7 18 3 5 24 28 3 4 15 15 3 19 24 21 19 18 22 8 3 16 24 10 22 3 18 21 3 6 24 19 22 3 1",
+    "chars": "<s> d o _ b u y _ a l l _ p u r p o s e _ m u g s _ o r _ c u p s _ </s>",
+    "char_seq_len": 34
+}

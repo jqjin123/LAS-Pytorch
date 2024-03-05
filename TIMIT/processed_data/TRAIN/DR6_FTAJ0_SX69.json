@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/FTAJ0/SX69.WAV",
+    "char_map_seq": "2 8 4 23 3 28 18 24 21 3 21 4 12 22 12 17 22 3 18 24 23 7 18 18 21 22 3 18 17 3 23 11 8 3 19 18 21 6 11 3 22 23 8 19 22 3 1",
+    "chars": "<s> e a t _ y o u r _ r a i s i n s _ o u t d o o r s _ o n _ t h e _ p o r c h _ s t e p s _ </s>",
+    "char_seq_len": 47
+}

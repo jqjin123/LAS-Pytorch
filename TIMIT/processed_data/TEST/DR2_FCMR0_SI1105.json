@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/FCMR0/SI1105.WAV",
+    "char_map_seq": "2 26 11 4 23 3 18 5 22 8 22 22 12 18 17 22 3 11 4 7 3 22 11 8 3 19 12 6 14 8 7 3 24 19 3 7 24 21 12 17 10 3 23 11 8 22 8 3 15 18 17 10 3 17 12 10 11 23 22 3 18 9 3 23 4 15 14 3 1",
+    "chars": "<s> w h a t _ o b s e s s i o n s _ h a d _ s h e _ p i c k e d _ u p _ d u r i n g _ t h e s e _ l o n g _ n i g h t s _ o f _ t a l k _ </s>",
+    "char_seq_len": 69
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MTLS0/SI2000.WAV",
+    "char_map_seq": "2 26 8 3 6 4 17 3 10 8 23 3 12 23 3 12 9 3 26 8 3 7 12 10 3 11 8 3 22 4 12 7 3 19 4 23 12 8 17 23 15 28 3 1",
+    "chars": "<s> w e _ c a n _ g e t _ i t _ i f _ w e _ d i g _ h e _ s a i d _ p a t i e n t l y _ </s>",
+    "char_seq_len": 44
+}

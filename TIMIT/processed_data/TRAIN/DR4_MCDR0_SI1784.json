@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MCDR0/SI1784.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 26 4 22 3 4 3 10 21 24 17 23 3 6 24 21 12 18 24 22 15 28 3 12 17 4 21 23 12 6 24 15 4 23 8 3 15 12 14 8 3 23 11 4 23 3 18 9 3 4 17 3 4 17 12 16 4 15 3 12 17 3 19 4 12 17 3 1",
+    "chars": "<s> t h e r e _ w a s _ a _ g r u n t _ c u r i o u s l y _ i n a r t i c u l a t e _ l i k e _ t h a t _ o f _ a n _ a n i m a l _ i n _ p a i n _ </s>",
+    "char_seq_len": 74
+}

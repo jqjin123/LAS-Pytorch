@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MNET0/SI2076.WAV",
+    "char_map_seq": "2 28 18 24 3 10 18 17 17 4 3 10 12 25 8 3 16 8 3 4 3 7 21 12 17 14 3 9 8 15 15 4 3 1",
+    "chars": "<s> y o u _ g o n n a _ g i v e _ m e _ a _ d r i n k _ f e l l a _ </s>",
+    "char_seq_len": 34
+}

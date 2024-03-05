@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MMCC0/SI1338.WAV",
+    "char_map_seq": "2 17 18 3 4 17 23 12 10 8 17 3 26 4 22 3 7 8 23 8 6 23 4 5 15 8 3 12 17 3 6 8 21 23 4 12 17 3 7 4 21 14 3 22 19 11 8 21 12 6 4 15 3 4 21 8 4 22 3 12 17 3 16 18 22 23 3 6 8 15 15 22 3 1",
+    "chars": "<s> n o _ a n t i g e n _ w a s _ d e t e c t a b l e _ i n _ c e r t a i n _ d a r k _ s p h e r i c a l _ a r e a s _ i n _ m o s t _ c e l l s _ </s>",
+    "char_seq_len": 74
+}

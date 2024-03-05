@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/FMJB0/SI547.WAV",
+    "char_map_seq": "2 26 18 24 15 7 3 4 3 5 15 24 8 3 9 8 4 23 11 8 21 3 12 17 3 4 3 16 4 17 0 22 3 11 4 23 3 16 4 14 8 3 11 12 16 3 11 4 19 19 28 3 4 15 15 3 7 4 28 3 1",
+    "chars": "<s> w o u l d _ a _ b l u e _ f e a t h e r _ i n _ a _ m a n ' s _ h a t _ m a k e _ h i m _ h a p p y _ a l l _ d a y _ </s>",
+    "char_seq_len": 61
+}

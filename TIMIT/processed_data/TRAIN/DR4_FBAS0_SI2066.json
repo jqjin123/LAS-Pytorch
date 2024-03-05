@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FBAS0/SI2066.WAV",
+    "char_map_seq": "2 11 8 3 22 4 26 3 4 3 19 12 17 23 3 22 12 29 8 7 3 16 4 17 3 26 12 23 11 3 4 3 10 21 4 28 12 17 10 3 22 19 4 7 8 3 5 8 4 21 7 3 4 17 7 3 4 17 3 24 17 24 22 24 4 15 15 28 3 15 4 21 10 8 3 11 8 4 7 3 1",
+    "chars": "<s> h e _ s a w _ a _ p i n t _ s i z e d _ m a n _ w i t h _ a _ g r a y i n g _ s p a d e _ b e a r d _ a n d _ a n _ u n u s u a l l y _ l a r g e _ h e a d _ </s>",
+    "char_seq_len": 81
+}

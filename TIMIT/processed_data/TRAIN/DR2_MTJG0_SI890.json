@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MTJG0/SI890.WAV",
+    "char_map_seq": "2 5 24 23 3 26 11 28 3 12 22 3 12 23 3 17 8 6 8 22 22 4 21 28 3 23 18 3 21 8 19 21 18 7 24 6 8 3 23 11 8 3 21 8 23 12 17 4 15 3 12 16 4 10 8 3 26 12 23 11 12 17 3 23 11 8 3 5 21 4 12 17 3 1",
+    "chars": "<s> b u t _ w h y _ i s _ i t _ n e c e s s a r y _ t o _ r e p r o d u c e _ t h e _ r e t i n a l _ i m a g e _ w i t h i n _ t h e _ b r a i n _ </s>",
+    "char_seq_len": 74
+}

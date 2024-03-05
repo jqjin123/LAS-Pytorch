@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MEDR0/SI2004.WAV",
+    "char_map_seq": "2 22 11 8 3 11 4 7 3 13 24 16 19 8 7 3 4 26 4 28 3 9 21 18 16 3 11 12 22 3 22 11 28 3 23 18 24 6 11 3 15 12 14 8 3 4 3 6 4 23 3 6 18 17 9 21 18 17 23 8 7 3 5 28 3 4 3 22 12 7 8 26 12 17 7 8 21 3 1",
+    "chars": "<s> s h e _ h a d _ j u m p e d _ a w a y _ f r o m _ h i s _ s h y _ t o u c h _ l i k e _ a _ c a t _ c o n f r o n t e d _ b y _ a _ s i d e w i n d e r _ </s>",
+    "char_seq_len": 79
+}

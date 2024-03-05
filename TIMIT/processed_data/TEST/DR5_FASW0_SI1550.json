@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/FASW0/SI1550.WAV",
+    "char_map_seq": "2 16 4 28 5 8 3 23 18 7 4 28 0 15 15 3 5 8 3 4 3 10 18 18 7 3 17 8 26 22 3 7 4 28 3 1",
+    "chars": "<s> m a y b e _ t o d a y ' l l _ b e _ a _ g o o d _ n e w s _ d a y _ </s>",
+    "char_seq_len": 36
+}

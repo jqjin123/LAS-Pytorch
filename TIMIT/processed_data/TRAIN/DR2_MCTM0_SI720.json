@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MCTM0/SI720.WAV",
+    "char_map_seq": "2 9 12 15 8 3 23 18 3 4 3 22 16 18 18 23 11 3 9 12 17 12 22 11 3 1",
+    "chars": "<s> f i l e _ t o _ a _ s m o o t h _ f i n i s h _ </s>",
+    "char_seq_len": 26
+}

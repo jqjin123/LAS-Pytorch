@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/MGRP0/SX57.WAV",
+    "char_map_seq": "2 23 11 8 3 19 21 18 26 15 8 21 3 26 18 21 8 3 4 3 22 14 12 3 16 4 22 14 3 9 18 21 3 7 12 22 10 24 12 22 8 3 1",
+    "chars": "<s> t h e _ p r o w l e r _ w o r e _ a _ s k i _ m a s k _ f o r _ d i s g u i s e _ </s>",
+    "char_seq_len": 43
+}

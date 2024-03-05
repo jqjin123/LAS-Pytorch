@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR7/MGRT0/SX10.WAV",
+    "char_map_seq": "2 4 21 8 3 28 18 24 21 3 10 21 4 7 8 22 3 11 12 10 11 8 21 3 18 21 3 15 18 26 8 21 3 23 11 4 17 3 17 4 17 6 28 0 22 3 1",
+    "chars": "<s> a r e _ y o u r _ g r a d e s _ h i g h e r _ o r _ l o w e r _ t h a n _ n a n c y ' s _ </s>",
+    "char_seq_len": 47
+}

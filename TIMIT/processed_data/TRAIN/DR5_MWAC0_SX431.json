@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR5/MWAC0/SX431.WAV",
+    "char_map_seq": "2 23 11 8 3 9 12 9 23 11 3 13 4 21 3 6 18 17 23 4 12 17 22 3 5 12 10 3 13 24 12 6 28 3 19 8 4 6 11 8 22 3 1",
+    "chars": "<s> t h e _ f i f t h _ j a r _ c o n t a i n s _ b i g _ j u i c y _ p e a c h e s _ </s>",
+    "char_seq_len": 43
+}

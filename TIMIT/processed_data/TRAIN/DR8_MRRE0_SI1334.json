@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MRRE0/SI1334.WAV",
+    "char_map_seq": "2 16 12 6 21 18 22 6 18 19 12 6 4 15 15 28 3 23 11 8 21 8 3 26 4 22 3 8 16 19 11 28 22 8 16 4 3 9 12 5 21 18 22 12 22 3 4 17 7 3 25 4 22 6 24 15 4 21 3 6 18 17 10 8 22 23 12 18 17 3 1",
+    "chars": "<s> m i c r o s c o p i c a l l y _ t h e r e _ w a s _ e m p h y s e m a _ f i b r o s i s _ a n d _ v a s c u l a r _ c o n g e s t i o n _ </s>",
+    "char_seq_len": 71
+}

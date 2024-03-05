@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MEJS0/SX250.WAV",
+    "char_map_seq": "2 23 11 8 3 5 18 22 23 18 17 3 5 4 15 15 8 23 3 18 25 8 21 6 4 16 8 3 23 11 8 12 21 3 9 24 17 7 12 17 10 3 22 11 18 21 23 4 10 8 3 1",
+    "chars": "<s> t h e _ b o s t o n _ b a l l e t _ o v e r c a m e _ t h e i r _ f u n d i n g _ s h o r t a g e _ </s>",
+    "char_seq_len": 52
+}

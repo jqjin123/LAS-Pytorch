@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/MROA0/SX227.WAV",
+    "char_map_seq": "2 12 23 0 22 3 11 8 4 15 23 11 12 8 21 3 23 18 3 6 18 18 14 3 26 12 23 11 18 24 23 3 22 24 10 4 21 3 1",
+    "chars": "<s> i t ' s _ h e a l t h i e r _ t o _ c o o k _ w i t h o u t _ s u g a r _ </s>",
+    "char_seq_len": 39
+}

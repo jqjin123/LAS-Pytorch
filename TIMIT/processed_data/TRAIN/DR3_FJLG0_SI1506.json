@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/FJLG0/SI1506.WAV",
+    "char_map_seq": "2 23 11 8 28 3 26 8 21 8 3 19 24 21 22 24 12 17 10 3 11 12 16 3 1",
+    "chars": "<s> t h e y _ w e r e _ p u r s u i n g _ h i m _ </s>",
+    "char_seq_len": 25
+}

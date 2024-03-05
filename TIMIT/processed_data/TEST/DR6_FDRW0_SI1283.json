@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/FDRW0/SI1283.WAV",
+    "char_map_seq": "2 15 12 25 12 17 10 3 12 17 3 4 3 22 11 8 15 23 8 21 3 23 11 8 3 21 4 7 12 18 4 6 23 12 25 12 23 28 3 18 9 3 9 4 15 15 18 24 23 3 7 8 6 4 28 22 3 21 4 19 12 7 15 28 3 4 23 3 9 12 21 22 23 3 1",
+    "chars": "<s> l i v i n g _ i n _ a _ s h e l t e r _ t h e _ r a d i o a c t i v i t y _ o f _ f a l l o u t _ d e c a y s _ r a p i d l y _ a t _ f i r s t _ </s>",
+    "char_seq_len": 75
+}

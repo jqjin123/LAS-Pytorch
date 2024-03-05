@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/MPGR0/SX150.WAV",
+    "char_map_seq": "2 25 12 8 23 17 4 16 8 22 8 3 6 24 12 22 12 17 8 3 12 22 3 8 27 20 24 12 22 12 23 8 3 1",
+    "chars": "<s> v i e t n a m e s e _ c u i s i n e _ i s _ e x q u i s i t e _ </s>",
+    "char_seq_len": 34
+}

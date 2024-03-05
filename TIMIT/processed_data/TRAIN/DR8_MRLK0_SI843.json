@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR8/MRLK0/SI843.WAV",
+    "char_map_seq": "2 23 18 3 5 8 10 12 17 3 26 12 23 11 3 26 11 4 23 3 12 22 3 4 17 3 12 17 23 8 21 12 18 21 3 7 8 22 12 10 17 8 21 3 1",
+    "chars": "<s> t o _ b e g i n _ w i t h _ w h a t _ i s _ a n _ i n t e r i o r _ d e s i g n e r _ </s>",
+    "char_seq_len": 45
+}

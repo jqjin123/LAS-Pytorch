@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR3/MKXL0/SI1815.WAV",
+    "char_map_seq": "2 16 12 14 8 3 26 4 22 3 18 9 3 15 8 10 4 15 3 4 10 8 3 4 17 7 3 19 21 8 22 24 16 8 7 3 4 5 15 8 3 23 18 3 7 8 9 8 17 7 3 11 12 16 22 8 15 9 3 12 17 3 23 11 8 3 6 15 12 17 6 11 8 22 3 1",
+    "chars": "<s> m i k e _ w a s _ o f _ l e g a l _ a g e _ a n d _ p r e s u m e d _ a b l e _ t o _ d e f e n d _ h i m s e l f _ i n _ t h e _ c l i n c h e s _ </s>",
+    "char_seq_len": 76
+}

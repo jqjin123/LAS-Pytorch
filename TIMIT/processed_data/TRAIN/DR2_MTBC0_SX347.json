@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MTBC0/SX347.WAV",
+    "char_map_seq": "2 23 11 8 3 19 4 23 12 8 17 23 3 4 17 7 3 23 11 8 3 22 24 21 10 8 18 17 3 4 21 8 3 5 18 23 11 3 21 8 6 24 19 8 21 4 23 12 17 10 3 9 21 18 16 3 23 11 8 3 15 8 17 10 23 11 28 3 18 19 8 21 4 23 12 18 17 3 1",
+    "chars": "<s> t h e _ p a t i e n t _ a n d _ t h e _ s u r g e o n _ a r e _ b o t h _ r e c u p e r a t i n g _ f r o m _ t h e _ l e n g t h y _ o p e r a t i o n _ </s>",
+    "char_seq_len": 79
+}

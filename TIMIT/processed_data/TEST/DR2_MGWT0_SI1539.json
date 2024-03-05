@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR2/MGWT0/SI1539.WAV",
+    "char_map_seq": "2 9 12 22 23 22 3 19 24 16 16 8 15 8 7 3 11 12 16 3 4 22 3 11 8 3 22 23 4 10 10 8 21 8 7 3 9 18 21 26 4 21 7 3 1",
+    "chars": "<s> f i s t s _ p u m m e l e d _ h i m _ a s _ h e _ s t a g g e r e d _ f o r w a r d _ </s>",
+    "char_seq_len": 45
+}

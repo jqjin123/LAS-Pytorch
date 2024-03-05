@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR6/MEJL0/SI962.WAV",
+    "char_map_seq": "2 15 12 14 8 3 4 3 9 4 12 21 3 17 24 16 5 8 21 3 18 9 3 5 18 18 23 15 8 10 10 8 21 22 3 11 8 3 7 12 22 15 12 14 8 7 3 4 15 6 18 11 18 15 3 1",
+    "chars": "<s> l i k e _ a _ f a i r _ n u m b e r _ o f _ b o o t l e g g e r s _ h e _ d i s l i k e d _ a l c o h o l _ </s>",
+    "char_seq_len": 56
+}

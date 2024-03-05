@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR5/MSFH1/SI1900.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 26 18 24 15 7 3 22 23 12 15 15 3 5 8 3 19 15 8 17 23 28 3 18 9 3 16 18 16 8 17 23 22 3 18 9 3 21 8 10 21 8 23 3 4 17 7 3 22 4 7 17 8 22 22 3 4 17 7 3 10 24 12 15 23 28 3 21 8 15 12 8 9 3 1",
+    "chars": "<s> t h e r e _ w o u l d _ s t i l l _ b e _ p l e n t y _ o f _ m o m e n t s _ o f _ r e g r e t _ a n d _ s a d n e s s _ a n d _ g u i l t y _ r e l i e f _ </s>",
+    "char_seq_len": 81
+}

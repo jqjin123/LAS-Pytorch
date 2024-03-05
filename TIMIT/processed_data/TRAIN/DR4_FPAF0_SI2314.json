@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR4/FPAF0/SI2314.WAV",
+    "char_map_seq": "2 5 24 23 3 8 25 8 21 28 5 18 7 28 3 6 4 15 15 22 3 28 18 24 3 13 24 17 12 18 21 3 1",
+    "chars": "<s> b u t _ e v e r y b o d y _ c a l l s _ y o u _ j u n i o r _ </s>",
+    "char_seq_len": 33
+}

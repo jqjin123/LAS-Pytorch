@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR7/FREH0/SI1315.WAV",
+    "char_map_seq": "2 23 11 8 21 8 3 4 21 8 3 22 8 25 8 21 4 15 3 22 18 24 21 6 8 22 3 18 9 3 8 25 12 7 8 17 6 8 3 18 17 3 23 11 8 3 16 12 6 21 18 16 8 23 8 18 21 12 23 8 3 8 17 25 12 21 18 17 16 8 17 23 3 1",
+    "chars": "<s> t h e r e _ a r e _ s e v e r a l _ s o u r c e s _ o f _ e v i d e n c e _ o n _ t h e _ m i c r o m e t e o r i t e _ e n v i r o n m e n t _ </s>",
+    "char_seq_len": 74
+}

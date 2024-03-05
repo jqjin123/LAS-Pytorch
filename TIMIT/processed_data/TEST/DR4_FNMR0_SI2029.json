@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FNMR0/SI2029.WAV",
+    "char_map_seq": "2 4 3 17 18 23 8 3 18 9 3 4 26 8 3 6 4 16 8 3 12 17 23 18 3 11 12 22 3 25 18 12 6 8 3 1",
+    "chars": "<s> a _ n o t e _ o f _ a w e _ c a m e _ i n t o _ h i s _ v o i c e _ </s>",
+    "char_seq_len": 36
+}

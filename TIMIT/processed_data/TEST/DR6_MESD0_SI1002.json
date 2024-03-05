@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR6/MESD0/SI1002.WAV",
+    "char_map_seq": "2 26 8 3 19 21 18 7 24 6 8 3 19 8 4 17 24 23 3 18 12 15 3 5 24 23 3 23 18 3 4 3 16 24 6 11 3 10 21 8 4 23 8 21 3 8 27 23 8 17 23 3 26 8 3 8 4 23 3 23 11 8 3 8 17 23 12 21 8 3 22 8 8 7 3 1",
+    "chars": "<s> w e _ p r o d u c e _ p e a n u t _ o i l _ b u t _ t o _ a _ m u c h _ g r e a t e r _ e x t e n t _ w e _ e a t _ t h e _ e n t i r e _ s e e d _ </s>",
+    "char_seq_len": 76
+}

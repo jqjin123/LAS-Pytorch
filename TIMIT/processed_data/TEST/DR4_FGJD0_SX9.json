@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FGJD0/SX9.WAV",
+    "char_map_seq": "2 26 11 8 21 8 3 26 8 21 8 3 28 18 24 3 26 11 12 15 8 3 26 8 3 26 8 21 8 3 4 26 4 28 3 1",
+    "chars": "<s> w h e r e _ w e r e _ y o u _ w h i l e _ w e _ w e r e _ a w a y _ </s>",
+    "char_seq_len": 36
+}

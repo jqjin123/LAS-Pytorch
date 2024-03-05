@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR4/FCRH0/SI458.WAV",
+    "char_map_seq": "2 23 11 12 22 3 12 22 3 17 18 23 3 4 3 19 21 18 10 21 4 16 3 18 9 3 22 18 6 12 4 15 12 29 8 7 3 16 8 7 12 6 12 17 8 3 1",
+    "chars": "<s> t h i s _ i s _ n o t _ a _ p r o g r a m _ o f _ s o c i a l i z e d _ m e d i c i n e _ </s>",
+    "char_seq_len": 47
+}

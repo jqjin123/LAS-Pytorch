@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR2/MJAE0/SI1999.WAV",
+    "char_map_seq": "2 22 11 8 3 4 22 14 8 7 3 22 16 18 15 7 8 21 12 17 10 15 28 3 1",
+    "chars": "<s> s h e _ a s k e d _ s m o l d e r i n g l y _ </s>",
+    "char_seq_len": 25
+}
